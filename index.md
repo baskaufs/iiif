@@ -46,6 +46,10 @@ https://storiiies.cogapp.com/viewer?manifest=
 
 For example:
 
+<https://storiiies.cogapp.com/viewer?manifest=https://storiiies.cogapp.com/holbein/manifest.json>
+
+Manifest served from our website:
+
 <https://storiiies.cogapp.com/viewer?manifest=https://baskaufs.github.io/iiif/baskauf/ambassadors_manifest.json>
 
 NOTE: In this example, the annotations are in a separate file referenced from the manifest:
