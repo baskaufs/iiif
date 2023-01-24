@@ -1,0 +1,68 @@
+
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://storiiies.cogapp.com/holbein/manifest.json",
+	"@type": "sc:Manifest",
+	"label": {
+		"@value": "Holbein's 'The Ambassadors'",
+		"@language": "en"
+	},
+	"description": {
+		"@value": "Let's explore some of the symbolism and features in this iconic painting",
+		"@language": "en"
+	},
+	"viewingHint": "paged",
+	"viewingDirection": "left-to-right",
+	"attribution": "Copyright National Gallery, London; used under license.",
+	"sequences": [
+		{
+			"@id": "https://storiiies.cogapp.com/holbein/sequence",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@context": "http://iiif.io/api/presentation/2/context.json",
+					"@type": "sc:Canvas",
+					"width": 30000,
+					"height": 29560,
+					"@id": "https://storiies.cogapp.com/holbein/canvas/c0",
+					"label": {
+						"@value": "The Ambassadors",
+						"@language": "en"
+					},
+					"description": {
+						"@value": "The Ambassadors by Hans Holbein the Younger (National Gallery, London) was created in 1533, the year that Elizabeth I was born. A striking life-scale double portrait, it also depicts numerous meticulously rendered objects and includes a rare and much-cited example of anamorphosis. The meaning of the painting and the objects it depicts has been the cause of much debate.",
+						"@language": "en"
+					},
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"@id": "https://storiies.cogapp.com/holbein/image/i0",
+							"motivation": "sc:painting",
+							"on": "https://storiies.cogapp.com/holbein/canvas/c0",
+							"resource": {
+								"@id": "https://images.cogapp.com/iiif/holbein_big_p.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 30000,
+								"height": 29560,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/1/level2.json",
+									"@id": "https://images.cogapp.com/iiif/holbein_big_p.tif"
+								}
+							}
+						}
+					],
+          "otherContent": [
+            {
+              "@id": "ambassadors_annotations.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+				}
+			]
+		}
+	]
+
+
+}
