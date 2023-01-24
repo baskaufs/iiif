@@ -50,5 +50,5 @@ For example:
 
 NOTE: In this example, the annotations are in a separate file referenced from the manifest:
 
-<https://storiiies.cogapp.com/viewer?manifest=https://baskaufs.github.io/iiif/baskauf/ambassador_annotations.json>
+<https://baskaufs.github.io/iiif/baskauf/ambassador_annotations.json>
 

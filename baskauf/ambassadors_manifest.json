@@ -55,7 +55,7 @@
 					],
           "otherContent": [
             {
-              "@id": "ambassadors_annotations.json",
+              "@id": "https://baskaufs.github.io/iiif/baskauf/ambassador_annotations.json",
               "@type": "sc:AnnotationList"
             }
           ]
