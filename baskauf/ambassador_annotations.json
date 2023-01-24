@@ -9,7 +9,7 @@
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "When this double portrait was painted, Jean de Dinteville, Seigneur de Polisy, was ambassador to London from the court of the French king, François I."
+        "chars": "Anybody want to stare me down?!"
       },
       "on": "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=6270,3903,2250,2250"
     },
@@ -19,7 +19,7 @@
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "The globe (bottom shelf) marks Dinteville's château at Polisy."
+        "chars": "This is a genuinely earth-shattering painting!"
       },
       "on": "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=12288,16567,2250,2250"
     },
