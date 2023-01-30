@@ -2,7 +2,7 @@
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1973/1973.005.tif.json",
         "@type": "sc:Manifest",
-        "label": "Caney Fork Cabin",
+        "label": "Kentucky Home?",
         "description": "painting by Gilbert Gaul",
         "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
         "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
@@ -17,7 +17,7 @@
             },
             {
             "label": "Creation Year",
-            "value": "1914"
+            "value": "1960"
             },
             {
             "label": "Title",
