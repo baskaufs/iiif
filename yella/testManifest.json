@@ -2,8 +2,8 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0634P.json",
     "@type": "sc:Manifest",
-    "label": "Ski Jumpers",
-    "description": "painting by Ernst Ludwig Kirchner",
+    "label": "Humans",
+    "description": "painting by Steve",
     "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
     "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
     "metadata": [
