@@ -1,0 +1,66 @@
+{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.048.json",
+        "@type": "sc:Manifest",
+        "label": "Jeune Fille à La Chevelure Longue (Young Girl with Long Hair)",
+        "description": "print by François Aman-Jean",
+             "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
+            "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+        "metadata": [
+            {
+            "label": "Artist",
+            "value": "François Aman-Jean"
+            },
+            {
+            "label": "Accession Number",
+            "value": "1970.048"
+            },
+            {
+            "label": "Creation Year",
+            "value": "1898"
+            },
+            {
+            "label": "Title",
+            "value": "Jeune Fille à La Chevelure Longue (Young Girl with Long Hair)"
+            }
+        ],
+        "viewingDirection": "left-to-right",
+        "viewingHint": "individuals",
+        "sequences": [{
+            "@type": "sc:Sequence",
+            "label": "Jeune Fille à La Chevelure Longue (Young Girl with Long Hair)",
+            "canvases": [{
+                "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.048.json_1",
+                "@type": "sc:Canvas",
+                "width": 3660,
+                "height": 2981,
+                "label": "Jeune Fille à La Chevelure Longue (Young Girl with Long Hair)",
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.048.json#resource",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 3660,
+                        "height": 2981,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1970%2F1970.048.tif",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                            }
+                        },
+                    "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.048.json_1"
+                    }],
+                "thumbnail": {
+                    "@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1970%2F1970.048.tif/full/!100,100/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "width": 100,
+                    "height": 100
+                    }
+                }]
+            }
+        ]
+    }
+    
