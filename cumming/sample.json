@@ -2,14 +2,14 @@
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1971/1971.002.tif.json",
         "@type": "sc:Manifest",
-        "label": "The Jungfrau",
+        "label": "My Cool Mountain",
         "description": "painting by Edward Theodore Compton",
         "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
         "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
         "metadata": [
             {
             "label": "Artist",
-            "value": "Compton, Edward Theodore (British painter, 1849-1921)"
+            "value": "Dani Cumming"
             },
             {
             "label": "Accession Number",
@@ -17,7 +17,7 @@
             },
             {
             "label": "Creation Year",
-            "value": "1887"
+            "value": "1900"
             },
             {
             "label": "Title",
