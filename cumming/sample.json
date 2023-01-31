@@ -1,0 +1,66 @@
+{
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1971/1971.002.tif.json",
+        "@type": "sc:Manifest",
+        "label": "The Jungfrau",
+        "description": "painting by Edward Theodore Compton",
+        "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
+        "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+        "metadata": [
+            {
+            "label": "Artist",
+            "value": "Compton, Edward Theodore (British painter, 1849-1921)"
+            },
+            {
+            "label": "Accession Number",
+            "value": "1971.002"
+            },
+            {
+            "label": "Creation Year",
+            "value": "1887"
+            },
+            {
+            "label": "Title",
+            "value": "The Jungfrau"
+            }
+        ],
+        "viewingDirection": "left-to-right",
+        "viewingHint": "individuals",
+        "sequences": [{
+            "@type": "sc:Sequence",
+            "label": "The Jungfrau",
+            "canvases": [{
+                "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1971/1971.002.tif.json#canvas",
+                "@type": "sc:Canvas",
+                "width": 4401,
+                "height": 2925,
+                "label": "The Jungfrau",
+                "images": [{
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1971/1971.002.tif.json#resource",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 4401,
+                        "height": 2925,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1971%2F1971.002.tif",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                            }
+                        },
+                    "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1971/1971.002.tif.json#canvas"
+                    }],
+                "thumbnail": {
+                    "@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1971%2F1971.002.tif/full/!100,100/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "width": 100,
+                    "height": 100
+                    }
+                }]
+            }
+        ]
+    }
+    
