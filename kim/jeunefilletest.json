@@ -2,14 +2,14 @@
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.048.json",
         "@type": "sc:Manifest",
-        "label": "Jeune Fille à La Chevelure Longue (Young Girl with Long Hair)",
+        "label": "Ancien Homme",
         "description": "print by François Aman-Jean",
              "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
             "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
         "metadata": [
             {
             "label": "Artist",
-            "value": "François Aman-Jean"
+            "value": "Bob Marley"
             },
             {
             "label": "Accession Number",
@@ -17,7 +17,7 @@
             },
             {
             "label": "Creation Year",
-            "value": "1898"
+            "value": "1993"
             },
             {
             "label": "Title",
