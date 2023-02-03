@@ -42,7 +42,7 @@
                 "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json_1",
                 "selector": {
                     "@type": "oa:FragmentSelector",
-                    "value": "2039,1800,1275,2442"
+                    "value": "xywh=2039,1800,1275,2442"
                 },
                 "within": {
                     "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json",
