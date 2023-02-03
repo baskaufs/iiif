@@ -65,7 +65,7 @@
                     },
                     "otherContent": [
                         {
-                          "@id": "https://baskaufs.github.io/iiif/baskauf/painter_dog_annotations.json",
+                          "@id": "https://baskaufs.github.io/iiif/baskauf/harvard_annotations.json",
                           "@type": "sc:AnnotationList"
                         }
                     ]
