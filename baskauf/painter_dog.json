@@ -1,0 +1,70 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json",
+    "@type": "sc:Manifest",
+    "label": "The Painter and His Pug",
+    "description": "print by William Hogarth",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
+    "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+    "metadata": [
+        {
+            "label": "Artist",
+            "value": "William Hogarth"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1974.027"
+        },
+        {
+            "label": "Creation Year",
+            "value": "1795"
+        },
+        {
+            "label": "Title",
+            "value": "The Painter and His Pug"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "The Painter and His Pug",
+            "canvases": [
+                {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json_1",
+                    "@type": "sc:Canvas",
+                    "width": 3373,
+                    "height": 4622,
+                    "label": "The Painter and His Pug",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json#resource",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3373,
+                                "height": 4622,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1974%2F1974.027.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json_1"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1974%2F1974.027.tif/full/!100,100/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                }
+            ]
+        }
+    ]
+}
