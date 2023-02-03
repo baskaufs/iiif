@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://storiiies.cogapp.com/holbein/annotations/list.json",
+  "@id": "https://baskaufs.github.io/iiif/baskauf/painter_dog_annotations.json",
   "@type": "sc:AnnotationList",
   "resources": [
     {
@@ -11,7 +11,7 @@
         "format": "text/plain",
         "chars": "person"
       },
-      "on": "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=286,581,2665,3646"
+      "on": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1974%2F1974.027.tif#xywh=286,581,2665,3646"
     },
     {
       "@type": "oa:Annotation",
@@ -21,7 +21,7 @@
         "format": "text/plain",
         "chars": "dog"
       },
-      "on": "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=2039,1800,1275,2442"
+      "on": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1974%2F1974.027.tif#xywh=2039,1800,1275,2442"
     }
   ]
 }
