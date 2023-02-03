@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://storiiies.cogapp.com/holbein/annotations/list.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "person"
+      },
+      "on": "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=286,581,2665,3646"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "dog"
+      },
+      "on": "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=2039,1800,1275,2442"
+    }
+  ]
+}
+
+

@@ -62,7 +62,13 @@
                         "format": "image/jpeg",
                         "width": 100,
                         "height": 100
-                    }
+                    },
+                    "otherContent": [
+                        {
+                          "@id": "https://baskaufs.github.io/iiif/baskauf/painter_dog_annotations.json",
+                          "@type": "sc:AnnotationList"
+                        }
+                    ]
                 }
             ]
         }
