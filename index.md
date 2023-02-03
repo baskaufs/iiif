@@ -126,15 +126,15 @@ Manifest URL
 
 ## Additional storiiies annotation examples
 
-Midieval Arab Horsemanship
+### Medieval Arab Horsemanship
 
 <https://storiiies.cogapp.com/viewer?manifest=https://storiiies.cogapp.com/qdl/manifest.json>
 
-Dore's "Dante meets the giants"
+### Dore's "Dante meets the giants"
 
 <https://storiiies.cogapp.com/viewer?manifest=https://storiiies.cogapp.com/dante/manifest.json>
 
-Drummand Family
+### Drummand Family
 
 This example uses annotations on multiple canvases.
 
