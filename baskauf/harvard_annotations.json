@@ -1,0 +1,61 @@
+{
+    "@context": "http://www.shared-canvas.org/ns/context.json",
+    "@id": "https://baskaufs.github.io/iiif/baskauf/harvard_annotations.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://baskaufs.github.io/iiif/baskauf/painter_dog_annotations_1.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "on": {
+                "@type": "oa:SpecificResource",
+                "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json_1",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=286,581,2665,3646"
+                },
+                "within": {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "person",
+                    "format": "text/plain"
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://baskaufs.github.io/iiif/baskauf/painter_dog_annotations_2.json",
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "on": {
+                "@type": "oa:SpecificResource",
+                "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json_1",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2039,1800,1275,2442"
+                },
+                "within": {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "dog",
+                    "format": "text/plain"
+                }
+            ]
+        }
+    ]
+}

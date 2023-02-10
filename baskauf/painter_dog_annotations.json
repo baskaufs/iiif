@@ -1,0 +1,29 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://baskaufs.github.io/iiif/baskauf/painter_dog_annotations.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "person"
+      },
+      "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json_1#xywh=286,581,2665,3646"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "dog"
+      },
+      "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1974/1974.027.json_1#xywh=2039,1800,1275,2442"
+    }
+  ]
+}
+
+
