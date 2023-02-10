@@ -1,0 +1,228 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "https://media.getty.edu/iiif/manifest/e85b3410-2527-4140-990a-51be0be2eaed", 
+  "@type": "sc:Manifest", 
+  "attribution": "<p>Images provided here are believed to be in the public domain and are available under the terms of the Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\"> Open Content Program</a>.  Texts provided here are © J. Paul Getty Trust, licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\"> CC BY 4.0</a>. Terms of use for the Getty logo can be found <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.</p>", 
+  "description": [
+    "<p>A charming and persuasive speaker, James Christie founded the fine arts auction house in London that still bears his name. He was a close friend and neighbor of Thomas Gainsborough, who painted this portrait. Gainsborough depicted the cultivated auctioneer leaning on one of the artist's own landscape paintings and holding a piece of paper in his right hand, perhaps an auction list. Christie wears a sober brown frock suit, a white linen shirt, and a formal wig. On the little finger of his left hand is a signet ring, and two pendant seals dangle from watches worn about his waist. His dress and jewelry befit a cosmopolitan English gentleman of the 1770s.   </p>\n<p>The <em>Portrait of James Christie</em> hung in a place of honor at Christie's auction house in London. The auction house was a gathering place for collectors, dealers, and fashionable society. The portrait immortalized the auctioneer and perpetuated his association with Gainsborough, who was one of England's most famous portrait painters.</p>"
+  ], 
+  "label": "Portrait of James Christie (1730 - 1803)", 
+  "license": "https://rightsstatements.org/vocab/NoC-US/1.0/", 
+  "logo": "https://www.getty.edu/global/images/getty_logo_primary_blk.png", 
+  "metadata": [
+    {
+      "label": "Artist/Maker", 
+      "value": [
+        "Thomas Gainsborough (English, 1727 - 1788)"
+      ]
+    }, 
+    {
+      "label": "Title", 
+      "value": "Portrait of James Christie (1730 - 1803)"
+    }, 
+    {
+      "label": "Date", 
+      "value": [
+        "1778"
+      ]
+    }, 
+    {
+      "label": "Material", 
+      "value": [
+        "Oil on canvas"
+      ]
+    }, 
+    {
+      "label": "Dimensions", 
+      "value": [
+        "127.6 × 102.2 cm (50 1/4 × 40 1/4 in.)"
+      ]
+    }, 
+    {
+      "label": "Accession Number", 
+      "value": [
+        "70.PA.16"
+      ]
+    }, 
+    {
+      "label": "Collection", 
+      "value": "<a href='http://www.getty.edu/art/collection/'>The J. Paul Getty Museum</a>"
+    }, 
+    {
+      "label": "Rights Statement", 
+      "value": "<p>Images provided here are believed to be in the public domain and are available under the terms of the Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\"> Open Content Program</a>.  Texts provided here are © J. Paul Getty Trust, licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\"> CC BY 4.0</a>. Terms of use for the Getty logo can be found <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.</p>"
+    }, 
+    {
+      "label": "Date Modified", 
+      "value": "2022-04-04T23:09:38.564258"
+    }
+  ], 
+  "related": "https://www.getty.edu/art/collection/object/103RAG", 
+  "seeAlso": {
+    "@id": "https://data.getty.edu/museum/collection/object/6c10e9a6-311c-4046-af68-63ac6a1bb0f2", 
+    "format": "application/ld+json", 
+    "profile": "https://static.getty.edu/contexts/linked.art/ns/v1.1.0/linked-art.json"
+  }, 
+  "sequences": [
+    {
+      "@id": "https://media.getty.edu/iiif/manifest/e85b3410-2527-4140-990a-51be0be2eaed/default", 
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "https://media.getty.edu/iiif/pres/canvas/94ecb201-b71d-4ae4-a48a-2717868cc54d.json", 
+          "@type": "sc:Canvas", 
+          "height": 9231, 
+          "images": [
+            {
+              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-94ecb201-b71d-4ae4-a48a-2717868cc54d.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://media.getty.edu/iiif/pres/canvas/94ecb201-b71d-4ae4-a48a-2717868cc54d.json", 
+              "resource": {
+                "@id": "https://media.getty.edu/iiif/image/94ecb201-b71d-4ae4-a48a-2717868cc54d/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 9231, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://media.getty.edu/iiif/image/94ecb201-b71d-4ae4-a48a-2717868cc54d", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }, 
+                "width": 7337
+              }
+            }
+          ], 
+          "label": "Main View", 
+          "license": "https://rightsstatements.org/vocab/NoC-US/1.0/", 
+          "metadata": [
+            {
+              "label": "Open Content Quality", 
+              "value": "Yes"
+            }
+          ], 
+          "thumbnail": {
+            "@id": "https://media.getty.edu/iiif/image/94ecb201-b71d-4ae4-a48a-2717868cc54d/full/!600,600/0/default.jpg", 
+            "@type": "dctypes:Image", 
+            "format": "image/jpeg", 
+            "height": 600, 
+            "label": "Main View", 
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json", 
+              "@id": "https://media.getty.edu/iiif/image/94ecb201-b71d-4ae4-a48a-2717868cc54d", 
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }, 
+            "width": 600
+          }, 
+          "width": 7337
+        }, 
+        {
+          "@id": "https://media.getty.edu/iiif/pres/canvas/88d8b5e8-7964-4b6a-87a2-2d9ccf497ea1.json", 
+          "@type": "sc:Canvas", 
+          "height": 9441, 
+          "images": [
+            {
+              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-88d8b5e8-7964-4b6a-87a2-2d9ccf497ea1.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://media.getty.edu/iiif/pres/canvas/88d8b5e8-7964-4b6a-87a2-2d9ccf497ea1.json", 
+              "resource": {
+                "@id": "https://media.getty.edu/iiif/image/88d8b5e8-7964-4b6a-87a2-2d9ccf497ea1/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 9441, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://media.getty.edu/iiif/image/88d8b5e8-7964-4b6a-87a2-2d9ccf497ea1", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }, 
+                "width": 7642
+              }
+            }
+          ], 
+          "label": "back", 
+          "license": "https://rightsstatements.org/vocab/NoC-US/1.0/", 
+          "metadata": [
+            {
+              "label": "Open Content Quality", 
+              "value": "Yes"
+            }
+          ], 
+          "thumbnail": {
+            "@id": "https://media.getty.edu/iiif/image/88d8b5e8-7964-4b6a-87a2-2d9ccf497ea1/full/!600,600/0/default.jpg", 
+            "@type": "dctypes:Image", 
+            "format": "image/jpeg", 
+            "height": 600, 
+            "label": "back", 
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json", 
+              "@id": "https://media.getty.edu/iiif/image/88d8b5e8-7964-4b6a-87a2-2d9ccf497ea1", 
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }, 
+            "width": 600
+          }, 
+          "width": 7642
+        }, 
+        {
+          "@id": "https://media.getty.edu/iiif/pres/canvas/e23bda92-a17f-4a57-8345-de427e678b00.json", 
+          "@type": "sc:Canvas", 
+          "height": 8120, 
+          "images": [
+            {
+              "@id": "https://media.getty.edu/iiif/pres/annotation/anno-e23bda92-a17f-4a57-8345-de427e678b00.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://media.getty.edu/iiif/pres/canvas/e23bda92-a17f-4a57-8345-de427e678b00.json", 
+              "resource": {
+                "@id": "https://media.getty.edu/iiif/image/e23bda92-a17f-4a57-8345-de427e678b00/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 8120, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://media.getty.edu/iiif/image/e23bda92-a17f-4a57-8345-de427e678b00", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }, 
+                "width": 6781
+              }
+            }
+          ], 
+          "label": "framed", 
+          "license": "https://rightsstatements.org/vocab/NoC-US/1.0/", 
+          "metadata": [
+            {
+              "label": "Open Content Quality", 
+              "value": "Yes"
+            }
+          ], 
+          "thumbnail": {
+            "@id": "https://media.getty.edu/iiif/image/e23bda92-a17f-4a57-8345-de427e678b00/full/!600,600/0/default.jpg", 
+            "@type": "dctypes:Image", 
+            "format": "image/jpeg", 
+            "height": 600, 
+            "label": "framed", 
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json", 
+              "@id": "https://media.getty.edu/iiif/image/e23bda92-a17f-4a57-8345-de427e678b00", 
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }, 
+            "width": 600
+          }, 
+          "width": 6781
+        }
+      ], 
+      "label": "Default range", 
+      "startCanvas": "https://media.getty.edu/iiif/pres/canvas/94ecb201-b71d-4ae4-a48a-2717868cc54d.json"
+    }
+  ], 
+  "thumbnail": {
+    "@id": "https://media.getty.edu/iiif/image/94ecb201-b71d-4ae4-a48a-2717868cc54d/full/!600,600/0/default.jpg", 
+    "@type": "dctypes:Image", 
+    "format": "image/jpeg", 
+    "label": "Main View", 
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json", 
+      "@id": "https://media.getty.edu/iiif/image/94ecb201-b71d-4ae4-a48a-2717868cc54d", 
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  }
+}
