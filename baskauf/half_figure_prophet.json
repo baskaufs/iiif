@@ -7,16 +7,28 @@
 		{
 			"label": "Accession Number",
 			"value": "1975.005"
+		},
+		{
+			"label": "Title",
+			"value": "Half-Figure Prophet"
+		},
+		{
+			"label": "Date",
+			"value": "15th century CE"
 		}
 	],
 	"description": [
 		{
 			"@value": "sculpture",
 			"@language": "en"
+		},
+		{
+			"@value": "Here is where I am going to say interesting things about the work.",
+			"@language": "en"
 		}
 	],
-	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "Vanderbilt University Fine Arts Gallery",
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain and image (c) Vanderbilt University",
 	"sequences": [
 		{
 			"@id": "http://24c599e9-894e-4f1b-b01a-e9f95e951fd3",
@@ -98,7 +110,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9e917d61-6de5-4d2a-af5e-75e2cd45899f",
+							"@id": "http://06109779-f46c-4b1f-9f81-6db83cb8bdbb",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -156,5 +168,6 @@
 	"structures": [],
 	"thumbnail": {
 		"@id": "http://b91ba6f0-423d-46ba-87f5-e47edf0d6007"
-	}
+	},
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.0304P.tif/full/!100,100/0/default.jpg"
 }
