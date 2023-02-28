@@ -5,10 +5,6 @@
 	"label": "Half-Figure Prophet",
 	"metadata": [
 		{
-            "label": "Artist",
-            "value": "Artist Unknown"
-        },
-		{
 			"label": "Accession Number",
 			"value": "1975.005"
 		},
@@ -19,15 +15,15 @@
 		{
 			"label": "Date",
 			"value": "15th century CE"
+		},
+		{
+			"label": "Artist",
+			"value": "Artist Unknown"
 		}
 	],
 	"description": [
 		{
 			"@value": "sculpture",
-			"@language": "en"
-		},
-		{
-			"@value": "Here is where I am going to say interesting things about the work.",
 			"@language": "en"
 		}
 	],
@@ -173,5 +169,5 @@
 	"thumbnail": {
 		"@id": "http://b91ba6f0-423d-46ba-87f5-e47edf0d6007"
 	},
-	"logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg"
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vanderbilt_logo.png/full/!100,100/0/default.jpg"
 }
