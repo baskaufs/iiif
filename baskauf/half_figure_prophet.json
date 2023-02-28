@@ -5,6 +5,10 @@
 	"label": "Half-Figure Prophet",
 	"metadata": [
 		{
+            "label": "Artist",
+            "value": "Artist Unknown"
+        },
+		{
 			"label": "Accession Number",
 			"value": "1975.005"
 		},
@@ -169,5 +173,5 @@
 	"thumbnail": {
 		"@id": "http://b91ba6f0-423d-46ba-87f5-e47edf0d6007"
 	},
-	"logo": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.0304P.tif/full/!100,100/0/default.jpg"
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg"
 }
