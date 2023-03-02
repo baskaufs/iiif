@@ -1,0 +1,104 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1992/1992.336.JPG.json",
+	"@type": "sc:Manifest",
+	"label": "Portrait of a Man in Red",
+	"description": "painting by Artist Unknown",
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
+	"attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+	"metadata": [
+		{
+			"label": "Artist",
+			"value": "Artist Unknown"
+		},
+		{
+			"label": "Accession Number",
+			"value": "1992.336"
+		},
+		{
+			"label": "Creation Year",
+			"value": "1690"
+		},
+		{
+			"label": "Title",
+			"value": "Portrait of a Man in Red"
+		}
+	],
+	"viewingDirection": "left-to-right",
+	"viewingHint": "individuals",
+	"sequences": [
+		{
+			"@type": "sc:Sequence",
+			"label": "Portrait of a Man in Red",
+			"canvases": [
+				{
+					"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1992/1992.336.JPG.json#canvas",
+					"@type": "sc:Canvas",
+					"width": 2448,
+					"height": 3264,
+					"label": "Portrait of a Man in Red",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0b01d468-7147-4196-bf64-6a964c3a333c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1992%2F1992.336.JPG/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1992%2F1992.336.JPG",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 7990272,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3264,
+								"width": 2448
+							},
+							"on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1992/1992.336.JPG.json#canvas"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1992%2F1992.336.JPG/full/!100,100/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 100,
+						"height": 100
+					}
+				}
+			]
+		}
+	]
+}
