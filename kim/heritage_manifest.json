@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://09b6cc3e-7d10-4b10-9019-229e272fd089",
+	"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
 	"@type": "sc:Manifest",
 	"label": "Epouvantée de l'héritage\n",
 	"metadata": [
@@ -35,12 +35,12 @@
 	"attribution": "Vanderbilt University Fine Arts Gallery\n",
 	"sequences": [
 		{
-			"@id": "http://00e8f4c4-1c9d-4a3f-8072-952843b57db6",
+			"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
 			"@type": "sc:Sequence",
 			"label": "Normal Sequence",
 			"canvases": [
 				{
-					"@id": "http://3079daa6-993b-4160-8431-ea0df4c10796",
+					"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
 					"@type": "sc:Canvas",
 					"label": "Print",
 					"height": "3138",
@@ -48,7 +48,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://344a54e5-4f4f-488a-bba5-b7a228776011",
+							"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
