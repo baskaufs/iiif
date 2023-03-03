@@ -1,0 +1,109 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://09b6cc3e-7d10-4b10-9019-229e272fd089",
+	"@type": "sc:Manifest",
+	"label": "Epouvantée de l'héritage\n",
+	"metadata": [
+		{
+			"label": "Accession Number",
+			"value": "1999.172g\n"
+		},
+		{
+			"label": "Date",
+			"value": "1871"
+		},
+		{
+			"label": "Medium",
+			"value": "Paper, charcoal (graphite)\n"
+		},
+		{
+			"label": "Technique",
+			"value": "Lithography"
+		},
+		{
+			"label": "Artist ",
+			"value": "Honoré Daumier, Cham (Lithographer)"
+		}
+	],
+	"description": [
+		{
+			"@value": "This allegorical image exemplifies the suffering of the French during the Franco-Prussian War and the impact of the five month siege on Paris, which caused a famine. France is represented as the weeping, mother-like figure who expresses her desolation at the fate of her country. \n",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Vanderbilt University Fine Arts Gallery\n",
+	"sequences": [
+		{
+			"@id": "http://00e8f4c4-1c9d-4a3f-8072-952843b57db6",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://3079daa6-993b-4160-8431-ea0df4c10796",
+					"@type": "sc:Canvas",
+					"label": "Print",
+					"height": "3138",
+					"width": "2412",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://344a54e5-4f4f-488a-bba5-b7a228776011",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 7568856,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3138,
+								"width": 2412
+							},
+							"on": "http://3079daa6-993b-4160-8431-ea0df4c10796"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right",
+	"logo": "https://www.library.vanderbilt.edu/images/vanderbilt2022.svg"
+}
