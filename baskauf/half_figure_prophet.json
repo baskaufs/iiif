@@ -1,0 +1,173 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://2ccffa31-9110-48e4-8d96-f830e32ec108",
+	"@type": "sc:Manifest",
+	"label": "Half-Figure Prophet",
+	"metadata": [
+		{
+			"label": "Accession Number",
+			"value": "1975.005"
+		},
+		{
+			"label": "Title",
+			"value": "Half-Figure Prophet"
+		},
+		{
+			"label": "Date",
+			"value": "15th century CE"
+		},
+		{
+			"label": "Artist",
+			"value": "Artist Unknown"
+		}
+	],
+	"description": [
+		{
+			"@value": "sculpture",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain and image (c) Vanderbilt University",
+	"sequences": [
+		{
+			"@id": "http://24c599e9-894e-4f1b-b01a-e9f95e951fd3",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://b91ba6f0-423d-46ba-87f5-e47edf0d6007",
+					"@type": "sc:Canvas",
+					"label": "Recto after restoration",
+					"height": 5900,
+					"width": 3933,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d8066cc6-1b93-4ed2-97ef-916010b4ce75",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1975%2F1975.005.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1975%2F1975.005.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5900,
+								"width": 3933
+							},
+							"on": "http://b91ba6f0-423d-46ba-87f5-e47edf0d6007"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://77f9098d-8164-4f09-b181-4dada8933457",
+					"@type": "sc:Canvas",
+					"label": "Recto before restoration",
+					"height": 3354,
+					"width": 2376,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://06109779-f46c-4b1f-9f81-6db83cb8bdbb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1975%2F1975.005_Before.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1975%2F1975.005_Before.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 7969104,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3354,
+								"width": 2376
+							},
+							"on": "http://77f9098d-8164-4f09-b181-4dada8933457"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://b91ba6f0-423d-46ba-87f5-e47edf0d6007"
+	},
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vanderbilt_logo.png/full/!100,100/0/default.jpg"
+}

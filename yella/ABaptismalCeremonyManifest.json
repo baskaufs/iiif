@@ -1,0 +1,251 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+	"@type": "sc:Manifest",
+	"label": "A Baptismal Ceremony",
+	"metadata": [
+		{
+			"label": "Provenance",
+			"value": "(Volterra, Florence); sold to Samuel H. Kress [1863-1955] in 1930; gift 1961 to George Peabody College for Teachers, now Vanderbilt University Fine Arts Gallery, in 1961, no. 1979.0648P."
+		},
+		{
+			"label": "Accession Number",
+			"value": "1979.0648P"
+		},
+		{
+			"label": "Kress Number",
+			"value": "78"
+		},
+		{
+			"label": "Credit Line",
+			"value": "Collection of Vanderbilt University Fine Arts Gallery"
+		},
+		{
+			"label": "Gift of",
+			"value": "The Samuel H. Kress Foundation"
+		},
+		{
+			"label": "Artist",
+			"value": "Amico Aspertini"
+		},
+		{
+			"label": "Date",
+			"value": "c. 16th century"
+		},
+		{
+			"label": "Medium",
+			"value": "Tempera on Panel"
+		},
+		{
+			"label": "Nationality",
+			"value": "Italy"
+		}
+	],
+	"description": [
+		{
+			"@value": "Baptismal ceremony of St. Anthony​ presided over by St. Augustine. Painted in the Mannerism style, the artist was a student of the Bolognese School of Painting.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://eee8eea4-630d-481c-a328-befc6433d92c",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a82ff953-6037-4ed4-94d8-033d5566e111",
+					"@type": "sc:Canvas",
+					"label": "Full View",
+					"height": 0,
+					"width": 0,
+					"images": [],
+					"related": ""
+				},
+				{
+					"@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+					"@type": "sc:Canvas",
+					"label": "Full View, After Treatment",
+					"height": 3825,
+					"width": 4417,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3aa8c31d-e26a-453b-9219-3616ab7d7861",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3825,
+								"width": 4417
+							},
+							"on": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd",
+					"@type": "sc:Canvas",
+					"label": "Full View, Before Treatment",
+					"height": 3706,
+					"width": 4352,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ef1bbb0b-8233-4d80-b0a1-667af4c1abc7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3706,
+								"width": 4352
+							},
+							"on": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad",
+					"@type": "sc:Canvas",
+					"label": "Full View, Framed",
+					"height": 3471,
+					"width": 4000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5e94f49a-e00b-4d98-929d-0896c4d2fc6d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://api.nga.gov/iiif/edecf3c2-3869-4b03-872f-59cb735d994f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://api.nga.gov/iiif/edecf3c2-3869-4b03-872f-59cb735d994f",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3471,
+								"width": 4000
+							},
+							"on": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
+	}
+}
