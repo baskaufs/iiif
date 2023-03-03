@@ -12,6 +12,10 @@ To serve a manifest from a subdirectory, append the subdirectory name, followed 
 
 An online manifest editor is available at <https://digital.bodleian.ox.ac.uk/manifest-editor/>. To load the manifest, use the manifest URL (as above). Save the manifest in your GitHub directory with a distinctive name and push it to GitHub using GitHub Desktop.
 
+## Validating a manifest
+
+If you are having problems with a manifest, run it through this manifest validator: <https://presentation-validator.iiif.io/>
+
 ## Displaying a manifest
 
 Many collections have custom viewers, where the viewer is styled to be consistent with the theme of the institution's website. Here is an example from the Getty Museum collection:
