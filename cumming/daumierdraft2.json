@@ -1,0 +1,138 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://39e90b83-b2a8-49a7-80db-963344187aa7",
+	"@type": "sc:Manifest",
+	"label": "Moi, je suis ravitaille!-, from Album du Siége",
+	"metadata": [
+		{
+			"label": "Title",
+			"value": "Moi, je suis ravitaille!-, from Album du Siége\n"
+		},
+		{
+			"label": "Collection",
+			"value": " Vanderbilt University Fine Arts Gallery\n"
+		},
+		{
+			"label": "Date ",
+			"value": "1871"
+		},
+		{
+			"label": "Label",
+			"value": "Value"
+		},
+		{
+			"label": "Classification ",
+			"value": "Print "
+		},
+		{
+			"label": "Accession Number ",
+			"value": "1999.172b"
+		},
+		{
+			"label": "Medium",
+			"value": "Paper, charcoal (graphite)\n"
+		},
+		{
+			"label": "Technique ",
+			"value": "Lithography"
+		},
+		{
+			"label": "Artist ",
+			"value": "Honoré Daumier"
+		},
+		{
+			"label": "Lithographer ",
+			"value": "Cham (Amédée de Noé)\n"
+		}
+	],
+	"description": [
+		{
+			"@value": "print by Honoré Daumier and Cham",
+			"@language": "en"
+		},
+		{
+			"@value": "Translation: ",
+			"@language": "Me, I am refueling…I don’t care about the rest\n"
+		}
+	],
+	"attribution": "Vanderbilt Fine Arts Gallery, work in the Public Domain \n",
+	"sequences": [
+		{
+			"@id": "http://c6179942-0f2f-47c8-94b7-916f7288b1ab",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://16e732b5-7a72-4517-a240-fdb5a25dd873",
+					"@type": "sc:Canvas",
+					"label": "verso",
+					"height": 3424,
+					"width": 2597,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7deb99cc-c046-4f19-9f5d-7a78712a92b8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 8892128,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3424,
+								"width": 2597
+							},
+							"on": "http://16e732b5-7a72-4517-a240-fdb5a25dd873"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg\n",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "individuals "
+}
