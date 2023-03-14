@@ -1,0 +1,72 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1980/1980.037.json",
+    "@type": "sc:Manifest",
+    "label": "Mountain Landscape with Lake",
+    "description": "scroll painting by Qin Yi",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
+    "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+    "metadata": [
+        {
+            "label": "Accession Number",
+            "value": "1980.037"
+        },
+        {
+            "label": "Creation Year",
+            "value": "1918 CE"
+        },
+        {
+            "label": "Title",
+            "value": "Mountain Landscape with Lake"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Mountain Landscape with Lake",
+            "canvases": [
+                {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1980/1980.037.json_1",
+                    "@type": "sc:Canvas",
+                    "width": 1211,
+                    "height": 2015,
+                    "label": "Mountain Landscape with Lake",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1980%2F1980.037.JPG/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 1211,
+                                "height": 2015,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1980%2F1980.037.JPG",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1980/1980.037.json_1"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1980%2F1980.037.JPG/full/!100,100/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://baskaufs.github.io/iiif/baskauf/1980/1980.037_annotations.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

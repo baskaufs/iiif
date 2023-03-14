@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0249P.json",
+    "@type": "sc:Manifest",
+    "label": "Parlor Scene",
+    "description": "painting by Hans Buchner",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
+    "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+    "metadata": [
+        {
+            "label": "Artist",
+            "value": "Hans Buchner"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1979.0249P"
+        },
+        {
+            "label": "Creation Year",
+            "value": "1902 CE"
+        },
+        {
+            "label": "Title",
+            "value": "Parlor Scene"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Parlor Scene",
+            "canvases": [
+                {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0249P.json_1",
+                    "@type": "sc:Canvas",
+                    "width": 2499,
+                    "height": 3062,
+                    "label": "Parlor Scene",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0249P.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2499,
+                                "height": 3062,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0249P.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0249P.json_1"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0249P.tif/full/!100,100/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://baskaufs.github.io/iiif/baskauf/1979/1979.0249P_annotations.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

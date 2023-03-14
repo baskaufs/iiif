@@ -1,0 +1,72 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0243P.json",
+    "@type": "sc:Manifest",
+    "label": "Nativity (after Peter Paul Rubens)",
+    "description": "painting by Adro Miguel",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
+    "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+    "metadata": [
+        {
+            "label": "Accession Number",
+            "value": "1979.0243P"
+        },
+        {
+            "label": "Creation Year",
+            "value": "1850 CE"
+        },
+        {
+            "label": "Title",
+            "value": "Nativity (after Peter Paul Rubens)"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Nativity (after Peter Paul Rubens)",
+            "canvases": [
+                {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0243P.json_1",
+                    "@type": "sc:Canvas",
+                    "width": 3780,
+                    "height": 2767,
+                    "label": "Nativity (after Peter Paul Rubens)",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0243P.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3780,
+                                "height": 2767,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0243P.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0243P.json_1"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0243P.tif/full/!100,100/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://baskaufs.github.io/iiif/baskauf/1979/1979.0243P_annotations.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
