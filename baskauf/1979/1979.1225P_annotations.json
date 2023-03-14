@@ -1,0 +1,6 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://baskaufs.github.io/iiif/baskauf/1979/1979.1225P_annotations.json",
+  "@type": "sc:AnnotationList",
+  "resources": []
+}
