@@ -114,7 +114,11 @@ Notice that the `selector` values specify the x, y, width, and height of the bou
 
 [Example of an embedded iFrame](baskauf/iframe_test) created using the Exhibit platform.
 
+[Exhibit website](https://www.exhibit.so/)
 
+[Link to editor](https://exhibit.so/exhibits/create)
+
+[more editors](https://iiif.io/get-started/tools/#exhibition-and-guided-viewing)
 
 # Additional examples
 
