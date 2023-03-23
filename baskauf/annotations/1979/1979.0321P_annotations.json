@@ -15,7 +15,7 @@
         "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json_1",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "823,691,672,801"
+          "value": "xywh=823,691,672,801"
         },
         "within": {
           "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json",
@@ -42,7 +42,7 @@
         "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json_1",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "1318,1243,465,536"
+          "value": "xywh=1318,1243,465,536"
         },
         "within": {
           "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json",
@@ -69,7 +69,7 @@
         "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json_1",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "2085,1027,536,593"
+          "value": "xywh=2085,1027,536,593"
         },
         "within": {
           "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json",
@@ -96,7 +96,7 @@
         "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json_1",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "1711,151,789,876"
+          "value": "xywh=1711,151,789,876"
         },
         "within": {
           "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json",
@@ -123,7 +123,7 @@
         "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json_1",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "79,272,1349,1099"
+          "value": "xywh=79,272,1349,1099"
         },
         "within": {
           "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json",
@@ -150,7 +150,7 @@
         "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json_1",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "132,861,400,529"
+          "value": "xywh=132,861,400,529"
         },
         "within": {
           "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0321P.json",
