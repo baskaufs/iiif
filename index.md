@@ -110,6 +110,12 @@ Annotations URL:
 
 Notice that the `selector` values specify the x, y, width, and height of the bounding box. Modifying these values would fix the issues with the bounding box for the person.
 
+# Exhibit test
+
+[Example of an embedded iFrame](baskauf/iframe_test) created using the Exhibit platform.
+
+
+
 # Additional examples
 
 ## Yale Center for British Art
