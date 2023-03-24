@@ -110,6 +110,14 @@ Annotations URL:
 
 Notice that the `selector` values specify the x, y, width, and height of the bounding box. Modifying these values would fix the issues with the bounding box for the person.
 
+## Collecting annotation data
+
+[spreadsheet example](https://github.com/baskaufs/iiif/blob/main/baskauf/annotations/test_annotations.csv)
+
+To use the crop tool, you need the first part of the IIIF image URL. In a manifest, it's the `service` `@id`. Or take any IIIF image URL and it's the part before the location, like `/full/full/0/default.jpg`.
+
+[IIIF crop tool (for getting bounding box coordinates)](https://jbhoward-dublin.github.io/IIIF-imageManipulation/index.html?imageID=https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0321P_copy.tif)
+
 # Exhibit test
 
 [Example of an embedded iFrame](baskauf/iframe_test) created using the Exhibit platform.
