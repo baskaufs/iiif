@@ -1,0 +1,115 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_537b1f70-7505-4466-a07f-5d401b177f8f.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/3",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=298,393,1906,2361"
+        },
+        "within": {
+          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The complex nature of international relations is illuminated with this lithograph, especially between France and England during this period. A variety of sentiments and issues are alluded to with depictions of attire, symbols, and words."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/4",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=288,334,920,609"
+        },
+        "within": {
+          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "This phrase translates to the \u201cEastern Question,\u201d which is a reference to the declining stability of the Ottoman empire which heightened European political geopolitics and competition in colonialism. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/5",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=203,1618,796,1025"
+        },
+        "within": {
+          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "\u201cAlbion\u201d references the phrase \u201cPerfidious Albion,\u201d which was a pejorative term that was frequently levelled at England due to their history of treachery and disloyalty. In the context of the Franco-Prussian War, anti-English sentiments may have stemmed from the overwhelming English opinions that France instigated the war. \n"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/6",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=236,701,1150,979"
+        },
+        "within": {
+          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Classical imagery is abound in Daumier\u2019s other works. This character is Mars, the Roman god of war who is a recurring motif in Le Charivari. The trident completes the allegory to England, a symbol of the nation\u2019s mastery of the seas."
+        }
+      ]
+    }
+  ]
+}
