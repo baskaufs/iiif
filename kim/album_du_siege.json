@@ -1,0 +1,182 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+	"@type": "sc:Manifest",
+	"label": "Laissez appuyer moâ sur le bras à vos! [...]",
+	"metadata": [
+		{
+			"label": "Date",
+			"value": "1871"
+		},
+		{
+			"label": "Classification",
+			"value": "Print"
+		},
+		{
+			"label": "Accession Number",
+			"value": "1999.172g"
+		},
+		{
+			"label": "Medium",
+			"value": "Paper, charcoal (graphite)\n"
+		},
+		{
+			"label": "Technique",
+			"value": "Lithography\n"
+		},
+		{
+			"label": "Artist",
+			"value": "Honoré Daumier, Cham (Lithographer)"
+		}
+	],
+	"description": [
+		{
+			"@value": "The complex nature of international relations is illuminated with this lithograph, especially between France and England during this period. A variety of sentiments and issues are alluded to with depictions of attire, symbols, and words. \"Question d'Orient\" translates to the “Eastern Question,” which is a reference to how the declining stability of the Ottoman empire heightened European political geopolitics and competition \nAlbion: “Albion” references the phrase “Perfidious Albion,” which was a pejorative term that was frequently levelled at England due to their history of treachery and disloyalty. In the context of the Franco-Prussian War, anti-English sentiments may have stemmed from the overwhelming English opinions that France instigated the war. Classical imagery is abound in Daumier’s other works. This character is Mars, the Roman god of war who is a recurring motif in Le Charivari. The trident completes the allegory to England, a symbol of the nation’s mastery of the seas.\n",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Vanderbilt University Fine Arts Gallery",
+	"sequences": [
+		{
+			"@id": "http://2c42ed16-92c8-4ec8-a21c-22f5c211998d",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51",
+					"@type": "sc:Canvas",
+					"label": "Épouvantée de l'héritage",
+					"height": 3138,
+					"width": 2412,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9b8e32bc-de48-4f8f-8c1e-00af789b29c4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 7568856,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3138,
+								"width": 2412
+							},
+							"on": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+					"@type": "sc:Canvas",
+					"label": "Laissez appuyer moa…",
+					"height": 3400,
+					"width": 2620,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://060f1caf-60b2-44d6-80bf-671e6f837053",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172i.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172i.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 8908000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3400,
+								"width": 2620
+							},
+							"on": "http://537b1f70-7505-4466-a07f-5d401b177f8f"
+						}
+					],
+					"related": "",
+					"metadata": []
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://www.library.vanderbilt.edu/images/vanderbilt2022.svg",
+	"related": {
+		"@id": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/laissez-appuyer-moa-sur-le-bras-a-vos#infos-principales"
+	}
+}
