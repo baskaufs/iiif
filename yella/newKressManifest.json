@@ -78,7 +78,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF/0,149,4417,3677/800,/0/default.jpg",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF",
 									"profile": [
 										"http://iiif.io/api/image/2/level0.json",
 										{
