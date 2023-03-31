@@ -61,12 +61,64 @@
 			],
 			"canvases": [
 				{
-					"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF/0,149,4417,3677/800,/0/default.jpg",
+					"@id": "http://a82ff953-6037-4ed4-94d8-033d5566e111",
 					"@type": "sc:Canvas",
 					"label": "Full View",
 					"height": 0,
 					"width": 0,
-					"images": [],
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3aa8c31d-e26a-453b-9219-3616ab7d7861",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF/0,149,4417,3677/800,/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF/0,149,4417,3677/800,/0/default.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3825,
+								"width": 4417
+							},
+							"on": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
+						}
+					],
 					"related": ""
 				},
 				{
