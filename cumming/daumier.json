@@ -1,70 +1,182 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1999/1999.172y.json",
+	"@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
 	"@type": "sc:Manifest",
-	"label": "Soldats! il fait très-froid, from Album du Siége",
-	"description": "print by Honoré Daumier and Cham",
-	"logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
-	"attribution": "Vanderbilt University Fine Arts Gallery",
+	"label": [],
 	"metadata": [
 		{
-			"label": "Artist",
-			"value": "Honoré Daumier and Amédée de Noé"
-		},
-		{
 			"label": "Accession Number",
-			"value": "1999.172y"
+			"value": "1999.172dd"
 		},
 		{
-			"label": "Creation Year",
+			"label": "Collection",
+			"value": "Vanderbilt University Fine Arts Gallery\n"
+		},
+		{
+			"label": "Date",
 			"value": "1871"
 		},
 		{
-			"label": "Title",
-			"value": "Soldats! il fait très-froid, from Album du Siége"
+			"label": "Classification",
+			"value": "Print "
+		},
+		{
+			"label": "Medium",
+			"value": "Paper, charcoal (graphite)\n"
+		},
+		{
+			"label": "Technique ",
+			"value": "Lithography\n"
+		},
+		{
+			"label": "Artist ",
+			"value": "Honoré Daumier, Lithographer: Cham (Amédée de Noé)\n"
 		}
 	],
-	"viewingDirection": "left-to-right",
-	"viewingHint": "individuals",
+	"description": [
+		{
+			"@value": "The Bombardment: “What is that dad?” “This is the last bunch of fires of August 15”\n",
+			"@language": "en"
+		}
+	],
+	"attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain\n",
 	"sequences": [
 		{
+			"@id": "http://288dbde4-9d75-43e7-ba46-ffb0a79317dd",
 			"@type": "sc:Sequence",
-			"label": "Soldats! il fait très-froid, from Album du Siége",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
 			"canvases": [
 				{
-					"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1999/1999.172y.json_1",
+					"@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
 					"@type": "sc:Canvas",
-					"width": 2620,
-					"height": 3382,
-					"label": "Soldats! il fait très-froid, from Album du Siége",
+					"label": "Le Bombardement",
+					"height": 3836,
+					"width": 2962,
 					"images": [
 						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3a27d308-5cfb-439c-a388-f7e4b4d95d6c",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1999/1999.172y.json#resource",
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"width": 2620,
-								"height": 3382,
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1999%2F1999.172y.tif",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3836,
+								"width": 2962
 							},
-							"on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1999/1999.172y.json_1"
+							"on": "http://b57e392a-67fc-4b93-a365-55eb542b1abd"
+						}
+					]
+				},
+				{
+					"@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+					"@type": "sc:Canvas",
+					"label": "Moi, je suis ravitaille!",
+					"height": 3424,
+					"width": 2597,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2bce10c3-e343-4c30-a92f-67c611c5eb95",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 8892128,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3424,
+								"width": 2597
+							},
+							"on": "http://08e1c257-8de5-4e34-a905-64bd4508025f"
 						}
 					],
-					"thumbnail": {
-						"@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1999%2F1999.172y.tif/full/!100,100/0/default.jpg",
-						"@type": "dctypes:Image",
-						"format": "image/jpeg",
-						"width": 100,
-						"height": 100
-					}
+					"related": ""
 				}
 			]
 		}
-	]
+	],
+	"structures": [],
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg\n",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "Individuals "
 }
