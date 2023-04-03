@@ -47,6 +47,7 @@
             "@language": "en"
         }
     ],
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
     "license": "https://creativecommons.org/licenses/by/3.0/",
     "attribution": "[Click to edit attribution]",
     "sequences": [
