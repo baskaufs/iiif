@@ -6,9 +6,12 @@ The base URL for this website is <https://baskaufs.github.io/iiif/>.
 
 [Baptismal Ceremony](yella/exhibit)
 
+[viewer displaying Baptismal Ceremony annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/yella/baptismal_ceremony.json)
+
 [Circumcision Mask](hassan/exhibit)
 
 [Album du Siége](kim/exhibit)
+[viewer displaying Album du Siége annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/kim/album_du_siege.json)
 
 ## Serving a manifest
 
