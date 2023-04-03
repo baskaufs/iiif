@@ -10,7 +10,10 @@ The base URL for this website is <https://baskaufs.github.io/iiif/>.
 
 [Circumcision Mask](hassan/exhibit)
 
+[viewer displaying Circumcision Mask annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/circumcision_mask.json)
+
 [Album du Siége](kim/exhibit)
+
 [viewer displaying Album du Siége annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/kim/album_du_siege.json)
 
 ## Serving a manifest
