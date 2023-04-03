@@ -64,8 +64,8 @@
 					"@id": "http://a82ff953-6037-4ed4-94d8-033d5566e111",
 					"@type": "sc:Canvas",
 					"label": "Full View",
-					"height": 0,
-					"width": 0,
+					"height": "3825",
+					"width": "4417",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -125,7 +125,7 @@
 					"@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
 					"@type": "sc:Canvas",
 					"label": "Full View, After Treatment",
-					"height": 3825,
+					"height": "3825",
 					"width": 4417,
 					"images": [
 						{
