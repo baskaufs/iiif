@@ -73,12 +73,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://kress.iiifhosting.com/iiif/6c66953c497fdf2dcbd83e46356988dd937b8565ca5066380eb56670113eaae0/full/full/0/default.jpg",
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://kress.iiifhosting.com/iiif/6c66953c497fdf2dcbd83e46356988dd937b8565ca5066380eb56670113eaae0/full/full/0/default.jpg",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P_AfterTreatment.TIF",
 									"profile": [
 										"http://iiif.io/api/image/2/level0.json",
 										{
