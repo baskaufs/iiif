@@ -1,0 +1,115 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/circumcision_mask_ac3a15db-23e6-4c1c-9dd8-960e50900b71.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/0",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,6720,4486"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The Circumcision mask\u2014along with the other Salampasu masks\u2014was an integral part of the warriors\u2019 society, whose primary task was to protect this small enclave against invasions by outside kingdoms. Boys were initiated into the warriors\u2019 society through a circumcision camp and then rose through its ranks by gaining access to a hierarchy of masks. The incorporation of wood and covered copper is an important symbol of wealth and a method of intimidating enemies\u2014to protect this small enclave against invasions by outside kingdoms.\nThe masks also act as guardians for the children and are believed to have spirits dwelling within them, while being used to initiate boys into the society of warriors and are earned through performing specific deeds, playing a vital role in the Sala Mpasu\u2019s warrior society, a powerful association through which men increased their authority by securing the right to wear particular masks.  Earning the right to wear a mask alsso involved performing large payments of livestock, drink, and other material goods. Once a man \u2018owned\u2019 the mask, other \u2018owners\u2019 taught this new member particular esoteric knowledge associated with it.\n"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/2",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2142,176,2100,983"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The headdress is covered with bamboo or raffia or rattan-like decorations, and black-tinted wicker balls. Perforations on the circumference retained the raffia ornament to conceal the dancer during ceremonies related to the warrior society and initiation rites.\n"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/3",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2428,1453,1453,554"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "This mask has a pair of really deeply set narrow eyes that cave inwards."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/4",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2512,1949,1134,622"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The mouth of the mask a rectangular in shape, which is carved open and decorated with two rows of pointed teeth. This feature functions as a way to scare others away and make the Salampasu people appear stronger."
+        }
+      ]
+    }
+  ]
+}
