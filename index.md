@@ -2,6 +2,14 @@
 
 The base URL for this website is <https://baskaufs.github.io/iiif/>.
 
+## Links to fellows' Exhibit pages
+
+[Baptismal Ceremony](yella/exhibit)
+
+[Circumcision Mask](hassan/exhibit)
+
+[Album du Siége](kim/exhibit)
+
 ## Serving a manifest
 
 To serve a manifest from a subdirectory, append the subdirectory name, followed by the manifest file name. For example:
