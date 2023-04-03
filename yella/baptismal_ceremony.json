@@ -119,13 +119,7 @@
                             "on": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
                         }
                     ],
-                    "related": "",
-                    "otherContent": [
-                        {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_7e5e2ee0-aecb-410f-874c-5738e37280fd.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
+                    "related": ""
                 },
                 {
                     "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
