@@ -1,175 +1,187 @@
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
-	"@type": "sc:Manifest",
-	"label": "Circumcision Mask",
-	"description": "Salampasu mask.",
-	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
-	"attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain and image (c) Vanderbilt University",
-	"metadata": [
-		{
-			"label": "Artist",
-			"value": "Artist Unknown"
-		},
-		{
-			"label": "Accession Number",
-			"value": "1970.010"
-		},
-		{
-			"label": "Title",
-			"value": "Circumcision Mask"
-		},
-		{
-			"label": "Classification",
-			"value": "Warrior Mask"
-		},
-		{
-			"label": "Medium",
-			"value": "Wood, crocheted raffia, and sheets of copper."
-		},
-		{
-			"label": "Date",
-			"value": "1970"
-		},
-		{
-			"label": "Collection",
-			"value": "Vanderbilt University Fine Arts Gallery "
-		}
-	],
-	"viewingDirection": "left-to-right",
-	"viewingHint": "individuals",
-	"sequences": [
-		{
-			"@type": "sc:Sequence",
-			"label": "Circumcision Mask",
-			"canvases": [
-				{
-					"@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
-					"@type": "sc:Canvas",
-					"label": "Front",
-					"height": 4490,
-					"width": 6720,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9c44dd6b-5ee0-4a26-837a-3e914ee2cb6f",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010.tiff/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010.tiff",
-									"profile": [
-										"http://iiif.io/api/image/2/level0.json",
-										{
-											"maxArea": 10000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 4490,
-								"width": 6720
-							},
-							"on": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9",
-					"@type": "sc:Canvas",
-					"label": "Side",
-					"height": 4490,
-					"width": 6720,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://388e2a16-d2b9-4ba9-859d-b166deb36902",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010side.tiff/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010side.tiff",
-									"profile": [
-										"http://iiif.io/api/image/2/level0.json",
-										{
-											"maxArea": 10000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 4490,
-								"width": 6720
-							},
-							"on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
-						}
-					],
-					"related": ""
-				}
-			]
-		}
-	],
-	"license": "https://creativecommons.org/licenses/by/4.0/",
-	"related": {
-		"@id": "https://www.imodara.com/discover/dr-congo-salampasu-mukinka-warrior-mask/"
-	}
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+    "@type": "sc:Manifest",
+    "label": "Circumcision Mask",
+    "description": "Salampasu mask.",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
+    "attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain and image (c) Vanderbilt University",
+    "metadata": [
+        {
+            "label": "Artist",
+            "value": "Artist Unknown"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1970.010"
+        },
+        {
+            "label": "Title",
+            "value": "Circumcision Mask"
+        },
+        {
+            "label": "Classification",
+            "value": "Warrior Mask"
+        },
+        {
+            "label": "Medium",
+            "value": "Wood, crocheted raffia, and sheets of copper."
+        },
+        {
+            "label": "Date",
+            "value": "1970"
+        },
+        {
+            "label": "Collection",
+            "value": "Vanderbilt University Fine Arts Gallery "
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Circumcision Mask",
+            "canvases": [
+                {
+                    "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+                    "@type": "sc:Canvas",
+                    "label": "Front",
+                    "height": 4490,
+                    "width": 6720,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://9c44dd6b-5ee0-4a26-837a-3e914ee2cb6f",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010.tiff/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010.tiff",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level0.json",
+                                        {
+                                            "maxArea": 10000000,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 4490,
+                                "width": 6720
+                            },
+                            "on": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71"
+                        }
+                    ],
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/circumcision_mask_ac3a15db-23e6-4c1c-9dd8-960e50900b71.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9",
+                    "@type": "sc:Canvas",
+                    "label": "Side",
+                    "height": 4490,
+                    "width": 6720,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://388e2a16-d2b9-4ba9-859d-b166deb36902",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010side.tiff/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010side.tiff",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level0.json",
+                                        {
+                                            "maxArea": 10000000,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 4490,
+                                "width": 6720
+                            },
+                            "on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
+                        }
+                    ],
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/circumcision_mask_7df2865b-ee36-47b6-9ebd-a61ed2317cd9.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "related": {
+        "@id": "https://www.imodara.com/discover/dr-congo-salampasu-mukinka-warrior-mask/"
+    }
 }
