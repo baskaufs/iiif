@@ -1,0 +1,277 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://baskaufs.github.io/iiif/baskauf/1956/1956.043_annotations.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/8",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=88,2318,470,1481"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Person"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/9",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=714,2851,635,1018"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Person"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/10",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1383,173,729,1115"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Person"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/11",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2946,2825,349,533"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/12",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2737,2840,357,533"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/13",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=604,2525,379,760"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Person"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/14",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2303,3090,476,338"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/15",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1789,3780,515,400"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/16",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1457,2683,528,532"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Person"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043/annotation/17",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=458,2634,261,649"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1956/1956.043.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Person"
+        }
+      ]
+    }
+  ]
+}

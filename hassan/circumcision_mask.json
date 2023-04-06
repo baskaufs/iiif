@@ -1,75 +1,67 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+    "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
     "@type": "sc:Manifest",
-    "label": [],
+    "label": "Circumcision Mask",
+    "description": "Salampasu mask.",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
+    "attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain and image (c) Vanderbilt University",
     "metadata": [
         {
+            "label": "Artist",
+            "value": "Artist Unknown"
+        },
+        {
             "label": "Accession Number",
-            "value": "1999.172dd"
+            "value": "1970.010"
         },
         {
-            "label": "Collection",
-            "value": "Vanderbilt University Fine Arts Gallery\n"
-        },
-        {
-            "label": "Date",
-            "value": "1871"
+            "label": "Title",
+            "value": "Circumcision Mask"
         },
         {
             "label": "Classification",
-            "value": "Print "
+            "value": "Warrior Mask"
         },
         {
             "label": "Medium",
-            "value": "Paper, charcoal (graphite)\n"
+            "value": "Wood, crocheted raffia, and sheets of copper."
         },
         {
-            "label": "Technique ",
-            "value": "Lithography\n"
+            "label": "Date",
+            "value": "1970"
         },
         {
-            "label": "Artist ",
-            "value": "Honor\u00e9 Daumier, Lithographer: Cham (Am\u00e9d\u00e9e de No\u00e9)\n"
+            "label": "Collection",
+            "value": "Vanderbilt University Fine Arts Gallery "
         }
     ],
-    "description": [
-        {
-            "@value": "The Bombardment: \u201cWhat is that dad?\u201d \u201cThis is the last bunch of fires of August 15\u201d\n",
-            "@language": "en"
-        }
-    ],
-    "attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain\n",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
     "sequences": [
         {
-            "@id": "http://288dbde4-9d75-43e7-ba46-ffb0a79317dd",
             "@type": "sc:Sequence",
-            "label": [
-                {
-                    "@value": "Normal Sequence",
-                    "@language": "en"
-                }
-            ],
+            "label": "Circumcision Mask",
             "canvases": [
                 {
-                    "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+                    "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
                     "@type": "sc:Canvas",
-                    "label": "Le Bombardement",
-                    "height": 3836,
-                    "width": 2962,
+                    "label": "Front",
+                    "height": 4490,
+                    "width": 6720,
                     "images": [
                         {
                             "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://3a27d308-5cfb-439c-a388-f7e4b4d95d6c",
+                            "@id": "http://9c44dd6b-5ee0-4a26-837a-3e914ee2cb6f",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif/full/full/0/default.jpg",
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010.tiff/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010.tiff",
                                     "profile": [
                                         "http://iiif.io/api/image/2/level0.json",
                                         {
@@ -104,42 +96,43 @@
                                         }
                                     ]
                                 },
-                                "height": 3836,
-                                "width": 2962
+                                "height": 4490,
+                                "width": 6720
                             },
-                            "on": "http://b57e392a-67fc-4b93-a365-55eb542b1abd"
+                            "on": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71"
                         }
                     ],
+                    "related": "",
                     "otherContent": [
                         {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/daumier_b57e392a-67fc-4b93-a365-55eb542b1abd.json",
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/circumcision_mask_ac3a15db-23e6-4c1c-9dd8-960e50900b71.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
                 },
                 {
-                    "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+                    "@id": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9",
                     "@type": "sc:Canvas",
-                    "label": "Moi, je suis ravitaille!",
-                    "height": 3424,
-                    "width": 2597,
+                    "label": "Side",
+                    "height": 4490,
+                    "width": 6720,
                     "images": [
                         {
                             "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://2bce10c3-e343-4c30-a92f-67c611c5eb95",
+                            "@id": "http://388e2a16-d2b9-4ba9-859d-b166deb36902",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif/full/full/0/default.jpg",
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010side.tiff/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970-010side.tiff",
                                     "profile": [
                                         "http://iiif.io/api/image/2/level0.json",
                                         {
-                                            "maxArea": 8892128,
+                                            "maxArea": 10000000,
                                             "qualities": [
                                                 "bitonal",
                                                 "default",
@@ -170,16 +163,16 @@
                                         }
                                     ]
                                 },
-                                "height": 3424,
-                                "width": 2597
+                                "height": 4490,
+                                "width": 6720
                             },
-                            "on": "http://08e1c257-8de5-4e34-a905-64bd4508025f"
+                            "on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
                         }
                     ],
                     "related": "",
                     "otherContent": [
                         {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/daumier_08e1c257-8de5-4e34-a905-64bd4508025f.json",
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/circumcision_mask_7df2865b-ee36-47b6-9ebd-a61ed2317cd9.json",
                             "@type": "sc:AnnotationList"
                         }
                     ]
@@ -187,8 +180,8 @@
             ]
         }
     ],
-    "structures": [],
-    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg\n",
-    "viewingDirection": "left-to-right",
-    "viewingHint": "Individuals "
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "related": {
+        "@id": "https://www.imodara.com/discover/dr-congo-salampasu-mukinka-warrior-mask/"
+    }
 }

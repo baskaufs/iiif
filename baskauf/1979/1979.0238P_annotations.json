@@ -1,0 +1,142 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://baskaufs.github.io/iiif/baskauf/1979/1979.0238P_annotations.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P/annotation/37",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1677,1529,565,486"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Top"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P/annotation/38",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1655,1322,703,1270"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Person"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P/annotation/39",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1958,2353,487,1034"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Luggage & bags"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P/annotation/40",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1704,1852,579,922"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Skirt"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P/annotation/41",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,2884,1262,627"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0238P.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Furniture"
+        }
+      ]
+    }
+  ]
+}

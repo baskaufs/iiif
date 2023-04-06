@@ -1,0 +1,250 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://baskaufs.github.io/iiif/baskauf/1979/1979.0016_annotations.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/19",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1568,1714,629,351"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/20",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=3387,1334,297,469"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/21",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=3376,1979,1022,263"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/22",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=3225,1728,435,353"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/23",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1369,1245,379,325"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/24",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1988,1351,319,398"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/25",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2839,1853,433,333"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/26",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=946,1552,420,376"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016/annotation/27",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1536,1974,533,350"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    }
+  ]
+}

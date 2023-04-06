@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json",
+    "@type": "sc:Manifest",
+    "label": "Paris Garden",
+    "description": "painting by E. Boyd-Smith",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
+    "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+    "metadata": [
+        {
+            "label": "Artist",
+            "value": "Elmer Boyd Smith"
+        },
+        {
+            "label": "Accession Number",
+            "value": "1979.0016"
+        },
+        {
+            "label": "Creation Year",
+            "value": "1890 CE"
+        },
+        {
+            "label": "Title",
+            "value": "Paris Garden"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Paris Garden",
+            "canvases": [
+                {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1",
+                    "@type": "sc:Canvas",
+                    "width": 4445,
+                    "height": 2944,
+                    "label": "Paris Garden",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0016.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4445,
+                                "height": 2944,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0016.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0016.json_1"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0016.tif/full/!100,100/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://baskaufs.github.io/iiif/baskauf/1979/1979.0016_annotations.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

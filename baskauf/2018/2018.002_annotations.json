@@ -1,0 +1,61 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://baskaufs.github.io/iiif/baskauf/2018/2018.002_annotations.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/2018/2018.002/annotation/106",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/2018/2018.002.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,430,323"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/2018/2018.002.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Painting"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/2018/2018.002/annotation/107",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://iiif-manifest.library.vanderbilt.edu/gallery/2018/2018.002.json_1",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=291,293,82,31"
+        },
+        "within": {
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/2018/2018.002.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Animal"
+        }
+      ]
+    }
+  ]
+}

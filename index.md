@@ -2,6 +2,24 @@
 
 The base URL for this website is <https://baskaufs.github.io/iiif/>.
 
+## Links to fellows' Exhibit pages
+
+[Baptismal Ceremony](yella/exhibit)
+
+[viewer displaying Baptismal Ceremony annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/yella/baptismal_ceremony.json)
+
+--------------
+
+[Circumcision Mask](hassan/exhibit)
+
+[viewer displaying Circumcision Mask annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/circumcision_mask.json)
+
+--------------
+
+[Album du Siége](kim/exhibit)
+
+[viewer displaying Album du Siége annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/kim/album_du_siege.json)
+
 ## Serving a manifest
 
 To serve a manifest from a subdirectory, append the subdirectory name, followed by the manifest file name. For example:
@@ -11,6 +29,10 @@ To serve a manifest from a subdirectory, append the subdirectory name, followed 
 ## Editing a manifest
 
 An online manifest editor is available at <https://digital.bodleian.ox.ac.uk/manifest-editor/>. To load the manifest, use the manifest URL (as above). Save the manifest in your GitHub directory with a distinctive name and push it to GitHub using GitHub Desktop.
+
+## Validating a manifest
+
+If you are having problems with a manifest, run it through this manifest validator: <https://presentation-validator.iiif.io/>
 
 ## Displaying a manifest
 
@@ -105,6 +127,24 @@ Annotations URL:
 <https://baskaufs.github.io/iiif/baskauf/harvard_annotations.json>
 
 Notice that the `selector` values specify the x, y, width, and height of the bounding box. Modifying these values would fix the issues with the bounding box for the person.
+
+## Collecting annotation data
+
+[spreadsheet example](https://github.com/baskaufs/iiif/blob/main/baskauf/annotations/test_annotations.csv)
+
+To use the crop tool, you need the first part of the IIIF image URL. In a manifest, it's the `service` `@id`. Or take any IIIF image URL and it's the part before the location, like `/full/full/0/default.jpg`.
+
+[IIIF crop tool (for getting bounding box coordinates)](https://jbhoward-dublin.github.io/IIIF-imageManipulation/index.html?imageID=https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0321P_copy.tif)
+
+# Exhibit test
+
+[Example of an embedded iFrame](baskauf/iframe_test) created using the Exhibit platform.
+
+[Exhibit website](https://www.exhibit.so/)
+
+[Link to editor](https://exhibit.so/exhibits/create)
+
+[more editors](https://iiif.io/get-started/tools/#exhibition-and-guided-viewing)
 
 # Additional examples
 

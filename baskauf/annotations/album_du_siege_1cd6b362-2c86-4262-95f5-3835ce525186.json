@@ -1,0 +1,88 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_1cd6b362-2c86-4262-95f5-3835ce525186.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/11",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=109,115,2180,2774"
+        },
+        "within": {
+          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "This allegorical image exemplifies the suffering of the French during the Franco-Prussian War and the impact of the five month siege on Paris, which caused a famine. France is represented as the weeping, mother-like figure who expresses her desolation at the fate of her country. \n"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/12",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=600,148,880,488"
+        },
+        "within": {
+          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "1871 marks the year that this print was published in the satirical magazine Le Charivari and a year after Napol\u00e9on III was deposed after the French loss in the Battle of Sedan."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/13",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=645,588,877,811"
+        },
+        "within": {
+          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "While grieving, France covers her eyes, refusing to look at the sea of bodies that are scattered to the horizon line. \n"
+        }
+      ]
+    }
+  ]
+}

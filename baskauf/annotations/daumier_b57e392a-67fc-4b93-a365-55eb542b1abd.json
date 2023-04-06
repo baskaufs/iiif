@@ -1,0 +1,196 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/daumier_b57e392a-67fc-4b93-a365-55eb542b1abd.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/0",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,2962,3784"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Title: Le Bombardement. Qu\u2019estce que c\u2019est que \u00e7a, papa? C\u2019est le dernier bouquet des feux du 15 ao\u00fbt Collection: Vanderbilt University Fine Arts Gallery\nDate: 1871 \nProvenance: Gift of Dr. Thomas B. Brumbaugh, Professor Emeritus\nClassification: Print\nMedium: Paper, charcoal (graphite)\nTechnique: Lithography \nSheet size: 15 5/8 x 9 \u00be in\nImage size: 9 x 7 \u00bc in\nArtist:  Honor\u00e9 Daumier, Lithographer: Cham (Am\u00e9d\u00e9e de No\u00e9)\nAccession #: 1999.172dd"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/1",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,2962,3784"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Honor\u00e9e Daumier was one of the various artists for Charles Philipon's political satirical journals, La Silhouette, then La Caricature, and Le Charivari. Daumier is known for his lithographs critically depicting the sociopolitical climate in France during the nineteenth century. Daumier empathized with Les Bons Bourgeois (the urban middle class). This lithograph like many of Daumier's in his Album du Si\u00e8ge, created during the siege of Paris in 1870-71, depict scenes of everyday life amidst the chaos of the Franco-Prussian war as well as political satire aimed at the government and its leaders. France declared war on Prussia in July 1870, but was quickly defeated due to Prussia's superior military and tactics. The war had a devastating impact on French civilians, particularly those living in Paris, which was besieged for several months. Daumier's ability to capture the nuances of human expression and emotion is on full display in these lithographs. The series is a testament to Daumier's skill as a social commentator and artist, and remains a significant work of political satire to this day."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/2",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=737,2947,1285,196"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The lithograph is labeled \"Le Bombardement, \" meaning \"The Bombardment,\" and referencing the bombings of the Franco-Purssian War.  "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/3",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=389,3121,1285,196"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The caption notes an exchange between a father and son. The son says, \"Qu'est-ce que c'est que \u00e7a, papa?\"  which translates to \"What is that, dad?\" The father replies \"C'est le dernier bouquet des feux du 15 ao\u00fbt,\" translating to \"It is the last of the fireworks of August 15.\""
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/4",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=359,415,1533,1251"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "In this lithograph, Honore\u00e9 Daumier offers a stark contrast to the horrors of war depicted in his other lithographs from Album du Si\u00e8ge. Here, the scene is one of apparent celebration, with fireworks exploding in the sky over a darkened Paris. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/5",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=359,415,2047,2906"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "However, the dialogue between the father and son reveals that these are not fireworks at all, but bombs falling on the city. The title's reference to a fireworks display on August 15th adds a layer of irony to the scene, highlighting the absurdity of celebrating while under siege. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/6",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,2962,3784"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Daumier's use of humor and irony in this lithograph offers a poignant critique of the disconnect between the ruling class and the suffering of ordinary people during wartime."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_08e1c257-8de5-4e34-a905-64bd4508025f.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/14",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=16,39,2558,3327"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Title: Moi, je suis ravitaille!-, from Album du Si\u00e9ge\nCollection: Vanderbilt University Fine Arts Gallery\nDate: 1871 \nProvenance: Gift of Dr. Thomas B. Brumbaugh, Professor Emeritus\nClassification: Print\nMedium: Paper, charcoal (graphite)\nTechnique: Lithography \nSheet size: 15 5/8 x 9 \u00be in\nImage size: 9 x 7 \u00bc in\nArtist:  Honor\u00e9 Daumier, Lithographer: Cham (Am\u00e9d\u00e9e de No\u00e9)\nAccession #: 1999.172b"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/15",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=16,39,2558,3327"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "In \"Moi, je suis ravitaill\u00e9!\" from Album du Si\u00e8ge, Honor\u00e9 Daumier offers a commentary on the selfishness and indifference of those in power during times of crisis. Daumier expresses the sentiment of the Les Bons Bourgeois (the urban middle class). "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/16",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=230,2724,1344,201"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The caption \"Moi, je suis ravitaill\u00e9!...Le rest m'est \u00e9gal\" translates to \"Me, I am restocked! The rest do not matter to me.\u201d "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/17",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=273,928,1932,1948"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The lithograph depicts a portly, well-fed official with a smug expression on his face, surrounded by crates of food and drink. The official's dismissive statement highlights the callousness and lack of empathy shown by those in positions of privilege and power, especially during times of war. Daumier's use of caricature and satire in this lithograph is particularly effective, as he highlights the absurdity of the official's attitude and draws attention to the suffering and starvation of the less fortunate while Paris was under siege."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/18",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=16,39,2558,3327"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Honor\u00e9 Daumier's criticism of the Franco-Prussian War is evident throughout his Album du Si\u00e8ge lithographs. His works offer a scathing indictment of the conflict, and the suffering it inflicted upon ordinary people. Daumier's lithographs often focus on the impact of the war on civilians, particularly the hunger and deprivation caused by the siege of Paris. He also targets the corrupt and ineffectual government officials who were responsible for the war and its disastrous consequences. Daumier's work serves as a powerful critique of war as a destructive and futile enterprise, and a reminder of the human cost of political conflicts. His sharp social commentary and biting satire offer a powerful voice for those who suffered during this dark period in French history."
+        }
+      ]
+    }
+  ]
+}
