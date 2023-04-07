@@ -1,389 +1,385 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
-    "@type": "sc:Manifest",
-    "label": [],
-    "metadata": [
-        {
-            "label": "Accession Number",
-            "value": "1999.172dd"
-        },
-        {
-            "label": "Collection",
-            "value": "Vanderbilt University Fine Arts Gallery\n"
-        },
-        {
-            "label": "Date",
-            "value": "1871"
-        },
-        {
-            "label": "Classification",
-            "value": "Print "
-        },
-        {
-            "label": "Medium",
-            "value": "Paper, charcoal (graphite)\n"
-        },
-        {
-            "label": "Technique ",
-            "value": "Lithography\n"
-        },
-        {
-            "label": "Artist ",
-            "value": "Honor\u00e9 Daumier, Lithographer: Cham (Am\u00e9d\u00e9e de No\u00e9)\n"
-        }
-    ],
-    "description": [
-        {
-            "@value": "The Bombardment: \u201cWhat is that dad?\u201d \u201cThis is the last bunch of fires of August 15\u201d\n",
-            "@language": "en"
-        }
-    ],
-    "attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain\n",
-    "sequences": [
-        {
-            "@id": "http://288dbde4-9d75-43e7-ba46-ffb0a79317dd",
-            "@type": "sc:Sequence",
-            "label": [
-                {
-                    "@value": "Normal Sequence",
-                    "@language": "en"
-                }
-            ],
-            "canvases": [
-                {
-                    "@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
-                    "@type": "sc:Canvas",
-                    "label": "Title page",
-                    "height": 3424,
-                    "width": 2620,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://2847d602-bed4-4510-9f00-f5867ad007d1",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172gg.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172gg.tif",
-                                    "profile": [
-                                        "http://iiif.io/api/image/2/level0.json",
-                                        {
-                                            "maxArea": 8970880,
-                                            "qualities": [
-                                                "bitonal",
-                                                "default",
-                                                "gray",
-                                                "color"
-                                            ],
-                                            "supports": [
-                                                "regionByPx",
-                                                "sizeByW",
-                                                "sizeByWhListed",
-                                                "cors",
-                                                "regionSquare",
-                                                "sizeByDistortedWh",
-                                                "canonicalLinkHeader",
-                                                "sizeByConfinedWh",
-                                                "sizeByPct",
-                                                "jsonldMediaType",
-                                                "regionByPct",
-                                                "rotationArbitrary",
-                                                "sizeByH",
-                                                "baseUriRedirect",
-                                                "rotationBy90s",
-                                                "profileLinkHeader",
-                                                "sizeByForcedWh",
-                                                "sizeByWh",
-                                                "mirroring"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 3424,
-                                "width": 2620
-                            },
-                            "on": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a"
-                        }
-                    ],
-                    "related": ""
-                },
-                {
-                    "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
-                    "@type": "sc:Canvas",
-                    "label": "Le Bombardement",
-                    "height": 3836,
-                    "width": 2962,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://3a27d308-5cfb-439c-a388-f7e4b4d95d6c",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif",
-                                    "profile": [
-                                        "http://iiif.io/api/image/2/level0.json",
-                                        {
-                                            "maxArea": 10000000,
-                                            "qualities": [
-                                                "bitonal",
-                                                "default",
-                                                "gray",
-                                                "color"
-                                            ],
-                                            "supports": [
-                                                "regionByPx",
-                                                "sizeByW",
-                                                "sizeByWhListed",
-                                                "cors",
-                                                "regionSquare",
-                                                "sizeByDistortedWh",
-                                                "canonicalLinkHeader",
-                                                "sizeByConfinedWh",
-                                                "sizeByPct",
-                                                "jsonldMediaType",
-                                                "regionByPct",
-                                                "rotationArbitrary",
-                                                "sizeByH",
-                                                "baseUriRedirect",
-                                                "rotationBy90s",
-                                                "profileLinkHeader",
-                                                "sizeByForcedWh",
-                                                "sizeByWh",
-                                                "mirroring"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 3836,
-                                "width": 2962
-                            },
-                            "on": "http://b57e392a-67fc-4b93-a365-55eb542b1abd"
-                        }
-                    ],
-                    "otherContent": [
-                        {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_b57e392a-67fc-4b93-a365-55eb542b1abd.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
-                },
-                {
-                    "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
-                    "@type": "sc:Canvas",
-                    "label": "Laissez appuyer mo\u00e2\u2026",
-                    "height": 3400,
-                    "width": 2620,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://aed8123b-bb43-49b7-8ff0-1b9fa168b9cf",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172i.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172i.tif",
-                                    "profile": [
-                                        "http://iiif.io/api/image/2/level0.json",
-                                        {
-                                            "maxArea": 8908000,
-                                            "qualities": [
-                                                "bitonal",
-                                                "default",
-                                                "gray",
-                                                "color"
-                                            ],
-                                            "supports": [
-                                                "regionByPx",
-                                                "sizeByW",
-                                                "sizeByWhListed",
-                                                "cors",
-                                                "regionSquare",
-                                                "sizeByDistortedWh",
-                                                "canonicalLinkHeader",
-                                                "sizeByConfinedWh",
-                                                "sizeByPct",
-                                                "jsonldMediaType",
-                                                "regionByPct",
-                                                "rotationArbitrary",
-                                                "sizeByH",
-                                                "baseUriRedirect",
-                                                "rotationBy90s",
-                                                "profileLinkHeader",
-                                                "sizeByForcedWh",
-                                                "sizeByWh",
-                                                "mirroring"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 3400,
-                                "width": 2620
-                            },
-                            "on": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e"
-                        }
-                    ],
-                    "related": "",
-                    "otherContent": [
-                        {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_8bbf4faa-dcf2-45e5-9658-8a2549dfae6e.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
-                },
-                {
-                    "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
-                    "@type": "sc:Canvas",
-                    "label": "\u00c9pouvant\u00e9e de l'h\u00e9ritage",
-                    "height": 3138,
-                    "width": 2412,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://001ea85a-5ac8-4e77-8805-c220be50aa28",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif",
-                                    "profile": [
-                                        "http://iiif.io/api/image/2/level0.json",
-                                        {
-                                            "maxArea": 7568856,
-                                            "qualities": [
-                                                "bitonal",
-                                                "default",
-                                                "gray",
-                                                "color"
-                                            ],
-                                            "supports": [
-                                                "regionByPx",
-                                                "sizeByW",
-                                                "sizeByWhListed",
-                                                "cors",
-                                                "regionSquare",
-                                                "sizeByDistortedWh",
-                                                "canonicalLinkHeader",
-                                                "sizeByConfinedWh",
-                                                "sizeByPct",
-                                                "jsonldMediaType",
-                                                "regionByPct",
-                                                "rotationArbitrary",
-                                                "sizeByH",
-                                                "baseUriRedirect",
-                                                "rotationBy90s",
-                                                "profileLinkHeader",
-                                                "sizeByForcedWh",
-                                                "sizeByWh",
-                                                "mirroring"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 3138,
-                                "width": 2412
-                            },
-                            "on": "http://1cd6b362-2c86-4262-95f5-3835ce525186"
-                        }
-                    ],
-                    "related": "",
-                    "otherContent": [
-                        {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_1cd6b362-2c86-4262-95f5-3835ce525186.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
-                },
-                {
-                    "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
-                    "@type": "sc:Canvas",
-                    "label": "Moi, je suis ravitaill\u00e9!...",
-                    "height": 3424,
-                    "width": 2597,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://2bce10c3-e343-4c30-a92f-67c611c5eb95",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif",
-                                    "profile": [
-                                        "http://iiif.io/api/image/2/level0.json",
-                                        {
-                                            "maxArea": 8892128,
-                                            "qualities": [
-                                                "bitonal",
-                                                "default",
-                                                "gray",
-                                                "color"
-                                            ],
-                                            "supports": [
-                                                "regionByPx",
-                                                "sizeByW",
-                                                "sizeByWhListed",
-                                                "cors",
-                                                "regionSquare",
-                                                "sizeByDistortedWh",
-                                                "canonicalLinkHeader",
-                                                "sizeByConfinedWh",
-                                                "sizeByPct",
-                                                "jsonldMediaType",
-                                                "regionByPct",
-                                                "rotationArbitrary",
-                                                "sizeByH",
-                                                "baseUriRedirect",
-                                                "rotationBy90s",
-                                                "profileLinkHeader",
-                                                "sizeByForcedWh",
-                                                "sizeByWh",
-                                                "mirroring"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 3424,
-                                "width": 2597
-                            },
-                            "on": "http://08e1c257-8de5-4e34-a905-64bd4508025f"
-                        }
-                    ],
-                    "related": "",
-                    "otherContent": [
-                        {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_08e1c257-8de5-4e34-a905-64bd4508025f.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "structures": [],
-    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
-    "viewingDirection": "left-to-right",
-    "viewingHint": "Individuals "
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+	"@type": "sc:Manifest",
+	"label": [],
+	"metadata": [
+		{
+			"label": "Collection",
+			"value": "Vanderbilt University Fine Arts Gallery\n"
+		},
+		{
+			"label": "Date",
+			"value": "1871"
+		},
+		{
+			"label": "Classification",
+			"value": "Print "
+		},
+		{
+			"label": "Medium",
+			"value": "Paper, charcoal (graphite)\n"
+		},
+		{
+			"label": "Technique ",
+			"value": "Lithography\n"
+		},
+		{
+			"label": "Artist ",
+			"value": "Honoré Daumier, Lithographer: Cham (Amédée de Noé)\n"
+		}
+	],
+	"description": [
+		{
+			"@value": "Album du Siège par Chame et Daumier ",
+			"@language": "french "
+		}
+	],
+	"attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain\n",
+	"sequences": [
+		{
+			"@id": "http://288dbde4-9d75-43e7-ba46-ffb0a79317dd",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
+					"@type": "sc:Canvas",
+					"label": "Title page",
+					"height": 3424,
+					"width": 2620,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2847d602-bed4-4510-9f00-f5867ad007d1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172gg.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172gg.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 8970880,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3424,
+								"width": 2620
+							},
+							"on": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+					"@type": "sc:Canvas",
+					"label": "Le Bombardement",
+					"height": 3836,
+					"width": 2962,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3a27d308-5cfb-439c-a388-f7e4b4d95d6c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172dd.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3836,
+								"width": 2962
+							},
+							"on": "http://b57e392a-67fc-4b93-a365-55eb542b1abd"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_b57e392a-67fc-4b93-a365-55eb542b1abd.json",
+							"@type": "sc:AnnotationList"
+						}
+					]
+				},
+				{
+					"@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
+					"@type": "sc:Canvas",
+					"label": "Laissez appuyer moâ…",
+					"height": 3400,
+					"width": 2620,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://aed8123b-bb43-49b7-8ff0-1b9fa168b9cf",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172i.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172i.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 8908000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3400,
+								"width": 2620
+							},
+							"on": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e"
+						}
+					],
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_8bbf4faa-dcf2-45e5-9658-8a2549dfae6e.json",
+							"@type": "sc:AnnotationList"
+						}
+					]
+				},
+				{
+					"@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
+					"@type": "sc:Canvas",
+					"label": "Épouvantée de l'héritage",
+					"height": 3138,
+					"width": 2412,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://001ea85a-5ac8-4e77-8805-c220be50aa28",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172g.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 7568856,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3138,
+								"width": 2412
+							},
+							"on": "http://1cd6b362-2c86-4262-95f5-3835ce525186"
+						}
+					],
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_1cd6b362-2c86-4262-95f5-3835ce525186.json",
+							"@type": "sc:AnnotationList"
+						}
+					]
+				},
+				{
+					"@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+					"@type": "sc:Canvas",
+					"label": "Moi, je suis ravitaillé!...",
+					"height": 3424,
+					"width": 2597,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2bce10c3-e343-4c30-a92f-67c611c5eb95",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1999%2F1999.172b.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 8892128,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3424,
+								"width": 2597
+							},
+							"on": "http://08e1c257-8de5-4e34-a905-64bd4508025f"
+						}
+					],
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_08e1c257-8de5-4e34-a905-64bd4508025f.json",
+							"@type": "sc:AnnotationList"
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": [],
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "Individuals "
 }
