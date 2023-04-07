@@ -1,18 +1,18 @@
 {
   "@context": "http://www.shared-canvas.org/ns/context.json",
-  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_96d0b5ab-4131-4fa2-9ae2-834c78cf9b51.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_1cd6b362-2c86-4262-95f5-3835ce525186.json",
   "@type": "sc:AnnotationList",
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51/annotation/0",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/11",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
       ],
       "on": {
         "@type": "oa:SpecificResource",
-        "full": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51",
+        "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
         "selector": {
           "type": "oa:FragmentSelector",
           "value": "xywh=109,115,2180,2774"
@@ -32,14 +32,14 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51/annotation/1",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/12",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
       ],
       "on": {
         "@type": "oa:SpecificResource",
-        "full": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51",
+        "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
         "selector": {
           "type": "oa:FragmentSelector",
           "value": "xywh=600,148,880,488"
@@ -59,14 +59,14 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51/annotation/2",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/13",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
       ],
       "on": {
         "@type": "oa:SpecificResource",
-        "full": "http://96d0b5ab-4131-4fa2-9ae2-834c78cf9b51",
+        "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
         "selector": {
           "type": "oa:FragmentSelector",
           "value": "xywh=645,588,877,811"

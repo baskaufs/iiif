@@ -1,18 +1,18 @@
 {
   "@context": "http://www.shared-canvas.org/ns/context.json",
-  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_537b1f70-7505-4466-a07f-5d401b177f8f.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_8bbf4faa-dcf2-45e5-9658-8a2549dfae6e.json",
   "@type": "sc:AnnotationList",
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/3",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/7",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
       ],
       "on": {
         "@type": "oa:SpecificResource",
-        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
           "value": "xywh=298,393,1906,2361"
@@ -32,14 +32,14 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/4",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/8",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
       ],
       "on": {
         "@type": "oa:SpecificResource",
-        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
           "value": "xywh=288,334,920,609"
@@ -59,14 +59,14 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/5",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/9",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
       ],
       "on": {
         "@type": "oa:SpecificResource",
-        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
           "value": "xywh=203,1618,796,1025"
@@ -86,14 +86,14 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://537b1f70-7505-4466-a07f-5d401b177f8f/annotation/6",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/10",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
       ],
       "on": {
         "@type": "oa:SpecificResource",
-        "full": "http://537b1f70-7505-4466-a07f-5d401b177f8f",
+        "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
           "value": "xywh=236,701,1150,979"
