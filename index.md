@@ -6,19 +6,25 @@ The base URL for this website is <https://baskaufs.github.io/iiif/>.
 
 [Baptismal Ceremony](yella/exhibit)
 
-[viewer displaying Baptismal Ceremony annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/yella/baptismal_ceremony.json)
+[Mirador viewer displaying Baptismal Ceremony annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/yella/baptismal_ceremony.json)
+
+[Annona viewer displaying Baptismal Ceremony annotated manifest](https://ncsu-libraries.github.io/annona/tools/#/display?url=https%3A%2F%2Fbaskaufs.github.io%2Fiiif%2Fyella%2Fbaptismal_ceremony.json&viewtype=iiif-storyboard&manifesturl=&settings=%7B%22fullpage%22%3Atrue%7D)
 
 --------------
 
 [Circumcision Mask](hassan/exhibit)
 
-[viewer displaying Circumcision Mask annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/circumcision_mask.json)
+[Mirador viewer displaying Salampasu Mask annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/circumcision_mask.json)
+
+[Annona viewer displaying Salampasu Mask annotated manifest](https://ncsu-libraries.github.io/annona/tools/#/display?url=https%3A%2F%2Fbaskaufs.github.io%2Fiiif%2Fhassan%2Fcircumcision_mask.json&viewtype=iiif-storyboard&manifesturl=&settings=%7B%22fullpage%22%3Atrue%7D)
 
 --------------
 
 [Album du Siége](kim/exhibit)
 
-[viewer displaying Album du Siége annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/kim/album_du_siege.json)
+[Mirador viewer displaying Album du Siége annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/kim/album_du_siege.json)
+
+[Annona viewer displaying Album du Siége annotated manifest](https://ncsu-libraries.github.io/annona/tools/#/display?url=https%3A%2F%2Fbaskaufs.github.io%2Fiiif%2Fkim%2Falbum_du_siege.json&viewtype=iiif-storyboard&manifesturl=&settings=%7B%22fullpage%22%3Atrue%7D)
 
 ## Serving a manifest
 
