@@ -20,4 +20,4 @@ Image Size: 9 x 7 1/4 inches
 
 Artist: Honoré Daumier, Lithographer: Cham (Amédée de Noé)
 
-Ascension Numbers: 1999.172dd, 1999.172g, 1999.172i, 1999.172b
+Ascension Numbers: 1999.172gg, 1999.172dd, 1999.172g, 1999.172i, 1999.172b
