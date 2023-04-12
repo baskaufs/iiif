@@ -2,7 +2,7 @@
 
 <iframe src="https://www.exhibit.so/exhibits/WmomQBNqubsjy08yqBSl?embedded=true" width="1026" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
-# Tombstone Information
+# Description
 
 Title: Album du Siège 
 
@@ -12,11 +12,7 @@ Date: 1871
 
 Provenance: Gift of Dr. Thomas B. Brumbaugh, Professor Emeritus
 
-Classification: Print
-
-Medium: Paper, charcoal (graphite)
-
-Technique: Lithography
+Classification: Lithograph 
 
 Lithograph Size: 15 5/8 x 9 3/4 inches
 
