@@ -12,7 +12,7 @@ The base URL for this website is <https://baskaufs.github.io/iiif/>.
 
 --------------
 
-[Circumcision Mask](hassan/exhibit)
+[Salampasu Mask](hassan/exhibit)
 
 [Mirador viewer displaying Salampasu Mask annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/circumcision_mask.json)
 
