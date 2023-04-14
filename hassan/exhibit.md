@@ -1,6 +1,6 @@
 # Salampasu Mask
 
-Fellow: Faeid Hassan
+Buchanan Library Fellow: Faeid Hassan, Class of 2025
 
 Scroll text up to view presentation.
 
