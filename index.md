@@ -2,6 +2,8 @@
 
 The base URL for this website is <https://baskaufs.github.io/iiif/>.
 
+The links at the top of the page don't work. Click [here](home/) to go to the display home page.
+
 ## Links to fellows' Exhibit pages
 
 [Baptismal Ceremony](yella/exhibit)
