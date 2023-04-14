@@ -5,7 +5,7 @@
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/7",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/11",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -15,10 +15,10 @@
         "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=298,393,1906,2361"
+          "value": "xywh=0,0,2619,3399"
         },
         "within": {
-          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
           "@type": "sc:Manifest"
         }
       },
@@ -32,7 +32,7 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/8",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/12",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -42,10 +42,10 @@
         "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=288,334,920,609"
+          "value": "xywh=521,2748,1061,331"
         },
         "within": {
-          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
           "@type": "sc:Manifest"
         }
       },
@@ -53,13 +53,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This phrase translates to the \u201cEastern Question,\u201d which is a reference to the declining stability of the Ottoman empire which heightened European political geopolitics and competition in colonialism. "
+          "chars": "\u201cLaissez appuyer mo\u00e2 sur le bras \u00e0 v\u00f4s!\u201d, translates to \u201cLet me lean on your arm!\u201d The response to this, \u201cFallait pas me laisser amputer,\u201d translates to \u201cShouldn\u2019t have let me amputate.\u201d"
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/9",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/13",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -69,10 +69,10 @@
         "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=203,1618,796,1025"
+          "value": "xywh=229,364,1048,675"
         },
         "within": {
-          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
           "@type": "sc:Manifest"
         }
       },
@@ -80,13 +80,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "\u201cAlbion\u201d references the phrase \u201cPerfidious Albion,\u201d which was a pejorative term that was frequently levelled at England due to their history of treachery and disloyalty. In the context of the Franco-Prussian War, anti-English sentiments may have stemmed from the overwhelming English opinions that France instigated the war. \n"
+          "chars": "This phrase translates to the \u201cEastern Question,\u201d which is a reference to the declining stability of the Ottoman Empire. As internal attempts to reform the so-called \u201csick man of Europe\u201d failed in the long-run, various European nations stood eagerly at the sides, ready to snatch up potential colonies."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/10",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/14",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -96,10 +96,10 @@
         "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=236,701,1150,979"
+          "value": "xywh=193,1611,868,1110"
         },
         "within": {
-          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
           "@type": "sc:Manifest"
         }
       },
@@ -107,7 +107,34 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Classical imagery is abound in Daumier\u2019s other works. This character is Mars, the Roman god of war who is a recurring motif in Le Charivari. The trident completes the allegory to England, a symbol of the nation\u2019s mastery of the seas."
+          "chars": "\u201cAlbion\u201d references the phrase \u201cPerfidious Albion,\" which was a pejorative term that was frequently leveled at England due to their history of treachery and disloyalty. By the nineteenth century, the phrase became a common utterance whenever England and France had tense relations. In the context of the Franco-Prussian War, anti-English sentiments may have stemmed from the overwhelming English opinions that France instigated the war."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/15",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=278,717,1104,966"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Classical imagery is abundant in Daumier\u2019s other works. This character is Mars, the Roman god of war who is a recurring motif in Le Charivari, often symbolizing war threats. The trident completes the allegory to England, a symbol of the nation\u2019s mastery of the seas."
         }
       ]
     }

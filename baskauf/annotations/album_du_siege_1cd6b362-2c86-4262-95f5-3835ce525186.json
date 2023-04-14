@@ -5,7 +5,7 @@
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/11",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/16",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -15,10 +15,10 @@
         "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=109,115,2180,2774"
+          "value": "xywh=0,0,2411,3137"
         },
         "within": {
-          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
           "@type": "sc:Manifest"
         }
       },
@@ -26,13 +26,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This allegorical image exemplifies the suffering of the French during the Franco-Prussian War and the impact of the five month siege on Paris, which caused a famine. France is represented as the weeping, mother-like figure who expresses her desolation at the fate of her country. \n"
+          "chars": "This allegorical image exemplifies the suffering of the French during the Franco-Prussian War and the impact of the five-month siege on Paris, which caused a famine. France and the year 1871 is represented as the weeping, mother-like figure who expresses her desolation at the fate of her country."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/12",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/17",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -42,10 +42,10 @@
         "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=600,148,880,488"
+          "value": "xywh=488,2873,1206,265"
         },
         "within": {
-          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
           "@type": "sc:Manifest"
         }
       },
@@ -53,13 +53,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "1871 marks the year that this print was published in the satirical magazine Le Charivari and a year after Napol\u00e9on III was deposed after the French loss in the Battle of Sedan."
+          "chars": "\u201c\u00c9pouvant\u00e9e de l'h\u00e9ritage,\u201d translates to \u201cDismayed by her legacy.\u201d"
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/13",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/18",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -69,10 +69,10 @@
         "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=645,588,877,811"
+          "value": "xywh=687,214,727,371"
         },
         "within": {
-          "@id": "http://9a83a7d3-d6c5-41cc-b549-2a6409857550",
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
           "@type": "sc:Manifest"
         }
       },
@@ -80,7 +80,34 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "While grieving, France covers her eyes, refusing to look at the sea of bodies that are scattered to the horizon line. \n"
+          "chars": "1871 also marks the year that this print was published in the satirical magazine Le Charivari. It also is the year after Emperor Napol\u00e9on III was deposed when the French were defeated in the disastrous Battle of Sedan. This conflict opened up the path for Prussian forces to take Paris, leading to the siege"
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/19",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://1cd6b362-2c86-4262-95f5-3835ce525186",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=672,570,808,1058"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "A grieving France is the central figure in this print. She covers her eyes, refusing to look at the sea of bodies that are scattered to the horizon line."
         }
       ]
     }
