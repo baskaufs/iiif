@@ -2,7 +2,9 @@
 
 Fellows: Haelee Kim and Daniela Cumming
 
-\[[center viewer](#viewer)\] \[[go to artwork description](#description)\]
+Scroll text up to view presentation.
+
+\[[center presentation](#viewer)\] \[[go to artwork description](#description)\] \[[IIIF manifest](https://baskaufs.github.io/iiif/kim/album_du_siege.json)\] \[[manifest in viewer](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/kim/album_du_siege.json)\]
 
 <iframe id="viewer" src="https://www.exhibit.so/exhibits/WmomQBNqubsjy08yqBSl?embedded=true" width="1026" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 

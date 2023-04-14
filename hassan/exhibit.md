@@ -1,8 +1,10 @@
 # Salampasu Mask
 
-Fellow: Faeid Hassan 
+Fellow: Faeid Hassan
 
-\[[center viewer](#viewer)\] \[[go to artwork description](#description)\]
+Scroll text up to view presentation.
+
+\[[center presentation](#viewer)\] \[[go to artwork description](#description)\] \[[IIIF manifest](https://baskaufs.github.io/iiif/hassan/salampasu_mask.json)\] \[[manifest in viewer](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/salampasu_mask.json)\]
 
 <iframe id="viewer" src="https://www.exhibit.so/exhibits/eq8JqTHzlejEYQoB3mpc?embedded=true" width="1024" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 

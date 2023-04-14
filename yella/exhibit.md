@@ -2,7 +2,9 @@
 
 Fellow: Mara Yella
 
-\[[center viewer](#viewer)\] \[[go to artwork description](#description)\]
+Scroll text up to view presentation.
+
+\[[center presentation](#viewer)\] \[[go to artwork description](#description)\] \[[IIIF manifest](https://baskaufs.github.io/iiif/yella/baptismal_ceremony.json)\] \[[manifest in viewer](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/yella/baptismal_ceremony.json)\]
 
 <iframe id="viewer" src="https://www.exhibit.so/exhibits/IVf1ENelbpznAoCZnwyZ?embedded=true" width="1024" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
