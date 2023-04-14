@@ -6,6 +6,8 @@ Fellow: Mara Yella
 
 <iframe id="viewer" src="https://www.exhibit.so/exhibits/IVf1ENelbpznAoCZnwyZ?embedded=true" width="1024" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
+<br/><br/>
+
 # Description
 
 Baptismal ceremony of St. Augustine​ presided over by St. Ambrose. Painted in the Mannerism style, the artist was a student of the Bolognese School of Painting.
@@ -28,3 +30,4 @@ Baptismal ceremony of St. Augustine​ presided over by St. Ambrose. Painted in 
 
 **Nationality:** Italy
 
+[top of page](#title)
