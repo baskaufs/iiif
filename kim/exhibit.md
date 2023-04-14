@@ -4,7 +4,7 @@ Fellows: Haelee Kim and Daniela Cumming
 
 [center viewer](#viewer) [go to artwork metadata](#metadata)
 
-<a id="viewer"><iframe src="https://www.exhibit.so/exhibits/WmomQBNqubsjy08yqBSl?embedded=true" width="1026" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe></a>
+<a id="viewer"></a><iframe src="https://www.exhibit.so/exhibits/WmomQBNqubsjy08yqBSl?embedded=true" width="1026" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
 <a id="metadata"></a>
 
