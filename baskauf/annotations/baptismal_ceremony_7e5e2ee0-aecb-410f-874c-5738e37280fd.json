@@ -15,7 +15,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=0,149,4417,3677"
+          "value": "xywh=0,0,4417,3677"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -42,7 +42,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=1104,2231,1369,1452"
+          "value": "xywh=1104,2082,1369,1452"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -69,7 +69,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2253,1242,839,1507"
+          "value": "xywh=2253,1093,839,1507"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -96,7 +96,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=1783,1253,652,1055"
+          "value": "xywh=1783,1104,652,1055"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -123,7 +123,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2297,2683,646,933"
+          "value": "xywh=2297,2534,646,933"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -150,7 +150,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=696,563,3396,933"
+          "value": "xywh=696,414,3396,933"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -177,7 +177,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=0,1325,762,1988"
+          "value": "xywh=0,1176,762,1988"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",

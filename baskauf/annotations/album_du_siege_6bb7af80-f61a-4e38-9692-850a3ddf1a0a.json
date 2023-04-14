@@ -1,0 +1,169 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/album_du_siege_6bb7af80-f61a-4e38-9692-850a3ddf1a0a.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a/annotation/0",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,2620,3422"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Honor\u00e9 Daumier (1808-1879) was a French painter, sculptor, and printmaker. He is known for his lithographs that critically depicted the tumultuous sociopolitical climate in France during the nineteenth century."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a/annotation/1",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=698,1713,1153,373"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Honor\u00e9 Daumier made sketches and lithographs for Charles Philipon's political satirical journals, La Silhouette, La Caricature, and then Le Charivari. The latter was where this collection, the Album du Si\u00e8ge, was published in the series \u201cActualit\u00e9s\u201d (News of the Day) between the years 1870-1871. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a/annotation/2",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,2620,3422"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Honor\u00e9 Daumier's criticism of the Franco-Prussian War is evident throughout his Album du Si\u00e8ge lithographs. His works offer a scathing indictment of the conflict, and the suffering it inflicted upon ordinary people. The series is a testament to Daumier's skill as a social commentator and artist, and remains a significant work of political satire to this day."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a/annotation/3",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=596,20,1369,969"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Daumier also focused on the suffering of civilians during the war, particularly the hunger and deprivation caused by the siege of Paris. The desperateness and hunger of Parisians was represented by a Crowned Paris eating rats. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a/annotation/4",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=108,13,2361,966"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Starvation and food scarcity even drove civilians to eat cats and dogs to survive: \"Cut off from supplies from the countryside, the Parisians held out by eating dogs, cats, and even most of the animals in the Paris zoo. The trees on the Champs-Elyse\u0301es and in parks were cut down and burned for fuel.\u201d Therefore, Daumier targeted the corrupt and ineffectual government officials who were responsible for the war and its disastrous consequences. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a/annotation/5",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://6bb7af80-f61a-4e38-9692-850a3ddf1a0a",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=832,1962,871,390"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The entire album was priced at 5 francs during publication, although curiously, this edition is missing its price tag."
+        }
+      ]
+    }
+  ]
+}
