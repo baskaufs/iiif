@@ -169,13 +169,7 @@
                             "on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
                         }
                     ],
-                    "related": "",
-                    "otherContent": [
-                        {
-                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/circumcision_mask_7df2865b-ee36-47b6-9ebd-a61ed2317cd9.json",
-                            "@type": "sc:AnnotationList"
-                        }
-                    ]
+                    "related": ""
                 },
                 {
                     "@id": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77",
