@@ -1,6 +1,6 @@
 # Baptismal Ceremony
 
-Fellow: Mara Yella
+Buchanan Library Fellow: Mara Yella, Class of 2023
 
 Scroll text up to view presentation.
 
