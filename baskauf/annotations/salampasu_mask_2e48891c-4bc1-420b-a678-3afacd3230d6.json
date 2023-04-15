@@ -1,0 +1,61 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_2e48891c-4bc1-420b-a678-3afacd3230d6.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://2e48891c-4bc1-420b-a678-3afacd3230d6/annotation/1",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://2e48891c-4bc1-420b-a678-3afacd3230d6",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,3325,3649"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Once a man owned the mask, his peers taught the new member the knowledge associated with it. There are two types of Sala Mpasu masks: the first is made of fiber and is often distinguished with a hat made of cane or feathers and a raffia beard. The second is made of wood, characterized by its woven cane balls on top of the head, a broad forehead, and the way it bares menacing, pointed teeth. A subset of the wood masks are covered in copper sheets, the meaning of which has changed over time as the copper industry in the region changed. At the time that this mask was made in the 20th century, copper was an important symbol of wealth and authority. Mongongo was disbanded in the 1960s with independence from Belgium and the Sala Mpasu began making masks specifically for the market and for export."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://2e48891c-4bc1-420b-a678-3afacd3230d6/annotation/2",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://2e48891c-4bc1-420b-a678-3afacd3230d6",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1060,964,1185,561"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "This ceremonial mask, alongside many others, have amply domed, bulging forehead, which extends over a snub nose. The wooden mask is covered in copper sheets and includes a raffia beard. The raffia is likely not original.  "
+        }
+      ]
+    }
+  ]
+}
