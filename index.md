@@ -14,11 +14,11 @@ The links at the top of the page don't work. Click [here](home/) to go to the di
 
 --------------
 
-[Salampasu Mask](hassan/exhibit)
+[Sala Mpasu Mask](hassan/exhibit)
 
-[Mirador viewer displaying Salampasu Mask annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/salampasu_mask.json)
+[Mirador viewer displaying Sala Mpasu Mask annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/hassan/salampasu_mask.json)
 
-[Annona viewer displaying Salampasu Mask annotated manifest](https://ncsu-libraries.github.io/annona/tools/#/display?url=https%3A%2F%2Fbaskaufs.github.io%2Fiiif%2Fhassan%2Fsalampasu_mask.json&viewtype=iiif-storyboard&manifesturl=&settings=%7B%22fullpage%22%3Atrue%7D)
+[Annona viewer displaying Sala Mpasu Mask annotated manifest](https://ncsu-libraries.github.io/annona/tools/#/display?url=https%3A%2F%2Fbaskaufs.github.io%2Fiiif%2Fhassan%2Fsalampasu_mask.json&viewtype=iiif-storyboard&manifesturl=&settings=%7B%22fullpage%22%3Atrue%7D)
 
 --------------
 
