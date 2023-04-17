@@ -1,347 +1,371 @@
 {
-	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
-	"@type": "sc:Manifest",
-	"label": "A Baptismal Ceremony",
-	"metadata": [
-		{
-			"label": "Provenance",
-			"value": "(Volterra, Florence); sold to Samuel H. Kress [1863-1955] in 1930; gift 1961 to George Peabody College for Teachers, now Vanderbilt University Fine Arts Gallery, in 1961, no. 1979.0648P."
-		},
-		{
-			"label": "Accession Number",
-			"value": "1979.0648P"
-		},
-		{
-			"label": "Kress Number",
-			"value": "78"
-		},
-		{
-			"label": "Credit Line",
-			"value": "Collection of Vanderbilt University Fine Arts Gallery"
-		},
-		{
-			"label": "Gift of",
-			"value": "The Samuel H. Kress Foundation"
-		},
-		{
-			"label": "Artist",
-			"value": "Amico Aspertini"
-		},
-		{
-			"label": "Date",
-			"value": "c. 16th century"
-		},
-		{
-			"label": "Medium",
-			"value": "Tempera on Panel"
-		},
-		{
-			"label": "Nationality",
-			"value": "Italy"
-		}
-	],
-	"description": [
-		{
-			"@value": "Baptismal ceremony of St. Augustine​ presided over by St. Ambrose. Painted in the Mannerism style, the artist was a student of the Bolognese School of Painting. ",
-			"@language": "en"
-		}
-	],
-	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
-	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain",
-	"sequences": [
-		{
-			"@id": "http://eee8eea4-630d-481c-a328-befc6433d92c",
-			"@type": "sc:Sequence",
-			"label": [
-				{
-					"@value": "Normal Sequence",
-					"@language": "en"
-				}
-			],
-			"canvases": [
-				{
-					"@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
-					"@type": "sc:Canvas",
-					"label": "Full View",
-					"height": 3689,
-					"width": 4383,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://1d54be0f-4f69-435e-9ff7-266c63a8b649",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://kress.iiifhosting.com/iiif/6c66953c497fdf2dcbd83e46356988dd937b8565ca5066380eb56670113eaae0/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://kress.iiifhosting.com/iiif/6c66953c497fdf2dcbd83e46356988dd937b8565ca5066380eb56670113eaae0",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json",
-										{
-											"formats": [
-												"jpg"
-											],
-											"qualities": [
-												"native",
-												"color",
-												"gray"
-											],
-											"supports": [
-												"regionByPct",
-												"regionSquare",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"sizeAboveFull",
-												"rotationBy90s",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 3689,
-								"width": 4383
-							},
-							"on": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
-						}
-					],
-					"related": "",
-					"otherContent": [
-						{
-							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_7e5e2ee0-aecb-410f-874c-5738e37280fd.json",
-							"@type": "sc:AnnotationList"
-						}
-					]
-				},
-				{
-					"@id": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd",
-					"@type": "sc:Canvas",
-					"label": "Full View, Before Treatment",
-					"height": 3706,
-					"width": 4352,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ef1bbb0b-8233-4d80-b0a1-667af4c1abc7",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P.tif/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level0.json",
-										{
-											"maxArea": 10000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 3706,
-								"width": 4352
-							},
-							"on": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad",
-					"@type": "sc:Canvas",
-					"label": "Full View, Framed",
-					"height": 3471,
-					"width": 4000,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5e94f49a-e00b-4d98-929d-0896c4d2fc6d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://api.nga.gov/iiif/edecf3c2-3869-4b03-872f-59cb735d994f/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://api.nga.gov/iiif/edecf3c2-3869-4b03-872f-59cb735d994f",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json",
-										{
-											"formats": [
-												"jpg"
-											],
-											"qualities": [
-												"native",
-												"color",
-												"gray"
-											],
-											"supports": [
-												"regionByPct",
-												"regionSquare",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"sizeAboveFull",
-												"rotationBy90s",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 3471,
-								"width": 4000
-							},
-							"on": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Photographer",
-							"value": "Louis Werner, NYC"
-						},
-						{
-							"label": "Label",
-							"value": "Value"
-						}
-					]
-				},
-				{
-					"@id": "http://ad4e1082-0b8b-41e0-bbf2-302024adb164",
-					"@type": "sc:Canvas",
-					"label": "Painting in the Kress Apartment, view 1",
-					"height": 2494,
-					"width": 3123,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://07be47c6-21eb-484d-8e3f-bd1d29917ecf",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://api.nga.gov/iiif/632c40b4-1804-48a9-a2b1-0a8c67d437ca/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://api.nga.gov/iiif/632c40b4-1804-48a9-a2b1-0a8c67d437ca",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json",
-										{
-											"formats": [
-												"jpg"
-											],
-											"qualities": [
-												"native",
-												"color",
-												"gray"
-											],
-											"supports": [
-												"regionByPct",
-												"regionSquare",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"sizeAboveFull",
-												"rotationBy90s",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2494,
-								"width": 3123
-							},
-							"on": "http://ad4e1082-0b8b-41e0-bbf2-302024adb164"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://b8f2ee88-dbbd-4128-a8df-4fee4a091b9c",
-					"@type": "sc:Canvas",
-					"label": "Painting in the Kress Apartment, view 2",
-					"height": 2523,
-					"width": 3114,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://4506e06d-5c93-41e8-ab11-5bc96cf5e618",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://api.nga.gov/iiif/965999b4-6004-446d-86f7-c9f4358a696f/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://api.nga.gov/iiif/965999b4-6004-446d-86f7-c9f4358a696f",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json",
-										{
-											"formats": [
-												"jpg"
-											],
-											"qualities": [
-												"native",
-												"color",
-												"gray"
-											],
-											"supports": [
-												"regionByPct",
-												"regionSquare",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"sizeAboveFull",
-												"rotationBy90s",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 2523,
-								"width": 3114
-							},
-							"on": "http://b8f2ee88-dbbd-4128-a8df-4fee4a091b9c"
-						}
-					],
-					"related": ""
-				}
-			]
-		}
-	],
-	"structures": [],
-	"thumbnail": {
-		"@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
-	}
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+    "@type": "sc:Manifest",
+    "label": "A Baptismal Ceremony",
+    "metadata": [
+        {
+            "label": "Provenance",
+            "value": "(Volterra, Florence); sold to Samuel H. Kress [1863-1955] in 1930; gift 1961 to George Peabody College for Teachers, now Vanderbilt University Fine Arts Gallery, in 1961, no. 1979.0648P."
+        },
+        {
+            "label": "Accession Number",
+            "value": "1979.0648P"
+        },
+        {
+            "label": "Kress Number",
+            "value": "78"
+        },
+        {
+            "label": "Credit Line",
+            "value": "Collection of Vanderbilt University Fine Arts Gallery"
+        },
+        {
+            "label": "Gift of",
+            "value": "The Samuel H. Kress Foundation"
+        },
+        {
+            "label": "Artist",
+            "value": "Amico Aspertini"
+        },
+        {
+            "label": "Date",
+            "value": "c. 16th century"
+        },
+        {
+            "label": "Medium",
+            "value": "Tempera on Panel"
+        },
+        {
+            "label": "Nationality",
+            "value": "Italy"
+        }
+    ],
+    "description": [
+        {
+            "@value": "Baptismal ceremony of St. Augustine\u200b presided over by St. Ambrose. Painted in the Mannerism style, the artist was a student of the Bolognese School of Painting. ",
+            "@language": "en"
+        }
+    ],
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain",
+    "sequences": [
+        {
+            "@id": "http://eee8eea4-630d-481c-a328-befc6433d92c",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+                    "@type": "sc:Canvas",
+                    "label": "Full View",
+                    "height": 3689,
+                    "width": 4383,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://1d54be0f-4f69-435e-9ff7-266c63a8b649",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://kress.iiifhosting.com/iiif/6c66953c497fdf2dcbd83e46356988dd937b8565ca5066380eb56670113eaae0/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://kress.iiifhosting.com/iiif/6c66953c497fdf2dcbd83e46356988dd937b8565ca5066380eb56670113eaae0",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 3689,
+                                "width": 4383
+                            },
+                            "on": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
+                        }
+                    ],
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_7e5e2ee0-aecb-410f-874c-5738e37280fd.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd",
+                    "@type": "sc:Canvas",
+                    "label": "Full View, Before Treatment",
+                    "height": 3706,
+                    "width": 4352,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://ef1bbb0b-8233-4d80-b0a1-667af4c1abc7",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.0648P.tif",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level0.json",
+                                        {
+                                            "maxArea": 10000000,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 3706,
+                                "width": 4352
+                            },
+                            "on": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd"
+                        }
+                    ],
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_4cb15f65-9c32-4644-b70a-74080d6d98dd.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad",
+                    "@type": "sc:Canvas",
+                    "label": "Full View, Framed",
+                    "height": 3471,
+                    "width": 4000,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://5e94f49a-e00b-4d98-929d-0896c4d2fc6d",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api.nga.gov/iiif/edecf3c2-3869-4b03-872f-59cb735d994f/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api.nga.gov/iiif/edecf3c2-3869-4b03-872f-59cb735d994f",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 3471,
+                                "width": 4000
+                            },
+                            "on": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "Photographer",
+                            "value": "Louis Werner, NYC"
+                        },
+                        {
+                            "label": "Label",
+                            "value": "Value"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_1d5300bd-caa0-4329-843b-e10a025ec8ad.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://ad4e1082-0b8b-41e0-bbf2-302024adb164",
+                    "@type": "sc:Canvas",
+                    "label": "Painting in the Kress Apartment, view 1",
+                    "height": 2494,
+                    "width": 3123,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://07be47c6-21eb-484d-8e3f-bd1d29917ecf",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api.nga.gov/iiif/632c40b4-1804-48a9-a2b1-0a8c67d437ca/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api.nga.gov/iiif/632c40b4-1804-48a9-a2b1-0a8c67d437ca",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 2494,
+                                "width": 3123
+                            },
+                            "on": "http://ad4e1082-0b8b-41e0-bbf2-302024adb164"
+                        }
+                    ],
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_ad4e1082-0b8b-41e0-bbf2-302024adb164.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://b8f2ee88-dbbd-4128-a8df-4fee4a091b9c",
+                    "@type": "sc:Canvas",
+                    "label": "Painting in the Kress Apartment, view 2",
+                    "height": 2523,
+                    "width": 3114,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://4506e06d-5c93-41e8-ab11-5bc96cf5e618",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api.nga.gov/iiif/965999b4-6004-446d-86f7-c9f4358a696f/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api.nga.gov/iiif/965999b4-6004-446d-86f7-c9f4358a696f",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": [
+                                                "jpg"
+                                            ],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 2523,
+                                "width": 3114
+                            },
+                            "on": "http://b8f2ee88-dbbd-4128-a8df-4fee4a091b9c"
+                        }
+                    ],
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_b8f2ee88-dbbd-4128-a8df-4fee4a091b9c.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [],
+    "thumbnail": {
+        "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
+    }
 }

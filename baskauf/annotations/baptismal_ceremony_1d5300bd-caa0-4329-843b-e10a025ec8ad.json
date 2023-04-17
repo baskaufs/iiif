@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_1d5300bd-caa0-4329-843b-e10a025ec8ad.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad/annotation/18",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,3999,3470"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Before conservation, the painting's dull and dirty condition illustrates the degradation that can occur without proper care."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_ad4e1082-0b8b-41e0-bbf2-302024adb164.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ad4e1082-0b8b-41e0-bbf2-302024adb164/annotation/19",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ad4e1082-0b8b-41e0-bbf2-302024adb164",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,3122,2493"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The painting hung in the Kress Apartment before it was donated to the George Peabody College for Teachers in 1961."
+        }
+      ]
+    }
+  ]
+}

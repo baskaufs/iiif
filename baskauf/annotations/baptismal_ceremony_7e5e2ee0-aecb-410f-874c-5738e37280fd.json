@@ -15,7 +15,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=0,0,4417,3677"
+          "value": "xywh=0,149,4417,3677"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -26,7 +26,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This painting, titled Baptismal Ceremony, was painted by Amico Aspertini sometime between 1515 and 1520. Aspertini was a member of the Bolognese School of painting during the Italian High Renaissance. It depicts the baptism of St. Augustine by St. Ambrose, Bishop of Milan, in 387 CE. This is a pivotal point in Catholic history, as St. Augustine proved to be a key figure who made major contributions to the Church through his writings. Similarly, St. Ambrose was also a major Catholic figure. This painting therefore illustrates a momentous time when one great man baptized what would soon become another great man."
+          "chars": "This painting, titled Baptismal Ceremony, was painted by Amico Aspertini sometime between 1515 and 1520. It depicts the baptism of St. Augustine by St. Ambrose, Bishop of Milan, in 387 CE. "
         }
       ]
     },
@@ -53,13 +53,40 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "St. Augustine is depicted knealing before the baptismal font, with his hands in a prayer position. He wears a white cloth to represent the purity of life after baptism: past sins are forgotten and the baptized person is now born again without sin. Augustine also wears a gold circlet with a blue stone in the center, possibly representing _______\n\nSt. Augustine was raised by a Catholic mother, Monica, and a predominately pagan father. He grew up outside of the Church, even living in sin by fathering a child out of wedlock or by endulging in very hedonistic persuits. During this time, he was improving his education in rhetoric, gaining a solid foundation for his later scholarly works. However, after having a great relgious awakening through reading the works of St. Paul, he converted to Christianity, While he appears to be in his adolescence or young adulthood here, historically he would have been about 31 at the time of his baptism. St. Augustine would go on to be considered one of the Great Church Fathers, for his many writings about Christianity such as Confessions and The City of God. He used his rhetoric education to preach, thus spreading Christianity and expanding the scholarly and intellectual nature of the religion."
+          "chars": "St. Augustine kneels before the baptismal font, with his hands in a prayer position. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
       "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/2",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1391,2805,718,541"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "He wears a white cloth to represent the purity of life after baptism: past sins are forgotten, and the baptized person is now born again without sin."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/3",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -80,13 +107,94 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "St. Ambrose is painted in full regalia, as he is presiding over the baptism himself. He wears a mitre on his head, a traditional headdress of Catholic bishops, and is dressed in white with an intricate gold cloak which depicts other Catholic figures. He also carries a crozier staff which mimics a pastoral staff, a common Catholic staff design which references the allusion of Christ as the Good Shepherd. The white clothing worn by Ambrose may be a nod to the baptism of St. Augustine occurring during Easter\n\nSt. Ambrose is also considered a Great Church Father, also mainly for his writings. He was a large influcence on St. Augustine, both before and after the latter converted to Christianity. Some of his influence is accounted by Augustine in his Confessions. Ambrose was a fierce propoent of Catholicism both in speeches and in his writings, which led to his importance in the Church. "
+          "chars": "St. Ambrose wears his full regalia as he presides over St. Augustine's baptism. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/3",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/4",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2396,1458,420,392"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "He wears a mitre on his head, a traditional headdress of Catholic bishops."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/5",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2253,1883,834,867"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "With the baptism occurring during Easter, the time when the liturgical color is white, St. Ambrose dons white robes with an intricate gold cloak."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/6",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2783,1463,420,718"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "He also carries a crozier staff which mimics a pastoral staff, a common Catholic staff design which alludes to Christ as the Good Shepherd."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/7",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -107,13 +215,67 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "The woman depicted here is thought to be St. Monica, the mother of St. Augustine. She was known to be anincredibly devout Catholic, who lived a virtuous life despite her many hardships. She is often depicted in blue, a color usually assocaited with the Virgin Mary. Blue is also often seen as a sorrowful color, which would reflect Monica's tumultuous life. \n\nShe is shown here reading from an open book, likely the Bible. Due to her large influence on Augustine's religious experience, it is very reasonable for her to be present during his baptism"
+          "chars": "St. Monica appears here to accompany St. Augustine, her son. Monica greatly influenced Augustine's religious experience, hence her presence at his baptism. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/4",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/8",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1794,1839,613,712"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Artists often depict her in blue, a color usually associated with the Virgin Mary. Blue is also a sorrowful color, which reflects Monica's tumultuous life."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/9",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2093,1927,386,293"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "She reads from an open book, likely the Bible. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/10",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -134,13 +296,67 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Jesus appears as a child, possibly alluding to a well known story of St. Augustine meeting a child on a beach in Jacobus de Voragine's Golden Legend, a late Medieval text. The story goes that Augustine came upon a child who was trying to fit the ocean into a small hole in the sand. Upon Augustine's statement that fitting the vast ocean into the small hole, the child compares that to attempting to understand the Holy Trinity. The lesson here being that there are some mysteries and concepts that cannot be learned etiher all at once or at all.\n\nJesus, like Augustine and Ambrose, is wearing white. This is likely to symbolize the innocence and purity of the Christ child, similar to baptism. Jesus is usually depicted with a gold nimbus, or halo. This is omitted here, but there is a slight pattern to Ambrose's robes behind the child which mimic the shape of a nimbus."
+          "chars": "Jesus appears as a child, possibly alluding to a well-known story of St. Augustine meeting a child on a beach in Jacobus de Voragine's Golden Legend, a late Medieval text."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/5",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/11",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2512,3125,298,337"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Jesus, like Augustine and Ambrose, wears white. This may symbolize the innocence and purity of the Christ child, similar to the purity one receives after their baptism. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/12",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2457,2832,392,370"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Artistic depictions of Jesus usually include a gold nimbus, or halo. This is omitted here, but the pattern on Ambrose's robes behind the child mimic the shape of a nimbus."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/13",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -161,13 +377,67 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "The baptism is set in a large room, with an open view of the landscape beyond the daisy carved vaulted arches. The daisy pattern itself as it is considered a symbol of innocence and chastity in Christianity, which aligns with the tenants of a baptism. \n\nThe landscape itself is quite whimsical, as is typical in Renaissance art. While the painting was created in Voltera, the landscape and architecture of the city is quite different than what is illustrated here. As such, this is likely an imaginary landscape."
+          "chars": "The baptism is set in a large room with an open view of the landscape beyond daisy carved vaulted arches. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/6",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/14",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=2750,331,392,618"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Daisies symbolize innocence and chastity in Christianity, which aligns with the tenants of a baptism."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/15",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1717,927,2115,618"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "This imaginary landscape follows a pattern in Renaissance art, having no similarity to Volterra where Aspertini made it."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd/annotation/16",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -188,7 +458,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Under closer examination, there is a figure whose face is not fully seen in this view. There are some debates about what this could mean broadly, with one theory being that this a smaller panel of a larger painting. This would be quite interesting, and it is ceratinly something worth studying in the future. However, the location of the reamaining painting panels, let alone their existance, is unknown."
+          "chars": "Under closer examination, one figure's face cannot be fully seen in this view. This suggests that this scene may be part of a larger painting, although the location of the remaining painting panels, let alone their existence, is unknown."
         }
       ]
     }
