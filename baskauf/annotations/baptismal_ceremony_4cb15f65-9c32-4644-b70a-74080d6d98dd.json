@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/baptismal_ceremony_4cb15f65-9c32-4644-b70a-74080d6d98dd.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd/annotation/17",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://4cb15f65-9c32-4644-b70a-74080d6d98dd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,4351,3705"
+        },
+        "within": {
+          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The painting's original frame when it was owned by Samuel Kress is quite ornate. Interestingly, it is a different frame than what is currently in use by the Vanderbilt Fine Arts Gallery."
+        }
+      ]
+    }
+  ]
+}

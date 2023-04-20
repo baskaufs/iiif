@@ -1,0 +1,115 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_ac3a15db-23e6-4c1c-9dd8-960e50900b71.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/0",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,3307,3373"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Masks were an integral part of the Sala Mpasu mongongo, or warriors\u2019 society, whose primary task was to protect this small enclave in present-day Democratic Republic of the Congo, against invasions by outside kingdoms. Boys were initiated as junior members into the mongongo after completing a year of education in which they lived with their cohort in the forest, isolated from the rest of their community. As members rose through the society\u2019s ranks they could earn the right to wear a mask, which demonstrated their economic status and authority within the community. Earning the right to wear a mask involved making payments of livestock, drink, and other material goods to the members who already had the authority to wear the masks."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/3",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=765,124,1645,715"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The headdress is covered with cane balls. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/4",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=955,1062,1335,252"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "This mask has deeply set narrow eyes, the copper lines the eye socket."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/5",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=959,1414,1335,550"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/circumcision_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The mouth of the mask is rectangular in shape, which is carved open and decorated with two rows of pointed teeth. "
+        }
+      ]
+    }
+  ]
+}
