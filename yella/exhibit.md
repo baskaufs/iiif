@@ -20,9 +20,9 @@ Baptismal ceremony of St. Augustine​ presided over by St. Ambrose. Painted in 
 
 **Kress Number:** 78
 
-**Credit Line:** Collection of Vanderbilt University Fine Arts Gallery
+**Credit Line:** Collection of Vanderbilt University Art Gallery
 
-**Gift o:** The Samuel H. Kress Foundation
+**Gift of:** The Samuel H. Kress Foundation
 
 **Artist:** Amico Aspertini
 
@@ -31,5 +31,7 @@ Baptismal ceremony of St. Augustine​ presided over by St. Ambrose. Painted in 
 **Medium:** Tempera on Panel
 
 **Nationality:** Italy
+
+**Attribution:** Vanderbilt University Art Gallery, work in the Public Domain
 
 [top of page](#title)

@@ -12,7 +12,7 @@ Scroll text up to view presentation.
 
 **Title:** Album du Siège 
 
-**Collection:** Vanderbilt University Fine Arts Gallery
+**Collection:** Vanderbilt University Art Gallery
 
 **Date:** 1871
 
@@ -27,5 +27,7 @@ Scroll text up to view presentation.
 **Artist:** Honoré Daumier, Lithographer: Cham (Amédée de Noé)
 
 **Ascension Numbers:** 1999.172gg, 1999.172dd, 1999.172g, 1999.172i, 1999.172b
+
+**Attribution:** Vanderbilt University Art Gallery, work in the Public Domain
 
 [top of page](#title)
