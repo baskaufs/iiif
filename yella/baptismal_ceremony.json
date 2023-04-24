@@ -18,7 +18,7 @@
         },
         {
             "label": "Credit Line",
-            "value": "Collection of Vanderbilt University Fine Arts Gallery"
+            "value": "Collection of Vanderbilt University Art Gallery"
         },
         {
             "label": "Gift of",
@@ -49,7 +49,7 @@
     ],
     "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
     "license": "https://creativecommons.org/licenses/by/3.0/",
-    "attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain",
+    "attribution": "Vanderbilt University Art Gallery, work in the Public Domain",
     "sequences": [
         {
             "@id": "http://eee8eea4-630d-481c-a328-befc6433d92c",

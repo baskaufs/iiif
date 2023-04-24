@@ -6,7 +6,7 @@
     "metadata": [
         {
             "label": "Collection",
-            "value": "Vanderbilt University Fine Arts Gallery\n"
+            "value": "Vanderbilt University Art Gallery"
         },
         {
             "label": "Date",
@@ -18,24 +18,24 @@
         },
         {
             "label": "Medium",
-            "value": "Paper, charcoal (graphite)\n"
+            "value": "Paper, charcoal (graphite)"
         },
         {
             "label": "Technique ",
-            "value": "Lithography\n"
+            "value": "Lithography"
         },
         {
             "label": "Artist ",
-            "value": "Honor\u00e9 Daumier, Lithographer: Cham (Am\u00e9d\u00e9e de No\u00e9)\n"
+            "value": "Honor\u00e9 Daumier, Lithographer: Cham (Am\u00e9d\u00e9e de No\u00e9)"
         }
     ],
     "description": [
         {
-            "@value": "Album du Si\u00e8ge par Chame et Daumier ",
+            "@value": "Album du Si\u00e8ge par Chame et Daumier",
             "@language": "french "
         }
     ],
-    "attribution": "Vanderbilt University Fine Arts Gallery, work in the Public Domain\n",
+    "attribution": "Vanderbilt University Art Gallery, work in the Public Domain",
     "sequences": [
         {
             "@id": "http://288dbde4-9d75-43e7-ba46-ffb0a79317dd",
