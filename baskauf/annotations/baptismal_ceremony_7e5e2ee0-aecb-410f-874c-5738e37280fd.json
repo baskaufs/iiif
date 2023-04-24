@@ -15,7 +15,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=0,149,4417,3677"
+          "value": "xywh=0,0,4383,3687"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -26,7 +26,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This painting, titled Baptismal Ceremony, was painted by Amico Aspertini sometime between 1515 and 1520. It depicts the baptism of St. Augustine by St. Ambrose, Bishop of Milan, in 387 CE. "
+          "chars": "This painting, titled Baptismal Ceremony, was painted by Amico Aspertini sometime between 1515 and 1520. It depicts the baptism of St. Augustine by St. Ambrose, Bishop of Milan, in 387 CE."
         }
       ]
     },
@@ -42,7 +42,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=1104,2082,1369,1452"
+          "value": "xywh=1085,2104,1359,1403"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -69,7 +69,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=1391,2805,718,541"
+          "value": "xywh=1414,2690,641,526"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -96,7 +96,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2253,1093,839,1507"
+          "value": "xywh=2131,1151,986,1605"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -123,7 +123,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2396,1458,420,392"
+          "value": "xywh=2372,1167,400,373"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -150,7 +150,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2253,1883,834,867"
+          "value": "xywh=2345,1605,663,915"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -177,7 +177,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2783,1463,420,718"
+          "value": "xywh=2767,1249,351,882"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -204,7 +204,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=1783,1104,652,1055"
+          "value": "xywh=1737,1200,679,1118"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -231,7 +231,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=1794,1839,613,712"
+          "value": "xywh=1715,1556,718,701"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -258,7 +258,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2093,1927,386,293"
+          "value": "xywh=2076,1616,345,351"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -285,7 +285,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2297,2534,646,933"
+          "value": "xywh=2268,2635,636,899"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -312,7 +312,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2512,3125,298,337"
+          "value": "xywh=2460,2833,334,394"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -339,7 +339,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2457,2832,392,370"
+          "value": "xywh=2378,2449,466,548"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -366,7 +366,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=696,414,3396,933"
+          "value": "xywh=0,0,4383,1293"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -393,7 +393,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=2750,331,392,618"
+          "value": "xywh=2767,0,290,679"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -420,7 +420,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=1717,927,2115,618"
+          "value": "xywh=455,531,3594,723"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -447,7 +447,7 @@
         "full": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=0,1176,762,1988"
+          "value": "xywh=0,964,290,1797"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",

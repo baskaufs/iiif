@@ -15,7 +15,7 @@
         "full": "http://1d5300bd-caa0-4329-843b-e10a025ec8ad",
         "selector": {
           "type": "oa:FragmentSelector",
-          "value": "xywh=0,0,3999,3470"
+          "value": "xywh=0,0,4351,3705"
         },
         "within": {
           "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
@@ -26,7 +26,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Before conservation, the painting's dull and dirty condition illustrates the degradation that can occur without proper care."
+          "chars": "The painting's original frame when it was owned by Samuel Kress is quite ornate. Interestingly, it is a different frame than what is currently in use by the Vanderbilt Fine Arts Gallery."
         }
       ]
     }
