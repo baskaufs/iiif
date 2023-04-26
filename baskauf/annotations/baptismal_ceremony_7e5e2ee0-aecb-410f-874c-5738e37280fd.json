@@ -26,7 +26,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This painting, titled Baptismal Ceremony, was painted by Amico Aspertini sometime between 1515 and 1520. It depicts the baptism of St. Augustine by St. Ambrose, Bishop of Milan, in 387 CE."
+          "chars": "This painting, titled Baptismal Ceremony, was painted by Amico Aspertini between 1515 and 1520. It depicts the baptism of St. Augustine by St. Ambrose, Bishop of Milan, in 387 CE."
         }
       ]
     },
@@ -161,7 +161,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "With the baptism occurring during Easter, the time when the liturgical color is white, St. Ambrose dons white robes with an intricate gold cloak."
+          "chars": "The baptism occurred during Easter, the time when the liturgical color is white, so St. Ambrose dons white robes with an intricate gold cloak."
         }
       ]
     },
@@ -188,7 +188,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "He also carries a crozier staff which mimics a pastoral staff, a common Catholic staff design which alludes to Christ as the Good Shepherd."
+          "chars": "He also carries a crozier staff which mimics a pastoral staff, a common Catholic staff design which alludes to the depiction of Christ as the Good Shepherd."
         }
       ]
     },
@@ -215,7 +215,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "St. Monica appears here to accompany St. Augustine, her son. Monica greatly influenced Augustine's religious experience, hence her presence at his baptism. "
+          "chars": "St. Monica accompanies her son St. Augustine. Monica greatly influenced Augustine's religious experience, hence her presence at his baptism. "
         }
       ]
     },
@@ -296,7 +296,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Jesus appears as a child, possibly alluding to a well-known story of St. Augustine meeting a child on a beach in Jacobus de Voragine's Golden Legend, a late Medieval text."
+          "chars": "Jesus appears as a child, alluding to a well-known story of St. Augustine meeting a child on a beach in Genoese archbishop Jacobus de Voragine's Golden Legend, a 13th-century text."
         }
       ]
     },
@@ -323,7 +323,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Jesus, like Augustine and Ambrose, wears white. This may symbolize the innocence and purity of the Christ child, similar to the purity one receives after their baptism. "
+          "chars": "Jesus, like Augustine and Ambrose, wears white. This symbolizes the innocence and purity of the Christ child, similar to the purity one receives after their baptism. "
         }
       ]
     },
@@ -431,7 +431,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This imaginary landscape follows a pattern in Renaissance art, having no similarity to Volterra where Aspertini made it."
+          "chars": "Aspertini imagines a fictional landscape, rather than depicting a naturalistic rendering of Volterra, a city southwest of Florence, a common practice by Renaissance artists."
         }
       ]
     },
@@ -458,7 +458,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Under closer examination, one figure's face cannot be fully seen in this view. This suggests that this scene may be part of a larger painting, although the location of the remaining painting panels, let alone their existence, is unknown."
+          "chars": "Under closer examination, one figure's face is not fully seen in this view. This suggests that this scene may be part of a larger painting."
         }
       ]
     }
