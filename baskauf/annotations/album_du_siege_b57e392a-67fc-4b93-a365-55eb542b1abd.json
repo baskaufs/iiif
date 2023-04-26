@@ -52,8 +52,8 @@
       "resource": [
         {
           "@type": "dctypes:Text",
-          "format": "text/plain",
-          "chars": "The lithograph portrays \"The Bombardment,\" referencing the bombings of the Franco-Purssian War https://ehistory.osu.edu/articles/siege-paris-during-franco-prussian-war"
+          "format": "text/html",
+          "chars": "<p>The lithograph portrays \"The Bombardment,\" referencing the <a href='https://ehistory.osu.edu/articles/siege-paris-during-franco-prussian-war'>bombings of the Franco-Purssian War</a></p>"
         }
       ]
     },
