@@ -18,7 +18,7 @@
           "value": "xywh=0,0,3113,2522"
         },
         "within": {
-          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0648P.json",
           "@type": "sc:Manifest"
         }
       },

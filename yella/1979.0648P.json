@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+	"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0648P.json",
 	"@type": "sc:Manifest",
 	"label": "A Baptismal Ceremony",
 	"metadata": [
@@ -44,7 +44,6 @@
 		}
 	],
 	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
-	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"attribution": "Vanderbilt University Art Gallery, work in the Public Domain",
 	"sequences": [
 		{

@@ -18,7 +18,7 @@
           "value": "xywh=0,0,3122,2493"
         },
         "within": {
-          "@id": "http://8899a42f-c4bb-4682-b073-6aea961b5b4d",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0648P.json",
           "@type": "sc:Manifest"
         }
       },
@@ -26,7 +26,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "The painting hung in the apartment of Samuel H. Kress before it was donated to the George Peabody College for Teachers in 1961. Samuel H. Kress was a prolific businessman in the late 19th and early 20th centuries. He spent much of his fortune of works of art, which were donated to institutions across the United States. Vanderbilt University now owns 12 of these."
+          "chars": "The painting hung in the apartment of Samuel H. Kress before it was donated to the George Peabody College for Teachers in 1961. Samuel H. Kress was a prolific businessman in the late 19th and early 20th centuries. He spent much of his fortune of works of art, which were donated to institutions across the United States. Vanderbilt University now owns 12 works from his collection."
         }
       ]
     }
