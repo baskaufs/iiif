@@ -22,7 +22,7 @@ The links at the top of the page don't work. Click [here](home/) to go to the di
 
 --------------
 
-[Album du Siége](kim/exhibit)
+[Album du Siège](kim/exhibit)
 
 [Mirador viewer displaying Album du Siége annotated manifest](https://projectmirador.org/embed/?iiif-content=https://baskaufs.github.io/iiif/kim/album_du_siege.json)
 
