@@ -14,7 +14,7 @@ Faeid Hassan - Architecture and Art; Business - Class of 2025
 
 [Haelee Kim](https://www.linkedin.com/in/haelee-kim-22a240194/) - Law, History, and Society; French - Class of 2025
 
-Daniela Cumming - Economics; Business; History of Art - Class of 2025
+[Daniela Cumming](https://www.linkedin.com/in/daniela-cumming-3b12a5259/) - Economics; Business; History of Art - Class of 2025
 
 # Mentors
 
