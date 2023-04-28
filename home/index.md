@@ -10,7 +10,7 @@ The [International Image Interoperability Framework](https://iiif.io/) (IIIF) is
 
 Mara Yella - Chemistry; Classical and Mediterranean Studies - Class of 2023
 
-Faeid Hassan - Architecture and Art; Business - Class of 2025
+[Faeid Hassan](https://www.linkedin.com/in/faeid-hassan-2b7bb11b7/) - Architecture and Art; Business - Class of 2025
 
 [Haelee Kim](https://www.linkedin.com/in/haelee-kim-22a240194/) - Law, History, and Society; French - Class of 2025
 
