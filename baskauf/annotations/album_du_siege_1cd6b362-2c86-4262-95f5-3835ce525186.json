@@ -5,7 +5,7 @@
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/16",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/18",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -26,13 +26,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This allegorical image exemplifies the suffering of the French during the Franco-Prussian War and the impact of the five-month siege on Paris, which caused a famine. France and the year 1871 is represented as the weeping, mother-like figure who expresses her desolation at the fate of her country."
+          "chars": "This allegorical image exemplifies the suffering of the French during the Franco-Prussian War and the impact of the five-month siege on Paris. France and the year 1871 is represented as the weeping, mother-like figure who expresses her desolation at the fate of her country."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/17",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/19",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -53,13 +53,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "\u201c\u00c9pouvant\u00e9e de l'h\u00e9ritage,\u201d translates to \u201cDismayed by her legacy.\u201d"
+          "chars": "\u201c\u00c9pouvant\u00e9e de l'h\u00e9ritage,\u201d translates to \u201cDismayed by her legacy,\u201d referencing all the chaos and bloodshed experienced by the French people because of their government's warmongering.  "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/18",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/20",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -80,13 +80,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "1871 also marks the year that this print was published in the satirical magazine Le Charivari. It also is the year after Emperor Napol\u00e9on III was deposed when the French were defeated in the disastrous Battle of Sedan. This conflict opened up the path for Prussian forces to take Paris, leading to the siege"
+          "chars": "1871 marks the year that this print was published in Le Charivari. It also is the year after Napol\u00e9on III was deposed when the French were defeated in the disastrous Battle of Sedan. This conflict opened up the path for Prussian forces to take Paris, leading to the siege."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/19",
+      "@id": "http://1cd6b362-2c86-4262-95f5-3835ce525186/annotation/21",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"

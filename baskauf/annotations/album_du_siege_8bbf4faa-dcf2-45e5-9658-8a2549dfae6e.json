@@ -5,7 +5,7 @@
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/11",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/13",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -26,13 +26,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "The complex nature of international relations is illuminated with this lithograph, especially between France and England during this period. A variety of sentiments and issues are alluded to with depictions of attire, symbols, and words."
+          "chars": "This lithograph reveals the complex nature of international relations, especially between France and England during this period. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/12",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/14",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -59,7 +59,7 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/13",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/15",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -80,13 +80,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This phrase translates to the \u201cEastern Question,\u201d which is a reference to the declining stability of the Ottoman Empire. As internal attempts to reform the so-called \u201csick man of Europe\u201d failed in the long-run, various European nations stood eagerly at the sides, ready to snatch up potential colonies."
+          "chars": "This phrase translates to the \u201cEastern Question,\u201d a reference to the declining stability of the Ottoman Empire in the 1800s. As internal attempts to reform the so-called \u201csick man of Europe\u201d failed in the long-run, various European nations stood eagerly at the sides, ready to snatch up potential colonies from the crumbling Ottoman state."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/14",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/16",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -107,13 +107,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "\u201cAlbion\u201d references the phrase \u201cPerfidious Albion,\" which was a pejorative term that was frequently leveled at England due to their history of treachery and disloyalty. By the nineteenth century, the phrase became a common utterance whenever England and France had tense relations. In the context of the Franco-Prussian War, anti-English sentiments may have stemmed from the overwhelming English opinions that France instigated the war."
+          "chars": "\u201cAlbion\u201d references the phrase \u201cPerfidious Albion,\" which was a pejorative term that was frequently leveled at England due to their history of treachery and disloyalty. By the nineteenth century, the phrase became a common utterance whenever England and France had tense relations. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/15",
+      "@id": "http://8bbf4faa-dcf2-45e5-9658-8a2549dfae6e/annotation/17",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -134,7 +134,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Classical imagery is abundant in Daumier\u2019s other works. This character is Mars, the Roman god of war who is a recurring motif in Le Charivari, often symbolizing war threats. The trident completes the allegory to England, a symbol of the nation\u2019s mastery of the seas."
+          "chars": "Classical imagery is abundant in Daumier\u2019s other works. This character is Mars, the Roman god of war who is a recurring motif in Le Charivari, often symbolizing war threats. The trident adds to the allegory to England, a symbol of the nation\u2019s mastery of the seas."
         }
       ]
     }

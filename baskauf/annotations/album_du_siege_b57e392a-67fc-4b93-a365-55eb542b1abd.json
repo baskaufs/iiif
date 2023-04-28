@@ -5,7 +5,7 @@
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/6",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/7",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -26,13 +26,40 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Daumier is known for critically depicting the sociopolitical climate in France during the nineteenth century. Daumier empathized with Les Bons Bourgeois (the urban middle class). Daumier printed this lithograph in his Album du Si\u00e8ge, which depicts scenes of everyday life amidst the chaos of the Franco-Prussian war, the siege of Paris, and political satire aimed at the government and its leaders. France declared war on Prussia in July 1870, but was quickly defeated due to Prussia's superior military and tactics. The war had a devastating impact on French civilians, particularly those living in Paris, which was besieged for several months. Parisians' lives altered dramatically during the four month siege. During 23 nights of bombardement in January 1871, some 12,000 shells fell on Paris neighborhoods, killing about 400 people. "
+          "chars": "In this lithograph, Daumier depicts a scene of everyday life amidst the chaos of the Paris siege during the Franco-Prussian War. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/7",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/8",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://b57e392a-67fc-4b93-a365-55eb542b1abd",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,2962,3784"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "The war had a devastating impact on Parisians, whose lives were altered dramatically as the city was besieged for several months. The provisional \u201cGovernment of National Defense\u201d also took over after the fall of Napol\u00e9on III's empire. During this turbulent time, the food supply became depleted and the economy suffered. "
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/9",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -52,14 +79,14 @@
       "resource": [
         {
           "@type": "dctypes:Text",
-          "format": "text/html",
-          "chars": "<p>The lithograph portrays \"The Bombardment,\" referencing the <a href='https://ehistory.osu.edu/articles/siege-paris-during-franco-prussian-war'>bombings of the Franco-Purssian War</a></p>"
+          "format": "text/plain",
+          "chars": "The lithograph portrays \"The Bombardment,\" referencing the bombing of Paris by Prussian troops during the siege. For example, during the 23 nights of bombardment in January 1871, some 12,000 shells fell on Parisian neighborhoods, killing about 400 people. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/8",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/10",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -80,13 +107,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "The caption notes an exchange between a father and son, which translates to \"What is that, dad?\" The father replies, \"It is the last of the fireworks of August 15.\""
+          "chars": "The caption notes an exchange between a father and son, which translates to \"What is that, dad?\" The father replies, \"It is the last of the fireworks of August 15.\" The son points towards the shelling falling over Paris. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/9",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/11",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -107,13 +134,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "However, the dialogue between the father and son reveals that these are not fireworks at all, but bombs falling on the city. The title's reference to a fireworks display on August 15th adds a layer of irony to the scene, remeniscent of Louis Napoleon\u2019s decree of moving the national holiday from the original Bastille Day on July 14 to August 15, known as La Saint-Napol\u00e9on."
+          "chars": "The \"fireworks\" are not fireworks at all but bombs falling on the city. The reference to a firework display on August 15 adds a layer of irony because it is reminiscent of Napol\u00e9on III's decree of moving the national holiday from the original Bastille Day on July 14 to August 15, known as La Saint-Napol\u00e9on."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/10",
+      "@id": "http://b57e392a-67fc-4b93-a365-55eb542b1abd/annotation/12",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -134,7 +161,7 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Daumier's use of irony in this lithograph offers a poignant critique of the disconnect between the ruling class and the suffering of ordinary people during wartime."
+          "chars": "Overall, the \u201clast of the fireworks\u201d expresses the fall of the empire and its replacement with the French Republic, under which the Paris siege occurred. Daumier's irony in this lithograph offers a poignant critique of the provisional government\u2019s handling of the situation and the suffering of ordinary people during the siege."
         }
       ]
     }

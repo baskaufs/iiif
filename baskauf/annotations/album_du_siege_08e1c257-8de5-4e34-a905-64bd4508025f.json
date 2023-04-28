@@ -5,7 +5,7 @@
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/20",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/22",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -26,13 +26,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "In \"Moi, je suis ravitaill\u00e9!\" from Album du Si\u00e8ge, Honor\u00e9 Daumier offers a commentary on the selfishness and indifference of those in power during times of crisis. Daumier expresses the sentiment of the Les Bons Bourgeois (the urban middle class). "
+          "chars": "Honor\u00e9 Daumier offers a commentary on the selfishness and indifference of those in power during this time of crisis in \"Moi, je suis ravitaill\u00e9!\" "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/21",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/23",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -53,13 +53,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "The caption translates to \"Me, I am restocked! The rest do not matter to me.\u201d "
+          "chars": "In the caption, this government official states \"Me, I am resupplied! The rest do not matter to me.\u201d "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/22",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/24",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -80,13 +80,40 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "This smug official, surrounded by crates of food and drink, represents those in the French nobility class during the 19th century. The official's dismissive statement highlights the callousness and lack of empathy shown by those in positions of privilege and power, especially during times of war. Daumier's use of caricature and satire in this lithograph is particularly effective, as he highlights the absurdity of the official's attitude and draws attention to the suffering and starvation of the less fortunate while Paris was under siege."
+          "chars": "This smug official, surrounded by an abundance of food and drink, represents French government officials in general during the Paris siege. The official's dismissive statement highlights the callousness and lack of empathy shown by those in positions of privilege and power, especially during times of war and scarcity. "
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/23",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/25",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=273,928,1932,1948"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Daumier highlights the contrast between the officials' attitude and their comfortable lifestyles while civilians were suffering and starving due to the exhausted food supply."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/26",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -108,6 +135,33 @@
           "@type": "dctypes:Text",
           "format": "text/plain",
           "chars": "Daumier's work serves as a powerful critique of war as a destructive and futile enterprise, and a reminder of the human cost of political conflicts. His sharp social commentary and biting satire offer a powerful voice for those who suffered during this dark period in French history."
+        }
+      ]
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://08e1c257-8de5-4e34-a905-64bd4508025f/annotation/27",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://08e1c257-8de5-4e34-a905-64bd4508025f",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=1065,334,1120,1126"
+        },
+        "within": {
+          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "Spots of discoloration that are present in some of the lithographs are acid stains, indicating poor preservation through the years. "
         }
       ]
     }
