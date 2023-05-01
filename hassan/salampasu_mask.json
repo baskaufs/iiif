@@ -8,16 +8,16 @@
     "attribution": "Vanderbilt University Art Gallery, work in the Public Domain and image (c) Vanderbilt University",
     "metadata": [
         {
+            "label": "Title",
+            "value": "Sala Mpasu Mask"
+        },
+        {
             "label": "Artist",
             "value": "Artist Unknown"
         },
         {
-            "label": "Accession Number",
-            "value": "1970.010"
-        },
-        {
-            "label": "Title",
-            "value": "Sala Mpasu"
+            "label": "Date",
+            "value": "1970"
         },
         {
             "label": "Classification",
@@ -28,12 +28,12 @@
             "value": "Wood, crocheted raffia, and sheets of copper."
         },
         {
-            "label": "Date",
-            "value": "1970"
-        },
-        {
             "label": "Collection",
             "value": "Vanderbilt University Art Gallery "
+        },
+        {
+            "label": "Accession Number",
+            "value": "1970.010"
         }
     ],
     "viewingDirection": "left-to-right",
@@ -41,7 +41,12 @@
     "sequences": [
         {
             "@type": "sc:Sequence",
-            "label": "Circumcision Mask",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
             "canvases": [
                 {
                     "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",

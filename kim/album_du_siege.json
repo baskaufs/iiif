@@ -4,6 +4,10 @@
 	"@type": "sc:Manifest",
 	"label": "Album du Siège",
 	"metadata": [
+        {
+            "label": "Title",
+            "value": "Album du Siège"
+        },
 		{
 			"label": "Artist",
 			"value": "Honoré Daumier, Lithographer: Cham (Amédée de Noé)"

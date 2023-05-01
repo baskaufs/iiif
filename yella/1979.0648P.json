@@ -4,6 +4,10 @@
 	"@type": "sc:Manifest",
 	"label": "Baptismal Ceremony",
 	"metadata": [
+        {
+            "label": "Title",
+            "value": "Baptismal Ceremony"
+        },
 		{
 			"label": "Artist",
 			"value": "Amico Aspertini"
