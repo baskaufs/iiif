@@ -20,9 +20,9 @@ The [International Image Interoperability Framework](https://iiif.io/) (IIIF) is
 
 [Steve Baskauf](https://baskauf.github.io/) - Data Science and Data Curation Specialist - Digital Scholarship and Communications
 
-Mary Anne Caton - Senior Associate Curator of Campus and Community Engagement - Fine Arts Gallery
+Mary Anne Caton - Senior Associate Curator of Campus and Community Engagement - Art Gallery
 
-Rachelle Wilson - Registrar - Fine Arts Gallery
+Rachelle Wilson - Registrar - Art Gallery
 
 Carla Beals - Library Brand and Graphic Design Manager - Assessment, Communication, and Engagement
 
