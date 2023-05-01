@@ -18,7 +18,7 @@
           "value": "xywh=0,0,2962,3784"
         },
         "within": {
-          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/album_du_siege.json",
           "@type": "sc:Manifest"
         }
       },
@@ -45,7 +45,7 @@
           "value": "xywh=0,0,2962,3784"
         },
         "within": {
-          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/album_du_siege.json",
           "@type": "sc:Manifest"
         }
       },
@@ -72,7 +72,7 @@
           "value": "xywh=737,2947,1285,196"
         },
         "within": {
-          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/album_du_siege.json",
           "@type": "sc:Manifest"
         }
       },
@@ -99,7 +99,7 @@
           "value": "xywh=389,3121,1285,196"
         },
         "within": {
-          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/album_du_siege.json",
           "@type": "sc:Manifest"
         }
       },
@@ -126,7 +126,7 @@
           "value": "xywh=359,415,1533,1251"
         },
         "within": {
-          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/album_du_siege.json",
           "@type": "sc:Manifest"
         }
       },
@@ -153,7 +153,7 @@
           "value": "xywh=0,0,2962,3784"
         },
         "within": {
-          "@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/album_du_siege.json",
           "@type": "sc:Manifest"
         }
       },

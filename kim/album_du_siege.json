@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://12379f2d-22b8-4bc0-8d9c-c53caaf76d7e",
+	"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/album_du_siege.json",
 	"@type": "sc:Manifest",
 	"label": "Album du Siège",
 	"metadata": [
