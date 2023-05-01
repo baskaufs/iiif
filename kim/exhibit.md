@@ -12,19 +12,15 @@ Scroll text up to view presentation.
 
 **Title:** Album du Siège 
 
-**Collection:** Vanderbilt University Art Gallery
+**Artist:** Honoré Daumier, Lithographer: Cham (Amédée de Noé)
 
 **Date:** 1871
 
-**Provenance:** Gift of Dr. Thomas B. Brumbaugh, Professor Emeritus
-
 **Classification:** Lithograph 
 
-**Lithograph Size:** 15 5/8 x 9 3/4 inches
+**Provenance:** Gift of Dr. Thomas B. Brumbaugh, Professor Emeritus
 
-**Image Size:** 9 x 7 1/4 inches
-
-**Artist:** Honoré Daumier, Lithographer: Cham (Amédée de Noé)
+**Collection:** Vanderbilt University Art Gallery
 
 **Ascension Numbers:** 1999.172gg, 1999.172dd, 1999.172g, 1999.172i, 1999.172b
 
