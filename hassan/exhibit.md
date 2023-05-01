@@ -12,24 +12,22 @@ Scroll text up to view presentation.
 
 # Description
 
+The Sala Mpasu mask was an integral part of the warriors’ society, whose primary task was to protect this small enclave against invasions by outside kingdoms. Boys were initiated into the warriors’ society through a circumcision camp and then rose through its ranks by gaining access to a hierarchy of masks. Earning the right to wear a mask involved performing specific deeds and large payments of livestock, drink, and other material goods. Once a man ‘owned’ the mask, other ‘owners’ taught this new member particular esoteric knowledge associated with it.
+
 **Title:** Sala Mpasu Mask
 
-**Description:** The Sala Mpasu mask was an integral part of the warriors’ society, whose primary task was to protect this small enclave against invasions by outside kingdoms. Boys were initiated into the warriors’ society through a circumcision camp and then rose through its ranks by gaining access to a hierarchy of masks. Earning the right to wear a mask involved performing specific deeds and large payments of livestock, drink, and other material goods. Once a man ‘owned’ the mask, other ‘owners’ taught this new member particular esoteric knowledge associated with it.
-
-**Collection:** Vanderbilt University Art Gallery
+**Artist:** Artist Unknown
 
 **Date:** 1970
 
 **Classification:** Warrior Mask
 
-**Accession Number:** 1970.010
-
 **Medium:** Wood, crocheted raffia, and sheets of copper
 
-**Artist:** Artist Unknown
+**Collection:** Vanderbilt University Art Gallery
 
-**Attribution:** Vanderbilt University Art Gallery, work in the Public Domain and image (c) Vanderbilt University
+**Accession Number:** 1970.010
 
-
+**Attribution:** Vanderbilt University Art Gallery, work in the Public Domain and images (c) Vanderbilt University
 
 [top of page](#title)

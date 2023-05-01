@@ -14,23 +14,27 @@ Scroll text up to view presentation.
 
 Baptismal ceremony of St. Augustine​ presided over by St. Ambrose. Painted in the Mannerism style, the artist was a student of the Bolognese School of Painting.
 
-**Provenance:** (Volterra, Florence); sold to Samuel H. Kress [1863-1955] in 1930; gift 1961 to George Peabody College for Teachers, now Vanderbilt University Fine Arts Gallery, in 1961, no. 1979.0648P.
-
-**Accession Number:** 1979.0648P
-
-**Kress Number:** 78
-
-**Credit Line:** Collection of Vanderbilt University Art Gallery
-
-**Gift of:** The Samuel H. Kress Foundation
+**Title:** Baptismal ceremony
 
 **Artist:** Amico Aspertini
 
 **Date:** c. 16th century
 
+**Nationality:** Italy
+
+**Classification:** Painting
+
+**Provenance:** (Volterra, Florence); sold to Samuel H. Kress [1863-1955] in 1930; gift 1961 to George Peabody College for Teachers, now Vanderbilt University Art Gallery, in 1961, no. 1979.0648P.
+
 **Medium:** Tempera on Panel
 
-**Nationality:** Italy
+**Collection:** Vanderbilt University Art Gallery
+
+**Accession Number:** 1979.0648P
+
+**Gift of:** The Samuel H. Kress Foundation
+
+**Kress Number:** 78
 
 **Attribution:** Vanderbilt University Art Gallery, work in the Public Domain
 
