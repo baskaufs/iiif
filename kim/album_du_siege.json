@@ -5,8 +5,8 @@
 	"label": "Album du Siège",
 	"metadata": [
 		{
-			"label": "Collection",
-			"value": "Vanderbilt University Art Gallery"
+			"label": "Artist ",
+			"value": "Honoré Daumier, Lithographer: Cham (Amédée de Noé)"
 		},
 		{
 			"label": "Date",
@@ -14,25 +14,25 @@
 		},
 		{
 			"label": "Classification",
-			"value": "Print "
+			"value": "Lithograph"
 		},
 		{
-			"label": "Medium",
-			"value": "Paper, charcoal (graphite)"
+			"label": "Provenance",
+			"value": "Gift of Dr. Thomas B. Brumbaugh, Professor Emeritus"
 		},
 		{
-			"label": "Technique ",
-			"value": "Lithography"
+			"label": "Collection",
+			"value": "Vanderbilt University Art Gallery"
 		},
 		{
-			"label": "Artist ",
-			"value": "Honoré Daumier, Lithographer: Cham (Amédée de Noé)"
+			"label": "Ascension Numbers",
+			"value": "1999.172gg, 1999.172dd, 1999.172g, 1999.172i, 1999.172b"
 		}
 	],
 	"description": [
 		{
-			"@value": "Album du Siège par Chame et Daumier",
-			"@language": "french "
+			"@value": "A collection of cartoons published during the 1870 siege of Paris in the newspaper <em>Le Charivari</em>",
+			"@language": "en"
 		}
 	],
 	"attribution": "Vanderbilt University Art Gallery, work in the Public Domain",

@@ -10,6 +10,8 @@ Scroll text up to view presentation.
 
 # Description
 
+A collection of cartoons published during the 1870 siege of Paris in the newspaper <em>Le Charivari</em>.
+
 **Title:** Album du Siège 
 
 **Artist:** Honoré Daumier, Lithographer: Cham (Amédée de Noé)
