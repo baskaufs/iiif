@@ -26,40 +26,13 @@
         {
           "@type": "dctypes:Text",
           "format": "text/plain",
-          "chars": "Masks were an integral part of the Sala Mpasu mongongo, or warriors\u2019 society, whose primary task was to protect this small enclave in present-day Democratic Republic of the Congo, against invasions by outside kingdoms. Boys were initiated as junior members into the mongongo after completing a year of education in which they lived with their cohort in the forest, isolated from the rest of their community. As members rose through the society\u2019s ranks they could earn the right to wear a mask, which demonstrated their economic status and authority within the community. Earning the right to wear a mask involved making payments of livestock, drink, and other material goods to the members who already had the authority to wear the masks."
+          "chars": "Masks were an integral part of the Sala Mpasu mongongo, or warriors\u2019 society, whose primary task was to protect this small enclave in present-day Democratic Republic of the Congo, against invasions by outside kingdoms. Boys were initiated as junior members into the mongongo after completing a year of education in which they lived with their cohort in the forest, isolated from the rest of their community."
         }
       ]
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/3",
-      "@type": "oa:Annotation",
-      "motivation": [
-        "oa:commenting"
-      ],
-      "on": {
-        "@type": "oa:SpecificResource",
-        "full": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
-        "selector": {
-          "type": "oa:FragmentSelector",
-          "value": "xywh=765,124,1645,715"
-        },
-        "within": {
-          "@id": "https://baskaufs.github.io/iiif/hassan/salampasu_mask.json",
-          "@type": "sc:Manifest"
-        }
-      },
-      "resource": [
-        {
-          "@type": "dctypes:Text",
-          "format": "text/plain",
-          "chars": "The headdress is covered with cane balls. "
-        }
-      ]
-    },
-    {
-      "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/4",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/6",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"
@@ -86,7 +59,7 @@
     },
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/5",
+      "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71/annotation/7",
       "@type": "oa:Annotation",
       "motivation": [
         "oa:commenting"

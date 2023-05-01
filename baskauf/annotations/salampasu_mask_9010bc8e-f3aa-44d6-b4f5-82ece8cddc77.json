@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_9010bc8e-f3aa-44d6-b4f5-82ece8cddc77.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77/annotation/1",
+      "@type": "oa:Annotation",
+      "motivation": [
+        "oa:commenting"
+      ],
+      "on": {
+        "@type": "oa:SpecificResource",
+        "full": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77",
+        "selector": {
+          "type": "oa:FragmentSelector",
+          "value": "xywh=0,0,3092,3483"
+        },
+        "within": {
+          "@id": "https://baskaufs.github.io/iiif/hassan/salampasu_mask.json",
+          "@type": "sc:Manifest"
+        }
+      },
+      "resource": [
+        {
+          "@type": "dctypes:Text",
+          "format": "text/plain",
+          "chars": "As members rose through the society\u2019s ranks they could earn the right to wear a mask, which demonstrated their economic status and authority within the community. Earning the right to wear a mask involved making payments of livestock, drink, and other material goods to the members who already had the authority to wear the masks."
+        }
+      ]
+    }
+  ]
+}
