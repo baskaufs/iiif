@@ -31,10 +31,8 @@
 	],
 	"description": [
 		{
-			"chars": "<p>A collection of cartoons published during the 1870 siege of Paris in the newspaper <em>Le Charivari</em>.</p>",
-			"@language": "en",
-			"@type": "dctypes:Text",
-			"format": "text/html"
+			"@value": "A collection of cartoons published during the 1870 siege of Paris in the newspaper \"Le Charivari\".",
+			"@language": "en"
 		}
 	],
 	"attribution": "Vanderbilt University Art Gallery, work in the Public Domain",
