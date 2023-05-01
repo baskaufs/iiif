@@ -28,6 +28,8 @@ The Sala Mpasu mask was an integral part of the warriors’ society, whose prima
 
 **Accession Number:** 1970.010
 
-**Attribution:** Vanderbilt University Art Gallery, work in the Public Domain and images (c) Vanderbilt University
+**Attribution:** Vanderbilt University Art Gallery, work in the Public Domain and images (c) 2023 Vanderbilt University
+
+**Images License:** [Creative Commons Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/)
 
 [top of page](#title)
