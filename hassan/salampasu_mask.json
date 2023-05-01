@@ -3,7 +3,7 @@
     "@id": "https://baskaufs.github.io/iiif/hassan/salampasu_mask.json",
     "@type": "sc:Manifest",
     "label": "Sala Mpasu Mask",
-    "description": "The Sala Mpasu mask was an integral part of the warriors’ society, whose primary task was to protect this small enclave against invasions by outside kingdoms. Boys were initiated into the warriors’ society through a circumcision camp and then rose through its ranks by gaining access to a hierarchy of masks. Earning the right to wear a mask involved performing specific deeds and large payments of livestock, drink, and other material goods. Once a man ‘owned’ the mask, other ‘owners’ taught this new member particular esoteric knowledge associated with it.",
+    "description": "The Sala Mpasu mask was an integral part of the warriors\u2019 society, whose primary task was to protect this small enclave against invasions by outside kingdoms. Boys were initiated into the warriors\u2019 society through a circumcision camp and then rose through its ranks by gaining access to a hierarchy of masks. Earning the right to wear a mask involved performing specific deeds and large payments of livestock, drink, and other material goods. Once a man \u2018owned\u2019 the mask, other \u2018owners\u2019 taught this new member particular esoteric knowledge associated with it.",
     "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
     "attribution": "Vanderbilt University Art Gallery, work in the Public Domain and image (c) Vanderbilt University",
     "metadata": [
@@ -41,12 +41,12 @@
     "sequences": [
         {
             "@type": "sc:Sequence",
-			"label": [
-				{
-					"@value": "Normal Sequence",
-					"@language": "en"
-				}
-			],
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
             "canvases": [
                 {
                     "@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
@@ -174,7 +174,13 @@
                             "on": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77"
                         }
                     ],
-                    "related": ""
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_9010bc8e-f3aa-44d6-b4f5-82ece8cddc77.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
                 },
                 {
                     "@id": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9",
@@ -235,7 +241,13 @@
                             "on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
                         }
                     ],
-                    "related": ""
+                    "related": "",
+                    "otherContent": [
+                        {
+                            "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_7df2865b-ee36-47b6-9ebd-a61ed2317cd9.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ]
                 },
                 {
                     "@id": "http://2e48891c-4bc1-420b-a678-3afacd3230d6",
@@ -307,8 +319,5 @@
             ]
         }
     ],
-    "license": "https://creativecommons.org/licenses/by/4.0/",
-    "related": {
-        "@id": "https://www.imodara.com/discover/dr-congo-salampasu-mukinka-warrior-mask/"
-    }
+    "license": "https://creativecommons.org/licenses/by/4.0/"
 }
