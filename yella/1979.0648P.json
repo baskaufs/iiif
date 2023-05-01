@@ -388,9 +388,6 @@
 		}
 	],
 	"structures": [],
-	"thumbnail": {
-		"@id": "http://7e5e2ee0-aecb-410f-874c-5738e37280fd"
-	},
 	"viewingDirection": "left-to-right",
 	"viewingHint": "individuals"
 }
