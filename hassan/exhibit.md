@@ -4,7 +4,7 @@ Buchanan Library Fellow: Faeid Hassan, Class of 2025
 
 Scroll text up to view presentation.
 
-\[[center presentation](#viewer)\] &emsp; \[[go to artwork description](#description)\] &emsp; \[<a href="https://baskaufs.github.io/iiif/hassan/salampasu_mask.json" target="_blank">IIIF manifest</a>\] &emsp; \[<a href="https://ncsu-libraries.github.io/annona/tools/#/display?url=https%3A%2F%2Fbaskaufs.github.io%2Fiiif%2Fhassan%2Fsalampasu_mask.json&viewtype=iiif-storyboard&manifesturl=&settings=%7B%22fullpage%22%3Atrue%7D" target="_blank">manifest in viewer</a>\]
+\[[center presentation](#viewer)\] &emsp; \[[go to artwork description](#description)\] &emsp; \[<a href="https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.010.json" target="_blank">IIIF manifest</a>\] &emsp; \[<a href="https://ncsu-libraries.github.io/annona/tools/#/display?url=https%3A%2F%2Fiiif-manifest.library.vanderbilt.edu%2Fgallery%2F1970%2F1970.010.json&viewtype=iiif-storyboard&manifesturl=&settings=%7B%22fullpage%22%3Atrue%7D" target="_blank">manifest in viewer</a>\]
 
 <iframe id="viewer" src="https://www.exhibit.so/exhibits/NGTii6BU1E0PwdIsPWNw?embedded=true" width="1024" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
