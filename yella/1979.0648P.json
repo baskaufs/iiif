@@ -2,24 +2,8 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0648P.json",
 	"@type": "sc:Manifest",
-	"label": "A Baptismal Ceremony",
+	"label": "Baptismal Ceremony",
 	"metadata": [
-		{
-			"label": "Provenance",
-			"value": "(Volterra, Florence); sold to Samuel H. Kress [1863-1955] in 1930; gift 1961 to George Peabody College for Teachers, now Vanderbilt University Art Gallery, in 1961, no. 1979.0648P."
-		},
-		{
-			"label": "Accession Number",
-			"value": "1979.0648P"
-		},
-		{
-			"label": "Kress Number",
-			"value": "78"
-		},
-		{
-			"label": "Gift of",
-			"value": "The Samuel H. Kress Foundation"
-		},
 		{
 			"label": "Artist",
 			"value": "Amico Aspertini"
@@ -29,12 +13,36 @@
 			"value": "c. 16th century"
 		},
 		{
+			"label": "Nationality",
+			"value": "Italy"
+		},
+		{
+			"label": "Classification",
+			"value": "Painting"
+		},
+		{
+			"label": "Provenance",
+			"value": "(Volterra, Florence); sold to Samuel H. Kress [1863-1955] in 1930; gift 1961 to George Peabody College for Teachers, now Vanderbilt University Art Gallery, in 1961, no. 1979.0648P."
+		},
+		{
 			"label": "Medium",
 			"value": "Tempera on Panel"
 		},
 		{
-			"label": "Nationality",
-			"value": "Italy"
+			"label": "Collection",
+			"value": "Vanderbilt University Art Gallery"
+		},
+		{
+			"label": "Accession Number",
+			"value": "1979.0648P"
+		},
+		{
+			"label": "Gift of",
+			"value": "The Samuel H. Kress Foundation"
+		},
+		{
+			"label": "Kress Number",
+			"value": "78"
 		}
 	],
 	"description": [
