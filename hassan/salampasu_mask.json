@@ -116,67 +116,6 @@
                     ]
                 },
                 {
-                    "@id": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9",
-                    "@type": "sc:Canvas",
-                    "label": "Left side",
-                    "height": 3456,
-                    "width": 3120,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://db17a089-734f-47d5-b596-a6c5bd662f07",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_3_left.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_3_left.tif",
-                                    "profile": [
-                                        "http://iiif.io/api/image/2/level0.json",
-                                        {
-                                            "maxArea": 10000000,
-                                            "qualities": [
-                                                "bitonal",
-                                                "default",
-                                                "gray",
-                                                "color"
-                                            ],
-                                            "supports": [
-                                                "regionByPx",
-                                                "sizeByW",
-                                                "sizeByWhListed",
-                                                "cors",
-                                                "regionSquare",
-                                                "sizeByDistortedWh",
-                                                "canonicalLinkHeader",
-                                                "sizeByConfinedWh",
-                                                "sizeByPct",
-                                                "jsonldMediaType",
-                                                "regionByPct",
-                                                "rotationArbitrary",
-                                                "sizeByH",
-                                                "baseUriRedirect",
-                                                "rotationBy90s",
-                                                "profileLinkHeader",
-                                                "sizeByForcedWh",
-                                                "sizeByWh",
-                                                "mirroring"
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 3456,
-                                "width": 3120
-                            },
-                            "on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
-                        }
-                    ],
-                    "related": ""
-                },
-                {
                     "@id": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77",
                     "@type": "sc:Canvas",
                     "label": "Back",
@@ -233,6 +172,67 @@
                                 "width": 3093
                             },
                             "on": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9",
+                    "@type": "sc:Canvas",
+                    "label": "Left side",
+                    "height": 3456,
+                    "width": 3120,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://db17a089-734f-47d5-b596-a6c5bd662f07",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_3_left.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_3_left.tif",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level0.json",
+                                        {
+                                            "maxArea": 10000000,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 3456,
+                                "width": 3120
+                            },
+                            "on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
                         }
                     ],
                     "related": ""
