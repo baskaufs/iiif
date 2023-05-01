@@ -18,7 +18,7 @@
           "value": "xywh=0,0,3307,3373"
         },
         "within": {
-          "@id": "https://baskaufs.github.io/iiif/hassan/salampasu_mask.json",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.010.json",
           "@type": "sc:Manifest"
         }
       },
@@ -45,7 +45,7 @@
           "value": "xywh=955,1062,1335,252"
         },
         "within": {
-          "@id": "https://baskaufs.github.io/iiif/hassan/salampasu_mask.json",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.010.json",
           "@type": "sc:Manifest"
         }
       },
@@ -72,7 +72,7 @@
           "value": "xywh=959,1414,1335,550"
         },
         "within": {
-          "@id": "https://baskaufs.github.io/iiif/hassan/salampasu_mask.json",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.010.json",
           "@type": "sc:Manifest"
         }
       },

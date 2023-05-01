@@ -1,0 +1,362 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.010.json",
+	"@type": "sc:Manifest",
+	"label": "Sala Mpasu Mask",
+	"description": "The Sala Mpasu mask was an integral part of the warriors’ society, whose primary task was to protect this small enclave against invasions by outside kingdoms. Boys were initiated into the warriors’ society through a circumcision camp and then rose through its ranks by gaining access to a hierarchy of masks. Earning the right to wear a mask involved performing specific deeds and large payments of livestock, drink, and other material goods. Once a man ‘owned’ the mask, other ‘owners’ taught this new member particular esoteric knowledge associated with it.",
+	"logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo1.png/full/!100,100/0/default.jpg",
+	"attribution": "Vanderbilt University Art Gallery, work in the Public Domain and images (c) 2023 Vanderbilt University CC BY",
+	"metadata": [
+		{
+			"label": "Title",
+			"value": "Sala Mpasu Mask"
+		},
+		{
+			"label": "Artist",
+			"value": "Artist Unknown"
+		},
+		{
+			"label": "Date",
+			"value": "1970"
+		},
+		{
+			"label": "Classification",
+			"value": "Warrior Mask"
+		},
+		{
+			"label": "Medium",
+			"value": "Wood, crocheted raffia, and sheets of copper."
+		},
+		{
+			"label": "Collection",
+			"value": "Vanderbilt University Art Gallery "
+		},
+		{
+			"label": "Accession Number",
+			"value": "1970.010"
+		}
+	],
+	"viewingDirection": "left-to-right",
+	"viewingHint": "individuals",
+	"sequences": [
+		{
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71",
+					"@type": "sc:Canvas",
+					"label": "Front",
+					"height": 3374,
+					"width": 3307,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c83aae57-32ce-4a55-9eee-73d8b3ae959a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_5_front.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_5_front.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3374,
+								"width": 3307
+							},
+							"on": "http://ac3a15db-23e6-4c1c-9dd8-960e50900b71"
+						}
+					],
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_ac3a15db-23e6-4c1c-9dd8-960e50900b71.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Image attribution",
+							"value": "(c) 2023 Vanderbilt University CC BY"
+						},
+						{
+							"label": "Image license",
+							"value": "https://creativecommons.org/licenses/by/4.0/"
+						}
+					]
+				},
+				{
+					"@id": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77",
+					"@type": "sc:Canvas",
+					"label": "Back",
+					"height": 3484,
+					"width": 3093,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://185619e6-523a-443e-8eb8-36090974d15a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_4_back.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_4_back.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3484,
+								"width": 3093
+							},
+							"on": "http://9010bc8e-f3aa-44d6-b4f5-82ece8cddc77"
+						}
+					],
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_9010bc8e-f3aa-44d6-b4f5-82ece8cddc77.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Image attribution",
+							"value": "(c) 2023 Vanderbilt University CC BY"
+						},
+						{
+							"label": "Image license",
+							"value": "https://creativecommons.org/licenses/by/4.0/"
+						}
+					]
+				},
+				{
+					"@id": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9",
+					"@type": "sc:Canvas",
+					"label": "Left side",
+					"height": 3456,
+					"width": 3120,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://db17a089-734f-47d5-b596-a6c5bd662f07",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_3_left.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_3_left.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3456,
+								"width": 3120
+							},
+							"on": "http://7df2865b-ee36-47b6-9ebd-a61ed2317cd9"
+						}
+					],
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_7df2865b-ee36-47b6-9ebd-a61ed2317cd9.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Image attribution",
+							"value": "(c) 2023 Vanderbilt University CC BY"
+						},
+						{
+							"label": "Image license",
+							"value": "https://creativecommons.org/licenses/by/4.0/"
+						}
+					]
+				},
+				{
+					"@id": "http://2e48891c-4bc1-420b-a678-3afacd3230d6",
+					"@type": "sc:Canvas",
+					"label": "Right side",
+					"height": 3648,
+					"width": 3325,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://89bbcf43-a95c-4cd1-a0a4-d5a289a752dc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_2_right.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1970%2F1970.010_2_right.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3648,
+								"width": 3325
+							},
+							"on": "http://2e48891c-4bc1-420b-a678-3afacd3230d6"
+						}
+					],
+					"related": "",
+					"otherContent": [
+						{
+							"@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/annotations/salampasu_mask_2e48891c-4bc1-420b-a678-3afacd3230d6.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Image attribution",
+							"value": "(c) 2023 Vanderbilt University CC BY"
+						},
+						{
+							"label": "Image license",
+							"value": "https://creativecommons.org/licenses/by/4.0/"
+						}
+					]
+				}
+			]
+		}
+	]
+}

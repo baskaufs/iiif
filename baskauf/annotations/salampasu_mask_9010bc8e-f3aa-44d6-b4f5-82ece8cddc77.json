@@ -18,7 +18,7 @@
           "value": "xywh=0,0,3092,3483"
         },
         "within": {
-          "@id": "https://baskaufs.github.io/iiif/hassan/salampasu_mask.json",
+          "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1970/1970.010.json",
           "@type": "sc:Manifest"
         }
       },
