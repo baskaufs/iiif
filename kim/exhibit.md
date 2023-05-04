@@ -1,6 +1,6 @@
 # Album du Siège
 
-Buchanan Library Fellows: Dani Cumming and Haelee Kim, Class of 2025
+Buchanan Library Fellows: Daniela Cumming and Haelee Kim, Class of 2025
 
 Scroll text up to view presentation.
 
