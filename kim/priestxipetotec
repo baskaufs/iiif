@@ -21,6 +21,17 @@
           "format": "image/jpeg"
         }
       ]
+    },
+    { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_2",
+    "type": "Manifest",
+    "label": { "en": [ "side" ] },
+    "thumbnail": [
+      {
+        "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_2.tif/full/full/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg"
+      }
+    ]
     }
   ]
 }
