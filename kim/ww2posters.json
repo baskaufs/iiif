@@ -1,6 +1,6 @@
 {
-    "@context": "https://raw.githubusercontent.com/baskaufs/iiif/Priest-of-Xipe-Totec-Test-Run/kim/1994.418.json", 
-    "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json", 
+    "id": "https://baskaufs.github.io/iiif/kim/www2posters.json",
     "type": "Collection",
     "label": { "en": [ "Collection for Priest of Xipe-Totec" ] },
     "summary": { "en": [ "ceramics by Artist Unknown" ] },
@@ -29,18 +29,18 @@
   
     "items": [
       {
-        "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_2",
+        "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
         "type": "Manifest",
         "label": { "en": [ "side" ] },
         "thumbnail": [
           {
-            "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_2.tif/full/full/0/default.jpg",
+            "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1225P.tif/full/!100,100/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg"
           }
         ]
       },
-      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_3",
+      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json",
       "type": "Manifest",
       "label": { "en": [ "side" ] },
       "thumbnail": [
@@ -51,49 +51,12 @@
         }
       ]
       },
-      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_4",
+      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1140P.json",
       "type": "Manifest",
       "label": { "en": [ "side" ] },
       "thumbnail": [
         {
           "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/full/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ]
-      },
-      {
-      "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_5",
-          "type": "Manifest",
-          "label": { "en": [ "side" ] },
-          "thumbnail": [
-        {
-              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_5.tif/full/full/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg"
-        }
-      ]
-      },
-      {
-          "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_6",
-          "type": "Manifest",
-          "label": { "en": [ "side" ] },
-          "thumbnail": [
-        {
-              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_6.tif/full/full/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg"
-        }               
-      ]
-      },
-      {
-          "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_7",
-          "type": "Manifest",
-          "label": { "en": [ "side" ] },
-          "thumbnail": [
-        {
-    
-          "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_7.tif/full/full/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
