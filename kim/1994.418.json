@@ -1,5 +1,5 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "@context": "https://github.com/baskaufs/iiif/blob/Priest-of-Xipe-Totec-Test-Run/kim/1994.418.json", 
     "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json",
     "type": "Collection",
     "label": { "en": [ "Collection for Priest of Xipe-Totec" ] },
