@@ -1,5 +1,5 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json", 
+    "@context": "http://iiif.io/api/presentation/2/context.json", 
     "id": "https://baskaufs.github.io/iiif/kim/www2posters.json",
     "type": "Collection",
     "label": { "en": [ "Collection for Priest of Xipe-Totec" ] },
