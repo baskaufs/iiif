@@ -31,36 +31,17 @@
       {
         "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
         "type": "Manifest",
-        "label": { "en": [ "side" ] },
-        "thumbnail": [
-          {
-            "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1225P.tif/full/!100,100/0/default.jpg",
-            "type": "Image",
-            "format": "image/jpeg"
-          }
-        ]
+        "label": { "en": [ "side" ] }
       },
+
       { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json",
       "type": "Manifest",
-      "label": { "en": [ "side" ] },
-      "thumbnail": [
-        {
-          "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_3.tif/full/full/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ]
+      "label": { "en": [ "side" ] }
+    
       },
       { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1140P.json",
       "type": "Manifest",
-      "label": { "en": [ "side" ] },
-      "thumbnail": [
-        {
-          "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/full/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ]
+      "label": { "en": [ "side" ] }
       }
     ]
   }
