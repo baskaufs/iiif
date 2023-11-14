@@ -1,268 +1,116 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json",
-    "@type": "sc:Manifest",
-    "label": "Priest of Xipe-Totec",
-    "description": "ceramics by Artist Unknown",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json",
+    "type": "Collection",
+    "label": { "en": [ "Collection for Priest of Xipe-Totec" ] },
+    "summary": { "en": [ "ceramics by Artist Unknown" ] },
     "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
-    "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+    "requiredStatement": {
+      "label": { "en": [ "Attribution" ] },
+      "value": { "en": [ "Provided by Vanderbilt University Fine Arts Gallery" ] } },
     "metadata": [
+      {
+          "label": "Artist",
+          "value": "artist unknown"
+      },
+      {
+          "label": "Accession Number",
+          "value": "1994.418"
+      },
+      {
+          "label": "Creation Year",
+          "value": "1150 CE"
+      },
+      {
+          "label": "Title",
+          "value": "Priest of Xipe-Totec"
+      }
+    ], 
+  
+    "items": [
+      {
+        "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_2",
+        "type": "Manifest",
+        "label": { "en": [ "side" ] },
+        "thumbnail": [
+          {
+            "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_2.tif/full/full/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+          }
+        ]
+      },
+      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_3",
+      "type": "Manifest",
+      "label": { "en": [ "side" ] },
+      "thumbnail": [
         {
-            "label": "Artist",
-            "value": "artist unknown"
-        },
-        {
-            "label": "Accession Number",
-            "value": "1994.418"
-        },
-        {
-            "label": "Creation Year",
-            "value": "1150 CE"
-        },
-        {
-            "label": "Title",
-            "value": "Priest of Xipe-Totec"
+          "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_3.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
         }
-    ],
-    "viewingDirection": "left-to-right",
-    "viewingHint": "individuals",
-    "sequences": [
+      ]
+      },
+      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_3",
+      "type": "Manifest",
+      "label": { "en": [ "side" ] },
+      "thumbnail": [
         {
-            "@type": "sc:Sequence",
-            "label": "Priest of Xipe-Totec",
-            "canvases": [
-                {
-                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_1",
-                    "@type": "sc:Canvas",
-                    "width": 2715,
-                    "height": 2780,
-                    "label": "Priest of Xipe-Totec",
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2715,
-                                "height": 2780,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_1"
-                        }
-                    ],
-                    "thumbnail": {
-                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418.tif/full/!100,100/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
-                    }
-                },
-                {
-                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_2",
-                    "@type": "sc:Canvas",
-                    "width": 2599,
-                    "height": 2578,
-                    "label": "Priest of Xipe-Totec",
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_2.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2599,
-                                "height": 2578,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_2.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_2"
-                        }
-                    ],
-                    "thumbnail": {
-                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_2.tif/full/!100,100/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
-                    }
-                },
-                {
-                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_3",
-                    "@type": "sc:Canvas",
-                    "width": 2735,
-                    "height": 2552,
-                    "label": "Priest of Xipe-Totec",
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_3.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2735,
-                                "height": 2552,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_3.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_3"
-                        }
-                    ],
-                    "thumbnail": {
-                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_3.tif/full/!100,100/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
-                    }
-                },
-                {
-                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_4",
-                    "@type": "sc:Canvas",
-                    "width": 2402,
-                    "height": 2458,
-                    "label": "Priest of Xipe-Totec",
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_7.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2402,
-                                "height": 2458,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_7.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_4"
-                        }
-                    ],
-                    "thumbnail": {
-                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_7.tif/full/!100,100/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
-                    }
-                },
-                {
-                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_5",
-                    "@type": "sc:Canvas",
-                    "width": 2772,
-                    "height": 2802,
-                    "label": "Priest of Xipe-Totec",
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_6.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2772,
-                                "height": 2802,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_6.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_5"
-                        }
-                    ],
-                    "thumbnail": {
-                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_6.tif/full/!100,100/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
-                    }
-                },
-                {
-                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_6",
-                    "@type": "sc:Canvas",
-                    "width": 3030,
-                    "height": 2147,
-                    "label": "Priest of Xipe-Totec",
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3030,
-                                "height": 2147,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_6"
-                        }
-                    ],
-                    "thumbnail": {
-                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/!100,100/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
-                    }
-                },
-                {
-                    "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_7",
-                    "@type": "sc:Canvas",
-                    "width": 3198,
-                    "height": 2490,
-                    "label": "Priest of Xipe-Totec",
-                    "images": [
-                        {
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_5.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3198,
-                                "height": 2490,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_5.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_7"
-                        }
-                    ],
-                    "thumbnail": {
-                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_5.tif/full/!100,100/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
-                    }
-                }
-            ]
+          "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
         }
+      ]
+      },
+      {
+      "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_4",
+          "type": "Manifest",
+          "label": { "en": [ "side" ] },
+          "thumbnail": [
+        {
+              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/full/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg"
+        }
+      ]
+      },
+      {
+      "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_5",
+          "type": "Manifest",
+          "label": { "en": [ "side" ] },
+          "thumbnail": [
+        {
+              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_5.tif/full/full/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg"
+        }
+      ]
+      },
+      {
+          "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_6",
+          "type": "Manifest",
+          "label": { "en": [ "side" ] },
+          "thumbnail": [
+        {
+              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_6.tif/full/full/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg"
+        }               
+      ]
+      },
+      {
+          "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_7",
+          "type": "Manifest",
+          "label": { "en": [ "side" ] },
+          "thumbnail": [
+        {
+    
+          "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_7.tif/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+      }
     ]
-}
+  }
+  
