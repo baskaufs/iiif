@@ -1,5 +1,5 @@
 {
-    "@context": "https://github.com/baskaufs/iiif/blob/Priest-of-Xipe-Totec-Test-Run/kim/1994.418.json", 
+    "@context": "https://raw.githubusercontent.com/baskaufs/iiif/Priest-of-Xipe-Totec-Test-Run/kim/1994.418.json", 
     "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json",
     "type": "Collection",
     "label": { "en": [ "Collection for Priest of Xipe-Totec" ] },
@@ -51,7 +51,7 @@
         }
       ]
       },
-      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_3",
+      { "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_4",
       "type": "Manifest",
       "label": { "en": [ "side" ] },
       "thumbnail": [
@@ -59,18 +59,6 @@
           "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/full/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
-        }
-      ]
-      },
-      {
-      "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1994/1994.418.json_4",
-          "type": "Manifest",
-          "label": { "en": [ "side" ] },
-          "thumbnail": [
-        {
-              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1994%2F1994.418_4.tif/full/full/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg"
         }
       ]
       },
