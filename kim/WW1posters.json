@@ -2,50 +2,51 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "htttps://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
     "@type": "sc:Collection",
-    "label": "World War I Propagada Posters",
+    "label": "World War I Propaganda Posters",
     "description": "A collection of prints by unknown artists in 1918.",
     "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
     "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
   
     "collections": [
-      { "@id": "https://baskaufs.github.io/iiif/kim/WW1posters.json",
+        { "@id": "https://baskaufs.github.io/iiif/kim/WW1posters.json",
         "@type": "sc:Collection",
-        "label": "Prints by unkown artists in 1918"
-       }
-    ],
-    "manifests": [
-       { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
-         "@type": "sc:Manifest",
-         "label": "Fight World Famine enroll in The Boys' Working Reserve",
-         "thumbnail": [
-            {
-              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1225P.tif/full/full/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg"
-            }
-        ]
-       },
-       { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1183P.json",
-         "@type": "sc:Manifest",
-         "label": "Shall we be more tender with our dollars than with the lives of our sons",
-         "thumbnail": [
-            {
-              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1183P.tif/full/full/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg"
-            }
-        ]
-       },
-       { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json",
-         "@type": "sc:Manifest",
-         "label": "Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18",
-         "thumbnail": [
-            {
-              "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1230_LARGE.tif/full/full/0/default.jpg",
-              "type": "Image",
-              "format": "image/jpeg"
-            }
-        ]
-       }
+        "label": "Prints by unknown artists in 1918",
+        "manifests": [
+        { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
+          "@type": "sc:Manifest",
+          "label": "Fight World Famine enroll in The Boys' Working Reserve",
+          "thumbnail": [
+             {
+               "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1225P.tif/full/full/0/default.jpg",
+               "type": "Image",
+               "format": "image/jpeg"
+             }
+         ]
+        },
+        { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1183P.json",
+          "@type": "sc:Manifest",
+          "label": "Shall we be more tender with our dollars than with the lives of our sons",
+          "thumbnail": [
+             {
+               "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1183P.tif/full/full/0/default.jpg",
+               "type": "Image",
+               "format": "image/jpeg"
+             }
+         ]
+        },
+        { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json",
+          "@type": "sc:Manifest",
+          "label": "Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18",
+          "thumbnail": [
+             {
+               "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1230_LARGE.tif/full/full/0/default.jpg",
+               "type": "Image",
+               "format": "image/jpeg"
+             }
+        
+         ]
+        }
     ]
-  }
+    }
+]
+}
