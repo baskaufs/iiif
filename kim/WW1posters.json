@@ -6,12 +6,8 @@
     "description": "A collection of prints by unknown artists in 1918.",
     "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
     "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
-  
-    "collections": [
-        { "@id": "https://baskaufs.github.io/iiif/kim/WW1posters.json",
-        "@type": "sc:Collection",
-        "label": "Prints by unknown artists in 1918",
-        "manifests": [
+    
+    "manifests": [
         { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
           "@type": "sc:Manifest",
           "label": "Fight World Famine enroll in The Boys' Working Reserve",
@@ -48,5 +44,3 @@
         }
     ]
     }
-]
-}
