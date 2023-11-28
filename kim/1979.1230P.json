@@ -58,11 +58,16 @@
                         }
                     ],
                     "thumbnail": [{
-                        "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1230_LARGE.tif/full/!100,100/0/default.jpg",
-                        "type": "dctypes:Image",
+                        "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif/full/!100,100/0/default.jpg",
+                        "type": "Image",
                         "format": "image/jpeg",
-                        "width": 100,
-                        "height": 100
+                        "service": [
+                            {
+                              "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif",
+                              "type": "ImageService3",
+                              "profile": "level2"
+                            }
+                          ]
                     }]
                 }
             ]
