@@ -28,28 +28,32 @@
     "viewingDirection": "left-to-right",
     "items":  [
                 {
-                    "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json_1",
-                    "type": "Canvas",
-                    "width": 6884,
-                    "height": 9558,
-                    "label": { "en": ["Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18"]},
-                    "images": [
-                        {
-                            "type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1230_LARGE.tif/full/full/0/default.jpg",
-                                "type": "dctypes:Image",
+                "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json_1",
+                "type": "Canvas",
+                "width": 6884,
+                "height": 9558,
+                "label": { "en": ["Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18"]},
+                "items": [
+                    {
+                    "id": "https://example.org/iiif/book1/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                            {
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif/full/max/0/default.jpg",
+                                "type": "Image",
                                 "format": "image/jpeg",
                                 "width": 6884,
                                 "height": 9558,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "id": "https://iiif.library.vanderbilt.edu/iiif/2/gallery%2F1979%2F1979.1230_LARGE.tif",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
+                                "service": [{
+                                    "type": "ImageService3",
+                                    "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif",
+                                    "profile": "level2"
+                                }]
                             },
-                            "on": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json_1"
+                            "target": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json_1"
                         }
                     ],
                     "thumbnail": [{
@@ -61,5 +65,6 @@
                     }]
                 }
             ]
-
+        }
+    ]
 }
