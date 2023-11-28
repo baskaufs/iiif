@@ -23,7 +23,7 @@
 
     ],
     "manifests": [
-      { "@id": "https://baskaufs.github.io/iiif/kim/WWW1posters.json",
+      { "@id": "https://baskaufs.github.io/iiif/kim/WW1posters.json",
         "@type": "sc:Manifest",
         "label" : "Prints by unknown artists (1918)"
       }
