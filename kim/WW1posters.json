@@ -1,25 +1,31 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://example.org/iiif/collection/top",
+    "@id": "htttps://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
     "@type": "sc:Collection",
-    "label": "World War II Propagada Posters",
-    "description": "A collection of prints from XXXX by XXXX",
+    "label": "World War I Propagada Posters",
+    "description": "A collection of prints by unknown artists in 1918.",
     "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
   
     "collections": [
-      { "@id": "http://example.org/iiif/collection/part1",
+      { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json",
         "@type": "sc:Collection",
-        "label": "Sub Collection 1"
+        "label": "Fight World Famine enroll in The Boys' Working Reserve"
        },
-       { "@id": "http://example.org/iiif/collection/part2",
+       { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1183P.json",
          "@type": "sc:Collection",
-         "label": "Sub Collection 2"
-        }
+         "label": "Shall we be more tender with our dollars than with the lives of our sons"
+       },
+       { "@id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json",
+         "@type": "sc:Collection",
+         "label": "Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18"
+       }
+
     ],
     "manifests": [
-      { "@id": "http://example.org/iiif/book1/manifest",
+      { "@id": "https://baskaufs.github.io/iiif/kim/WWW1posters.json",
         "@type": "sc:Manifest",
-        "label" : "Book 1"
+        "label" : "Prints by unknown artists (1918)"
       }
     ]
   }
