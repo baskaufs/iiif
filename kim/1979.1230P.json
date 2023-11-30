@@ -3,10 +3,11 @@
     "id": "https://baskaufs.github.io/iiif/kim/1979.1230P.json",
     "type": "Manifest",
     "label": { "en": ["Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18"]},
-    "requiredStatement": {
-        "label": { "en": [ "Attribution" ] },
-        "value": { "en": [ "Provided by Vanderbilt University Art Gallery" ] }
-      },
+    "requiredStatement": 
+        {
+            "label": { "en": [ "Attribution" ] },
+            "value": { "en": [ "Provided by Vanderbilt University Art Gallery" ] }
+        },
     "provider": [
         {
           "id": "https://www.library.vanderbilt.edu/gallery/about",

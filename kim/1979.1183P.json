@@ -3,10 +3,11 @@
     "id": "https://baskaufs.github.io/iiif/kim/1979.1183P.json",
     "type": "Manifest",
     "label": { "en": ["Shall we be more tender with our dollars than with the lives of our sons"]},
-    "requiredStatement": {
-        "label": { "en": [ "Attribution" ] },
-        "value": { "en": [ "Provided by Vanderbilt University Art Gallery" ] }
-      },
+    "requiredStatement": 
+        {
+            "label": { "en": [ "Attribution" ] },
+            "value": { "en": [ "Provided by Vanderbilt University Art Gallery" ] }
+        },
     "provider": [
         {
           "id": "https://www.library.vanderbilt.edu/gallery/about",
