@@ -1,8 +1,8 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://baskaufs.github.io/iiif/kim/1979.1230P.json",
+    "id": "https://baskaufs.github.io/iiif/kim/1979.1225P.json",
     "type": "Manifest",
-    "label": { "en": ["Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18"]},
+    "label": { "en": ["Fight World Famine enroll in The Boys' Working Reserve"]},
     "requiredStatement": {
         "label": { "en": [ "Attribution" ] },
         "value": { "en": [ "Provided by Vanderbilt University Art Gallery" ] }
@@ -39,64 +39,64 @@
     "metadata": [
         {
             "label": { "en": [ "Artist"]},
-            "value": { "en": ["artist unknown"]}
+            "value": { "en": [ "artist unknown"]}
         },
         {
-            "label": { "en": ["Accession Number"]},
-            "value": { "en": ["1979.1230P"]}
+            "label": { "en": [ "Accession Number"]},
+            "value": { "en": [ "1979.1225P"]}
         },
         {
-            "label": { "en": ["Creation Year"]},
-            "value": { "en": ["1918 CE"]}
+            "label": { "en": [ "Creation Year"]},
+            "value": { "en": [ "1918 CE"]}
         },
         {
-            "label": { "en": ["Title"]},
-            "value": { "en": ["Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18"]}
+            "label": { "en": [ "Title"]},
+            "value": { "en": [ "Fight World Famine enroll in The Boys' Working Reserve"]}
         }
     ],
     "viewingDirection": "left-to-right",
     "items": [
         {
-            "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json/1",
+            "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json/1",
             "type": "Canvas",
-            "width": 6884,
-            "height": 9558,
-            "label": { "en": ["Industrial Division: Help Uncle Sam's Boys, Give your days' pay, November 11 to 18"]},
+            "width": 3041,
+            "height": 4470,
+            "label": { "en": ["Fight World Famine enroll in The Boys' Working Reserve"]},
             "items": [
                 {
-                    "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json/1/1",
+                    "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json/1/1/1",
+                            "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json/1/1/1",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": 
                                 {
-                                    "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif/full/max/0/default.jpg",
+                                    "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif/full/max/0/default.jpg",
                                     "type": "Image",
                                     "format": "image/jpeg",
-                                    "width": 6884,
-                                    "height": 9558,
+                                    "width": 3041,
+                                    "height": 4470,
                                     "service": [
                                         {
                                             "type": "ImageService3",
-                                            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif",
+                                            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif",
                                             "profile": "level2"
                                         }
                                     ]
                                 },
-                            "target": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json/1"
+                            "target": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json/1"
                         }
                     ],
                     "thumbnail": [
                         {
-                            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif/full/!100,100/0/default.jpg",
+                            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif/full/!100,100/0/default.jpg",
                             "type": "Image",
                             "format": "image/jpeg",
                             "service": [
                                 {
-                                "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif",
+                                "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif",
                                 "type": "ImageService3",
                                 "profile": "level2"
                                 }
