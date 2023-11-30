@@ -23,7 +23,7 @@
           ],
           "logo": [
             {
-              "id": "https://iiif.library.vanderbilt.edu/iiif/3/vu_gallery_logo.png/full/!100,100/0/default.jpg",
+              "id": "https://iiif.library.vanderbilt.edu/iiif/3/vu_gallery_logo.png/full/!200,200/0/default.jpg",
               "type": "Image",
               "format": "image/png",
               "service": [
