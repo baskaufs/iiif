@@ -36,6 +36,20 @@
           ]
         }
       ],
+      "thumbnail": [
+        {
+            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif/full/!100,100/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif",
+                "type": "ImageService3",
+                "profile": "level2"
+                }
+            ]
+        }
+    ],
     "metadata": [
         {
             "label": { "en": [ "Artist"]},
@@ -87,20 +101,6 @@
                                     ]
                                 },
                             "target": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1230P.json/1"
-                        }
-                    ],
-                    "thumbnail": [
-                        {
-                            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif/full/!100,100/0/default.jpg",
-                            "type": "Image",
-                            "format": "image/jpeg",
-                            "service": [
-                                {
-                                "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1230_LARGE.tif",
-                                "type": "ImageService3",
-                                "profile": "level2"
-                                }
-                            ]
                         }
                     ]
                 }

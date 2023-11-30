@@ -54,6 +54,20 @@
             "value": { "en": [ "Fight World Famine enroll in The Boys' Working Reserve"]}
         }
     ],
+    "thumbnail": [
+        {
+            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif/full/!100,100/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif",
+                "type": "ImageService3",
+                "profile": "level2"
+                }
+            ]
+        }
+    ],
     "viewingDirection": "left-to-right",
     "items": [
         {
@@ -87,20 +101,6 @@
                                     ]
                                 },
                             "target": "https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.1225P.json/1"
-                        }
-                    ],
-                    "thumbnail": [
-                        {
-                            "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif/full/!100,100/0/default.jpg",
-                            "type": "Image",
-                            "format": "image/jpeg",
-                            "service": [
-                                {
-                                "id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1979%2F1979.1225P.tif",
-                                "type": "ImageService3",
-                                "profile": "level2"
-                                }
-                            ]
                         }
                     ]
                 }
