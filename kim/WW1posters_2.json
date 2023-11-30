@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif-manifest.library.vanderbilt.edu/gallery/collection/ww_i.json",
+    "id": "https://baskaufs.github.io/iiif/kim/WW1posters_2.json",
     "type": "Collection",
     "label": { "en": ["World War I Propaganda Posters"]},
     "summary": { "en": ["A collection of prints by unknown artists in 1918."]},
@@ -8,7 +8,6 @@
         "label": { "en": ["Attribution"]},
         "value": { "en": ["Provided by Vanderbilt University Fine Arts Gallery"]}
     },
-    "logo": "https://iiif.library.vanderbilt.edu/iiif/2/vu_gallery_logo.png/full/!100,100/0/default.jpg",
     "items": [
         { "id": "https://baskaufs.github.io/iiif/kim/1979.1225P.json",
           "type": "Manifest",
